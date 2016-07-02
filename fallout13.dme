@@ -21,6 +21,8 @@
 #define FILE_DIR "icons/mecha"
 #define FILE_DIR "icons/misc"
 #define FILE_DIR "icons/mob"
+#define FILE_DIR "icons/mob/deathclaw"
+#define FILE_DIR "icons/mob/deathclaw/deathclaw_gib"
 #define FILE_DIR "icons/mob/inhands"
 #define FILE_DIR "icons/mob/large-worn-icons"
 #define FILE_DIR "icons/mob/large-worn-icons/64x64"

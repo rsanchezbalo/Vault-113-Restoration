@@ -1,11 +1,19 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1459805583
-DIR: code code\controllers code\controllers\subsystem code\game code\game\jobs code\game\jobs\job code\game\objects code\game\objects\effects\decals code\game\objects\items code\game\objects\items\weapons\implants code\game\turfs code\game\turfs\simulated icons icons\mob 
+LAST_COMPILE_TIME: 1467492394
+PACKAGE_RSC_NAME: C:\Users\mozgg\Desktop\Vault-113-Restoration\fallout13_rsc.zip
+DIR: _maps code code\__HELPERS code\__HELPERS\bygex code\controllers\subsystem code\datums code\game\jobs code\game\jobs\job code\game\objects code\game\objects\effects\decals code\game\objects\items code\modules code\modules\admin icons icons\obj icons\obj\clothing 
 AUTO_FILE_DIR: ON
+PACKAGE_DMB_INFO: 
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 508.1299
-WINDOW: icons\mob\animal.dmi
-FILE: icons\mob\animal.dmi
+PACKAGE_DME_NAME: C:\Users\mozgg\Desktop\Vault-113-Restoration\fallout13_src.zip
+LAST_COMPILE_VERSION: 510.1320
+PACKAGE_DME_START: 
+PACKAGE_TYPE: 0
+WINDOW: icons\obj\clothing\suit_f.dmi;icons\obj\clothing\suits.dmi
+PACKAGE_DME_INFO: 
+FILE: icons\obj\clothing\suits.dmi
+PACKAGE_DME_DEMO: 
+PACKAGE_DMB_NAME: C:\Users\mozgg\Desktop\Vault-113-Restoration\fallout13.zip
 */
 // END_INTERNALS
