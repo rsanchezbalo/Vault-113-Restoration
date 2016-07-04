@@ -23,6 +23,26 @@
 	mag_type = /obj/item/ammo_box/magazine/m45
 	can_suppress = 0
 
+// 10-mm pistol
+/obj/item/weapon/gun/projectile/automatic/pistol/n99
+	name = "10-mm pistol"
+	desc = "Self-loading pistol Colt 6520 10mm. After each shot, the weapon recharges long until the end of the store."
+	icon_state = "n99"
+	w_class = 3
+	force = 13
+	origin_tech = "combat=2;materials=2"
+	mag_type = /obj/item/ammo_box/magazine/m10mm_adv
+	fire_sound = 'sound/f13weapons/10mm_fire_02.ogg'
+	can_suppress = 1
+	burst_size = 1
+	fire_delay = 0
+	action_button_name = null
+
+/obj/item/weapon/gun/projectile/automatic/pistol/update_icon()
+	..()
+	icon_state = "[initial(icon_state)][chambered ? "" : "-e"][suppressed ? "-suppressed" : ""]"
+	return
+
 /obj/item/weapon/gun/projectile/automatic/pistol/deagle
 	name = "desert eagle"
 	desc = "A robust .50 AE handgun."

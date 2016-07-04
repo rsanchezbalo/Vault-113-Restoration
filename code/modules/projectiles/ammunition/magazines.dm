@@ -98,7 +98,7 @@
 /obj/item/ammo_box/magazine/internal/shot/dual
 	name = "double-barrel shotgun internal magazine"
 	max_ammo = 2
-	
+
 /obj/item/ammo_box/magazine/internal/shot/mad
 	name = "mad sawn-off internal magazine"
 	ammo_type = /obj/item/ammo_casing/shotgun/buckshot
@@ -164,6 +164,24 @@
 	ammo_type = /obj/item/ammo_casing/c10mm
 	caliber = "10mm"
 	max_ammo = 8
+	multiple_sprites = 2
+
+/obj/item/ammo_box/magazine/m10mm_adv
+	name = "pistol magazine (10mm) advanced"
+	icon_state = "9x19p"
+	origin_tech = "combat=3"
+	ammo_type = /obj/item/ammo_casing/c10mm
+	caliber = "10mm"
+	max_ammo = 12
+	multiple_sprites = 2
+
+/obj/item/ammo_box/magazine/m10mm_auto
+	name = "smg magazine (10mm)"
+	icon_state = "smg9mm"
+	origin_tech = "combat=3"
+	ammo_type = /obj/item/ammo_casing/c10mm
+	caliber = "10mm"
+	max_ammo = 24
 	multiple_sprites = 2
 
 /obj/item/ammo_box/magazine/m45

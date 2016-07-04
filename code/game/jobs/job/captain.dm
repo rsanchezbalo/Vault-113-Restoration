@@ -32,13 +32,14 @@ Captain
 	ears = /obj/item/device/radio/headset/heads/captain/alt
 	//gloves = /obj/item/clothing/gloves/color/captain
 	uniform = /obj/item/clothing/under/f13/vault/v13
-	suit = /obj/item/clothing/suit/armor/vest/capcarapace
+	//suit = /obj/item/clothing/suit/armor/vest/capcarapace
 	shoes = /obj/item/clothing/shoes/sneakers/brown
-	head = /obj/item/clothing/head/caphat
-	backpack_contents = list(/obj/item/weapon/melee/classic_baton/telescopic=1)
+	//head = /obj/item/clothing/head/caphat
+	backpack_contents = list(/obj/item/weapon/storage/box/ids=1,\
+		/obj/item/weapon/melee/classic_baton/telescopic=1)
 
-	backpack = /obj/item/weapon/storage/backpack/captain
-	satchel = /obj/item/weapon/storage/backpack/satchel_cap
+	//backpack = /obj/item/weapon/storage/backpack/captain
+	//satchel = /obj/item/weapon/storage/backpack/satchel_cap
 
 /datum/outfit/job/captain/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
 	..()
@@ -96,7 +97,7 @@ Head of Personnel
 	ears = /obj/item/device/radio/headset/heads/hop
 	uniform = /obj/item/clothing/under/f13/vault/v13
 	shoes = /obj/item/clothing/shoes/sneakers/brown
-	head = /obj/item/clothing/head/hopcap
+	//head = /obj/item/clothing/head/hopcap
 	backpack_contents = list(/obj/item/weapon/storage/box/ids=1,\
 		/obj/item/weapon/melee/classic_baton/telescopic=1)
 

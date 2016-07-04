@@ -236,6 +236,19 @@
 	burst_size = 3
 	fire_delay = 1
 
+/obj/item/weapon/gun/projectile/automatic/smg10mm
+	name = "10-mm submachine gun"
+	desc = "Submachine gun H&K MP9 (10-mm caliber variant). The average sub-machine gun, can operate in both single and automatic fire."
+	icon_state = "smg10mm"
+	item_state = "smg10mm"
+	slot_flags = 0
+	origin_tech = "combat=3;materials=2"
+	mag_type = /obj/item/ammo_box/magazine/m10mm_auto
+	fire_sound = 'sound/f13weapons/10mm_fire_03.ogg'
+	can_suppress = 0
+	burst_size = 3
+ 	//fire_delay = 1
+
 /obj/item/weapon/gun/projectile/automatic/assault_rifle
 	name = "Assault Rifle"
 	desc = "An Assault Rifle. An old military model, out of use around the time of the war."

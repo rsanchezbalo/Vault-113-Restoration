@@ -34,7 +34,7 @@
 
 /obj/structure/closet/secure_closet/hop/New()
 	..()
-	new /obj/item/clothing/under/rank/head_of_personnel(src)
+	//new /obj/item/clothing/under/rank/head_of_personnel(src)
 	new /obj/item/clothing/head/hopcap(src)
 	new /obj/item/weapon/cartridge/hop(src)
 	new /obj/item/device/radio/headset/heads/hop(src)
@@ -42,13 +42,13 @@
 	new /obj/item/weapon/storage/box/ids(src)
 	new /obj/item/weapon/storage/box/ids(src)
 	new /obj/item/device/megaphone/command(src)
-	new /obj/item/clothing/suit/armor/vest(src)
-	new /obj/item/device/assembly/flash/handheld(src)
+	//new /obj/item/clothing/suit/armor/vest(src)
+	//new /obj/item/device/assembly/flash/handheld(src)
 	new /obj/item/clothing/glasses/sunglasses(src)
-	new /obj/item/weapon/mining_voucher(src)
-	new /obj/item/weapon/restraints/handcuffs/cable/zipties(src)
-	new /obj/item/weapon/gun/energy/gun(src)
-	new /obj/item/clothing/tie/petcollar(src)
+	//new /obj/item/weapon/mining_voucher(src)
+	//new /obj/item/weapon/restraints/handcuffs/cable/zipties(src)
+	new /obj/item/weapon/gun/projectile/automatic/pistol/n99
+	//new /obj/item/clothing/tie/petcollar(src)
 
 /obj/structure/closet/secure_closet/hos
 	name = "\proper head of security's locker"
@@ -60,23 +60,24 @@
 	new /obj/item/clothing/suit/cloak/hos(src)
 	new /obj/item/weapon/cartridge/hos(src)
 	new /obj/item/device/radio/headset/heads/hos(src)
-	new /obj/item/clothing/under/female/hosparadefem(src)
-	new /obj/item/clothing/under/hosparademale(src)
-	new /obj/item/clothing/suit/armor/vest/leather(src)
-	new /obj/item/clothing/suit/armor/hos(src)
-	new /obj/item/clothing/under/rank/head_of_security/alt(src)
-	new /obj/item/clothing/head/HoS(src)
+	//new /obj/item/clothing/under/female/hosparadefem(src)
+	//new /obj/item/clothing/under/hosparademale(src)
+	//new /obj/item/clothing/suit/armor/vest/leather(src)
+	//new /obj/item/clothing/suit/armor/hos(src)
+	//new /obj/item/clothing/under/rank/head_of_security/alt(src)
+	//new /obj/item/clothing/head/HoS(src)
 	new /obj/item/clothing/glasses/hud/security/sunglasses/eyepatch(src)
-	new /obj/item/clothing/glasses/hud/security/sunglasses/gars/supergars(src)
+	//new /obj/item/clothing/glasses/hud/security/sunglasses/gars/supergars(src)
 	new /obj/item/weapon/storage/lockbox/loyalty(src)
 	new /obj/item/weapon/storage/box/flashbangs(src)
 	new /obj/item/device/megaphone/sec(src)
-	new /obj/item/tapeproj/security(src)
-	new /obj/item/clothing/mask/gas/sechailer/swat(src)
-	new /obj/item/weapon/shield/riot/tele(src)
-	new /obj/item/weapon/melee/baton/loaded(src)
+	//new /obj/item/tapeproj/security(src)
+	//new /obj/item/clothing/mask/gas/sechailer/swat(src)
+	//new /obj/item/weapon/shield/riot/tele(src)
+	//new /obj/item/weapon/melee/baton/loaded(src)
 	new /obj/item/weapon/storage/belt/security/full(src)
-	new /obj/item/weapon/gun/energy/gun/hos(src)
+	new /obj/item/weapon/gun/projectile/automatic/pistol/n99
+	new /obj/item/clothing/mask/gas/sechailer(src)
 
 /obj/structure/closet/secure_closet/warden
 	name = "\proper warden's locker"
@@ -90,15 +91,16 @@
 	new /obj/item/clothing/head/warden(src)
 	new /obj/item/clothing/head/beret/sec/navywarden(src)
 	new /obj/item/clothing/suit/armor/vest/warden/alt(src)
-	new /obj/item/clothing/under/rank/warden/navyblue(src)
-	new /obj/item/clothing/glasses/hud/security/sunglasses(src)
+	//new /obj/item/clothing/under/rank/warden/navyblue(src)
+	//new /obj/item/clothing/glasses/hud/security/sunglasses(src)
 	new /obj/item/clothing/mask/gas/sechailer(src)
 	new /obj/item/weapon/storage/box/flashbangs(src)
 	new /obj/item/weapon/storage/box/zipties(src)
 	new /obj/item/tapeproj/security(src)
 	new /obj/item/weapon/reagent_containers/spray/pepper(src)
-	new /obj/item/weapon/melee/baton/loaded(src)
+	//new /obj/item/weapon/melee/baton/loaded(src)
 	new /obj/item/weapon/storage/belt/security/full(src)
+	new /obj/item/weapon/gun/projectile/automatic/pistol/n99
 
 /obj/structure/closet/secure_closet/security
 	name = "security officer's locker"
@@ -109,19 +111,20 @@
 	..()
 	new /obj/item/clothing/suit/armor/vest(src)
 	new /obj/item/device/radio/headset/headset_sec(src)
-	new /obj/item/device/radio/headset/headset_sec/alt(src)
+	//new /obj/item/device/radio/headset/headset_sec/alt(src)
 	new /obj/item/weapon/reagent_containers/spray/pepper(src)
 	new /obj/item/device/assembly/flash/handheld(src)
 	new /obj/item/weapon/grenade/flashbang(src)
 	new /obj/item/weapon/storage/belt/security/full(src)
 	new /obj/item/clothing/glasses/hud/security/sunglasses(src)
-	new /obj/item/clothing/head/helmet/sec(src)
+	//new /obj/item/clothing/head/helmet/sec(src)
+	new /obj/item/weapon/gun/projectile/automatic/pistol/n99
 
 /obj/structure/closet/secure_closet/security/sec
 
-/obj/structure/closet/secure_closet/security/sec/New()
-	..()
-	new /obj/item/weapon/melee/baton/loaded(src)
+///obj/structure/closet/secure_closet/security/sec/New()
+//	..()
+//	new /obj/item/weapon/melee/baton/loaded(src)
 
 /obj/structure/closet/secure_closet/security/cargo
 
