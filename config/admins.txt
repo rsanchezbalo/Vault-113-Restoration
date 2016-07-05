@@ -9,4 +9,4 @@
 
 BEFORE ADDING ADMINS TO FALLOUT 13 READ ADMIN_RANKS.TXT
 ###############################################################################################
-a3lex33 = Elder
+pahomlancer = Elder
