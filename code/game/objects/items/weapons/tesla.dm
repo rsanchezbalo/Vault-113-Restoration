@@ -58,7 +58,7 @@
 		user << "\red You can't shoot while charging!"
 		return
 
-	icon_state = "tesla100"
+	icon_state = "tesla"
 	spawn(1)		user.Beam(pbtarget,icon_state="lightning",icon='icons/effects/effects.dmi',time=5)
 	Bolt(user,pbtarget,user,charge)
 	charge=0
