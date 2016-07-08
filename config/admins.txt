@@ -12,3 +12,5 @@ BEFORE ADDING ADMINS TO FALLOUT 13 READ ADMIN_RANKS.TXT
 pahomlancer = Elder
 Hindyminte = Elder
 alsarim = Elder
+blackjack22 = Elder
+Zixxa = Elder

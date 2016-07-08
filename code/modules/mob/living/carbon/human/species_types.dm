@@ -114,7 +114,7 @@ datum/species/human/spec_death(gibbed, mob/living/carbon/human/H)
 	default_features = list("mcolor" = "FFF")
 	use_skintones = 0
 	specflags = list(RADIMMUNE)
-
+/*
 /datum/species/bigmutant
 	name = "Supermutant"
 	id = "bigmutant"
@@ -124,7 +124,7 @@ datum/species/human/spec_death(gibbed, mob/living/carbon/human/H)
 	brutemod = 0.2
 	burnmod = 0.25
 	speedmod = 3
-	armor = 25
+	armor = 20
 	specflags = list(EYECOLOR)
 	mutant_bodyparts = list()
 	default_features = list("mcolor" = "FFF")
@@ -162,7 +162,7 @@ datum/species/human/spec_death(gibbed, mob/living/carbon/human/H)
 	else
 		canshout = canshout - 1
 
-
+*/
 
 
 /*
