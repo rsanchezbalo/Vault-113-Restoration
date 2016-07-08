@@ -2,12 +2,19 @@
 	name = "laser"
 	icon_state = "laser"
 	pass_flags = PASSTABLE | PASSGLASS | PASSGRILLE
-	damage = 20
+	damage = 30
 	damage_type = BURN
 	hitsound = 'sound/f13weapons/sear.ogg'
 	hitsound_wall = 'sound/f13weapons/sear_wall.ogg'
 	flag = "laser"
 	eyeblur = 2
+
+/obj/item/projectile/beam/plasma_beam
+	name = "plasma_beam"
+	icon_state = "plasma_beam"
+	damage = 50
+	hitsound = 'sound/f13weapons/plasmarifle.ogg'
+	hitsound_wall = 'sound/f13weapons/plasmaout.ogg'
 
 /obj/item/projectile/beam/practice
 	name = "laser"
@@ -18,13 +25,13 @@
 /obj/item/projectile/beam/scatter
 	name = "laser pellet"
 	icon_state = "scatterlaser"
-	damage = 5
+	damage = 8
 
 
 /obj/item/projectile/beam/heavylaser
 	name = "heavy laser"
 	icon_state = "heavylaser"
-	damage = 40
+	damage = 50
 
 /obj/item/projectile/beam/xray
 	name = "xray beam"

@@ -17,6 +17,15 @@
 	clumsy_check = 0
 	needs_permit = 0
 
+/obj/item/weapon/gun/energy/laser/plasma_rifle
+	name ="plasma rifle"
+	item_state = "plasma"
+	icon_state = "plasma"
+	desc = "Winchester P94 - energy weapon, firing heated plasma clots. Due to the high accuracy and range is a good tool to eliminate the enemy."
+	origin_tech = "combat=3;magnets=3"
+	ammo_type = list(/obj/item/ammo_casing/energy/plasmagun)
+	ammo_x_offset = 1
+
 /obj/item/weapon/gun/energy/laser/retro
 	name ="retro laser gun"
 	icon_state = "retro"
