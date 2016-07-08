@@ -24,32 +24,25 @@ Scavenger
 
 /datum/outfit/job/scavenger/pre_equip(mob/living/carbon/human/H)
 	..()
-	uniform = pick(/obj/item/clothing/under/pj/red,\
-		/obj/item/clothing/under/pj/blue,\
-		/obj/item/clothing/under/waiter,\
-		/obj/item/clothing/under/f13/settler,\
-		/obj/item/clothing/under/f13/doctor,\
-		/obj/item/clothing/under/f13/brahmin,\
-		/obj/item/clothing/under/f13/mercadv,\
+	uniform = pick(/obj/item/clothing/under/f13/brahmin,\
+		/obj/item/clothing/under/f13/relaxedwearm,\
 		/obj/item/clothing/under/f13/springm,\
 		/obj/item/clothing/under/f13/caravaneer,\
 		/obj/item/clothing/under/f13/roving)
+	head = pick(/obj/item/clothing/head/hardhat,\
+		/obj/item/clothing/head/welding)
 	if (prob(50))
 		glasses = /obj/item/clothing/glasses/sunglasses
 	if (prob(80))
 		l_hand = pick(/obj/item/weapon/kitchen/knife,\
-			/obj/item/weapon/storage/toolbox/mechanical,\
-			/obj/item/weapon/storage/firstaid/brute,\
-			/obj/item/weapon/gun/projectile/shotgun,\
-			/obj/item/weapon/melee/classic_baton)
+			/obj/item/weapon/storage/toolbox/mechanical)
 
 
 	if (prob(100))
 		back = /obj/item/weapon/storage/backpack
 		backpack = /obj/item/weapon/storage/backpack
 		satchel = /obj/item/weapon/storage/backpack/satchel_norm
-		backpack_contents = pick(list(/obj/item/weapon/melee/classic_baton/telescopic=1), \
-			list(/obj/item/ammo_casing/shotgun/buckshot = 4), \
-			list(/obj/item/weapon/reagent_containers/food/drinks/nukacola = 3), \
-			list(/obj/item/weapon/storage/firstaid/brute), \
+		backpack_contents = pick(list(/obj/item/weapon/reagent_containers/food/drinks/nukacola = 2),\
+			list(/obj/item/weapon/reagent_containers/food/snacks/beans = 2),\
 			list(/obj/item/weapon/reagent_containers/syringe/stimulants))
+

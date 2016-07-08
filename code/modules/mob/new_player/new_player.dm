@@ -353,7 +353,7 @@
 
 	for(var/datum/job/job in SSjob.desert_occupations)
 		dat += "<a class='otherPosition' href='byond://?src=\ref[src];SelectedJob=[job.title]'>[job.title] ([job.current_positions])</a><br>"
-		break
+		//break
 
 	dat += "</div></div>"
 

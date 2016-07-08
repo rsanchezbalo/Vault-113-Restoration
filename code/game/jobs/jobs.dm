@@ -42,7 +42,10 @@ var/const/CLOWN				=(1<<11)
 var/const/MIME				=(1<<12)
 var/const/ASSISTANT			=(1<<13)
 var/const/SCAVENGER         =(1<<14)
-
+var/const/REGULATOR         =(1<<15)
+var/const/SETTLER         	=(1<<16)
+var/const/WASTELANDMEDIC	=(1<<17)
+var/const/RAIDER        	=(1<<18)
 
 var/list/assistant_occupations = list(
 	"Assistant",
@@ -51,6 +54,10 @@ var/list/assistant_occupations = list(
 	"Chaplain",
 	"Lawyer",
 	"Librarian",
+	"Regulator",
+	"Settler",
+	"Wastelandmedic",
+	"Raider",
 	"Scavenger"
 )
 
