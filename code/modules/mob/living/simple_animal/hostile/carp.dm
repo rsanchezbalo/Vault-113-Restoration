@@ -14,12 +14,12 @@
 	emote_taunt = list("gnashes")
 	taunt_chance = 30
 	speed = 0
-	maxHealth = 50
-	health = 50
+	maxHealth = 120
+	health = 120
 
 	harm_intent_damage = 10
-	melee_damage_lower = 15
-	melee_damage_upper = 15
+	melee_damage_lower = 20
+	melee_damage_upper = 20
 	attacktext = "stings"
 	attack_sound = 'sound/weapons/bite.ogg'
 	speak_emote = list("gnashes")
