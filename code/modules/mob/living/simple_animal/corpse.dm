@@ -152,12 +152,12 @@
 	corpseuniform = /obj/item/clothing/under/f13/merccharm
 	corpseshoes = /obj/item/clothing/shoes/jackboots
 	corpsesuit = /obj/item/clothing/suit/armor/f13/bmetalarmor
+	corpsehelmet = /obj/item/clothing/head/helmet/knight/fluff/metal
 
 /obj/effect/landmark/mobcorpse/russian/ranged
 	corpseuniform = /obj/item/clothing/under/f13/mercadv
 	corpsesuit = /obj/item/clothing/suit/armor/f13/supafly
 	corpsehelmet = /obj/item/clothing/head/helmet/f13/supaflyhelmet
-
 /obj/effect/landmark/mobcorpse/wizard
 	name = "Space Wizard"
 	corpseuniform = /obj/item/clothing/under/color/lightpurple

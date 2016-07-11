@@ -12,10 +12,10 @@
 		contents += LSA.contents
 	return contents
 
-
 // ===
 /area
 	var/global/global_uid = 0
+	var/radiation = 0
 	var/uid
 	var/list/ambientsounds = list('sound/ambience/ambigen1.ogg','sound/ambience/ambigen2.ogg',\
 									'sound/ambience/ambigen3.ogg','sound/ambience/ambigen4.ogg',\
@@ -325,6 +325,8 @@
 	if(!istype(A,/mob/living))	return
 
 	var/mob/living/L = A
+	if(radiation)
+		L.rad_act(radiation)
 	if(!L.ckey)	return
 
 	// Ambience goes down here -- make sure to list each area seperately for ease of adding things in later, thanks! Note: areas adjacent to each other should have the same sounds to prevent cutoff when possible.- LastyScratch
@@ -357,6 +359,8 @@
 		if(T && gravity_generators["[T.z]"] && length(gravity_generators["[T.z]"]))
 			return 1
 	return 0
+
+
 /*
 /area/proc/clear_docking_area()
 	var/list/dstturfs = list()

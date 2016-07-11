@@ -35,3 +35,18 @@
 		apply_effect(amount, IRRADIATE, blocked)
 		for(var/obj/I in src) //Radiation is also applied to items held by the mob
 			I.rad_act(amount)
+
+/area/space/highradiation
+	name = "High Radiation Field"
+	icon_state = "rads"
+	radiation = 150
+
+/area/space/middleradiation
+	name = "Medium Radiation Field"
+	icon_state = "rads"
+	radiation = 100
+
+/area/space/lowradiation
+	name = "Low Radiation Field"
+	icon_state = "rads"
+	radiation = 50

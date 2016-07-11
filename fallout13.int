@@ -1,7 +1,7 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1468242616
-DIR: _maps _maps\map_files _maps\map_files\generic _maps\map_files\TgStation _maps\map_files\TgStation\backup code code\game code\game\gamemodes code\game\gamemodes\blob code\game\gamemodes\changeling code\game\gamemodes\handofgod code\game\machinery icons icons\turf 
+LAST_COMPILE_TIME: 1468277392
+DIR: _maps _maps\map_files _maps\map_files\generic _maps\map_files\TgStation _maps\map_files\TgStation\backup code code\game code\game\jobs code\game\jobs\job code\game\objects code\modules code\modules\awaymissions code\modules\clothing code\modules\clothing\head code\modules\clothing\suits code\modules\events code\modules\food&drinks code\modules\food&drinks\drinks code\modules\food&drinks\drinks\drinks code\modules\food&drinks\recipes code\modules\mob code\modules\mob\living code\modules\mob\living\simple_animal icons icons\turf 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 509.1300
