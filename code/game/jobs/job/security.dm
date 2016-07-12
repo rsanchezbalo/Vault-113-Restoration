@@ -7,6 +7,7 @@
 /*
 Head of Security
 */
+/*
 /datum/job/hos
 	title = "Head of Security"
 	flag = HOS
@@ -62,6 +63,7 @@ Head of Security
 	H.sec_hud_set_implants()
 
 	announce_head(H, list("Security")) //tell underlings (security radio) they have a head
+	*/
 /*
 Warden
 */
@@ -166,7 +168,6 @@ Detective
 	L.imp_in = H
 	L.implanted = 1
 	H.sec_hud_set_implants()
-
 /*
 Security Officer
 */

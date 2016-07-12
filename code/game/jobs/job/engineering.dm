@@ -1,6 +1,7 @@
 /*
 Chief Engineer
 */
+/*
 /datum/job/chief_engineer
 	title = "Chief Engineer"
 	flag = CHIEF
@@ -49,7 +50,7 @@ Chief Engineer
 		return
 
 	announce_head(H, list("Engineering"))
-
+*/
 /*
 Station Engineer
 */
@@ -89,6 +90,7 @@ Station Engineer
 /*
 Atmospheric Technician
 */
+/*
 /datum/job/atmos
 	title = "Atmospheric Technician"
 	flag = ATMOSTECH
@@ -117,3 +119,4 @@ Atmospheric Technician
 
 	box = /obj/item/weapon/storage/box/engineer
 	pda_slot = slot_l_store
+	*/

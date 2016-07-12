@@ -1,6 +1,7 @@
 /*
 Chief Medical Officer
 */
+/*
 /datum/job/cmo
 	title = "Chief Medical Officer"
 	flag = CMO
@@ -46,7 +47,7 @@ Chief Medical Officer
 		return
 
 	announce_head(H, list("Medical")) //tell underlings (medical radio) they have a head
-
+*/
 /*
 Medical Doctor
 */
@@ -112,6 +113,7 @@ Chemist
 /*
 Geneticist
 */
+/*
 /datum/job/geneticist
 	title = "Geneticist"
 	flag = GENETICIST
@@ -137,10 +139,12 @@ Geneticist
 	shoes = /obj/item/clothing/shoes/sneakers/white
 	suit =  /obj/item/clothing/suit/toggle/labcoat/genetics
 	suit_store =  /obj/item/device/flashlight/pen
+*/
 
 /*
 Virologist
 */
+/*
 /datum/job/virologist
 	title = "Virologist"
 	flag = VIROLOGIST
@@ -170,3 +174,4 @@ Virologist
 
 	backpack = /obj/item/weapon/storage/backpack/medic
 	satchel = /obj/item/weapon/storage/backpack/satchel_med
+	*/

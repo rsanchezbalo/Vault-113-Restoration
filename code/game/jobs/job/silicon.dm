@@ -1,6 +1,7 @@
 /*
 AI
 */
+
 /datum/job/ai
 	title = "AI"
 	flag = AI

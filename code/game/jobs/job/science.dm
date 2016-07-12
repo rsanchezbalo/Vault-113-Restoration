@@ -1,6 +1,7 @@
 /*
 Research Director
 */
+/*
 /datum/job/rd
 	title = "Research Director"
 	flag = RD
@@ -47,7 +48,7 @@ Research Director
 		return
 
 	announce_head(H, list("Science")) //tell underlings (science radio) they have a head
-
+*/
 /*
 Scientist
 */

@@ -2,6 +2,7 @@
 /*
 Chaplain
 */
+/*
 /datum/job/chaplain
 	title = "Chaplain"
 	flag = CHAPLAIN
@@ -75,3 +76,4 @@ Chaplain
 		ticker.Bible_deity_name = B.deity_name
 	feedback_set_details("religion_deity","[new_deity]")
 	H.equip_to_slot_or_del(B, slot_in_backpack)
+	*/

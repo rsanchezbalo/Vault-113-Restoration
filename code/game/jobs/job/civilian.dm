@@ -1,6 +1,7 @@
 /*
 Clown
 */
+/*
 /datum/job/clown
 	title = "Clown"
 	flag = CLOWN
@@ -49,10 +50,11 @@ Clown
 
 	H.dna.add_mutation(CLOWNMUT)
 	H.rename_self("clown")
-
+*/
 /*
 Mime
 */
+/*
 /datum/job/mime
 	title = "Mime"
 	flag = MIME
@@ -96,10 +98,11 @@ Mime
 		H.mind.miming = 1
 
 	H.rename_self("mime")
-
+*/
 /*
 Librarian
 */
+/*
 /datum/job/librarian
 	title = "Librarian"
 	flag = LIBRARIAN
@@ -124,10 +127,11 @@ Librarian
 	l_hand = /obj/item/weapon/storage/bag/books
 	r_pocket = /obj/item/weapon/barcodescanner
 	l_pocket = /obj/item/device/laser_pointer
-
+*/
 /*
 Lawyer
 */
+/*
 /datum/job/lawyer
 	title = "Lawyer"
 	flag = LAWYER
@@ -167,3 +171,4 @@ Lawyer
 	if(J.lawyers>1)
 		uniform = /obj/item/clothing/under/f13/vault/v13
 		suit = /obj/item/clothing/suit/toggle/lawyer/purple
+		*/

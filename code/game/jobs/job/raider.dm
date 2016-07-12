@@ -32,8 +32,7 @@ Raider
 		/obj/item/clothing/suit/armor/f13/yankee)
 	head = /obj/item/clothing/head/helmet/f13/supaflyhelmet
 	suit_store = /obj/item/weapon/gun/projectile/revolver/doublebarrel/improvised
-	backpack_contents = list(/obj/item/weapon/melee/classic_baton/telescopic=1,\
-		/obj/item/weapon/restraints/handcuffs=1)
+	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1)
 	back = /obj/item/weapon/storage/backpack
 	backpack = /obj/item/weapon/storage/backpack
 	satchel = /obj/item/weapon/storage/backpack/satchel_norm
