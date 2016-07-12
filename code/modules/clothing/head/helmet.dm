@@ -178,7 +178,7 @@
 	desc = "A classic metal helmet."
 	icon_state = "knight_green"
 	item_state = "knight_green"
-	armor = list(melee = 41, bullet = 15, laser = 5,energy = 5, bomb = 5, bio = 2, rad = 0)
+	armor = list(melee = 31, bullet = 10, laser = 10,energy = 5, bomb = 5, bio = 2, rad = 0)
 	flags = BLOCKHAIR
 	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 	flags_cover = HEADCOVERSEYES | HEADCOVERSMOUTH
@@ -230,7 +230,7 @@
 	icon_state = "brokenhelmet"
 	item_state = "brokenhelmet"
 	flags = HEADCOVERSEYES | HEADCOVERSMOUTH | BLOCKHAIR
-	armor = list(melee = 30, bullet = 10, laser = 5,energy = 5, bomb = 5, bio = 0, rad = 10)
+	armor = list(melee = 30, bullet = 25, laser = 5,energy = 5, bomb = 5, bio = 0, rad = 10)
 	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 
 /obj/item/clothing/head/helmet/f13/yankee
@@ -248,7 +248,7 @@
 	icon_state = "eyebot"
 	item_state = "eyebot"
 	flags = HEADCOVERSEYES | HEADCOVERSMOUTH | BLOCKHAIR
-	armor = list(melee = 70, bullet = 30, laser = 25,energy = 25, bomb = 10, bio = 0, rad = 0)
+	armor = list(melee = 50, bullet = 10, laser = 15,energy = 15, bomb = 10, bio = 0, rad = 0)
 	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 	put_on_delay = 10
 	strip_delay = 50

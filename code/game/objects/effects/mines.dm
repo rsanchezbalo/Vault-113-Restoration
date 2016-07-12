@@ -34,9 +34,9 @@
 /obj/effect/mine/explosive
 	name = "explosive mine"
 	var/range_devastation = 0
-	var/range_heavy = 1
-	var/range_light = 2
-	var/range_flash = 3
+	var/range_heavy = 2
+	var/range_light = 4
+	var/range_flash = 5
 
 /obj/effect/mine/explosive/mineEffect(mob/victim)
 	explosion(loc, range_devastation, range_heavy, range_light, range_flash)

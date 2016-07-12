@@ -338,7 +338,7 @@
 	icon_state = "metal_chestplate"
 	item_state = "metal_chestplate"
 	body_parts_covered = CHEST
-	armor = list(melee = 40, bullet = 10, laser = 5, energy = 5, bomb = 10, bio = 0, rad = 0)
+	armor = list(melee = 60, bullet = 40, laser = 30, energy = 15, bomb = 30, bio = 0, rad = 5)
 	slowdown = 0.5
 	put_on_delay = 30
 	strip_delay = 10
@@ -394,7 +394,7 @@
 	icon_state = "bmetalarmor"
 	item_state = "bmetalarmor"
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
-	armor = list(melee = 60, bullet = 40, laser = 20, energy = 20, bomb = 20, bio = 0, rad = 0)
+	armor = list(melee = 60, bullet = 35, laser = 20, energy = 20, bomb = 20, bio = 0, rad = 5)
 	slowdown = 1
 	flags_inv = HIDEJUMPSUIT
 	put_on_delay = 60
@@ -406,7 +406,7 @@
 	icon_state = "combat_armor"
 	item_state = "combat_armor"
 	body_parts_covered = CHEST|GROIN|LEGS|FEET
-	armor = list(melee = 50, bullet = 50, laser = 15, energy = 20, bomb = 20, bio = 0, rad = 0)
+	armor = list(melee = 50, bullet = 50, laser = 25, energy = 20, bomb = 20, bio = 0, rad = 0)
 	put_on_delay = 60
 	strip_delay = 60
 
