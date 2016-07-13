@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1468427168
-DIR: _maps _maps\map_files _maps\map_files\generic _maps\map_files\TgStation _maps\map_files\TgStation\backup code code\__HELPERS code\controllers\subsystem code\datums code\game code\game\gamemodes code\game\gamemodes\malfunction code\game\jobs code\game\jobs\job code\game\objects code\game\objects\effects code\game\objects\effects\decals code\modules\flufftext code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\living\simple_animal code\modules\mob\living\simple_animal\bot code\modules\mob\new_player data\minimaps icons icons\obj icons\turf sound sound\items sound\vox_fem tools\Redirector 
+LAST_COMPILE_TIME: 1468429605
+DIR: _maps _maps\map_files _maps\map_files\TgStation _maps\map_files\TgStation\backup icons icons\turf 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 509.1300
-WINDOW: icons\turf\floors.dmi;_maps\map_files\generic\z5.dmm;icons\turf\floors2.dmi;_maps\map_files\TgStation\tgstation.2.1.3.dmm;code\game\jobs\jobs.dm;_maps\map_files\TgStation\backup\tgstation.2.1.3.dmm
+WINDOW: icons\turf\floors.dmi;_maps\map_files\generic\z5.dmm;icons\turf\floors2.dmi;_maps\map_files\TgStation\tgstation.2.1.3.dmm;code\game\jobs\jobs.dm;icons\turf\Ritas.dmi;icons\turf\overlays.dmi
 FILE: _maps\map_files\TgStation\tgstation.2.1.3.dmm
 */
 // END_INTERNALS
