@@ -311,12 +311,12 @@ datum/proc/on_varedit(modified_var) //called whenever a var is edited
 	html += {"<style>
 body
 {
-	font-family: Verdana, sans-serif;
+	font-family: Arial, sans-serif;
 	font-size: 9pt;
 }
 .value
 {
-	font-family: "Courier New", monospace;
+	font-family: Arial, monospace;
 	font-size: 8pt;
 }
 </style>"}

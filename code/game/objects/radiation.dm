@@ -39,14 +39,19 @@
 /area/space/highradiation
 	name = "High Radiation Field"
 	icon_state = "rads"
-	radiation = 150
+	radiation = 100
 
 /area/space/middleradiation
 	name = "Medium Radiation Field"
 	icon_state = "rads"
-	radiation = 100
+	radiation = 70
 
 /area/space/lowradiation
 	name = "Low Radiation Field"
 	icon_state = "rads"
-	radiation = 50
+	radiation = 30
+
+/area/awaymission/rad
+	name ="Wasteland Rads"
+	icon_state = "rads"
+	radiation = 70

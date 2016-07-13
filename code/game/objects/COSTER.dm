@@ -1,4 +1,4 @@
-/*/obj/coster
+/obj/coster
 	name = "Campfire"
 	desc = "Burns your ass"
 	icon = 'icons/camp.dmi'
@@ -30,16 +30,16 @@
 	if(istype(P, /obj/item/stack/sheet/mineral/wood))
 		del(P)
 		update_icon(usr)
-		fuel+= 20
+		fuel+= 420
 		SetLuminosity(6)
 		icon_state = icon_on
 
-/obj/coster/campfire1
+/*&/obj/coster/campfire1
 	icon_state = "campfire_o"
 	luminosity = 6
 	anchored = 1
 	icon_on = "campfire_o"
-	icon_off = "campfire0"
+	icon_off = "campfire0"*/
 
 /obj/coster/bonefire
 	name = "BoneFire"
@@ -50,4 +50,3 @@
 	icon_on = "souls"
 	process()
 		return
-		*/

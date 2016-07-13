@@ -35,6 +35,14 @@
 			t = copytext(t, 1, index) + copytext(t, index+1)
 			index = findtext(t, char)
 	return t
+	/*
+proc/sanitize(text,html=0)
+       if (istext(text))
+               if (html)
+                       return replacetext(text, "ÿ", "&#1103;")
+               return replacetext(text, "ÿ", "&#255;")
+       return text
+       */
 
 //Removes a few problematic characters
 /proc/sanitize_simple(var/t,var/list/repl_chars = list("\n"="#","\t"="#","ÿ"="ß"))//cyka
@@ -44,6 +52,7 @@
 			t = copytext(t, 1, index) + repl_chars[char] + copytext(t, index+1)
 			index = findtext(t, char)
 	return t
+
 
 //Runs byond's sanitization proc along-side sanitize_simple
 /proc/sanitize(t,list/repl_chars = null)
