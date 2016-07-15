@@ -1,0 +1,1552 @@
+
+
+Starting up. 02:30.05
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+[02:30:05]ADMIN: Loading appearance_rank
+[02:30:05]ADMIN: appearance_keylist was empty
+[02:30:05]ADMIN: Loading Banlist
+[02:30:58]ACCESS: Login: PahomLancer/(PahomLancer) from 127.0.0.1-357177658 || BYOND v509
+[02:31:06]ADMIN: PahomLancer/(PahomLancer) toggled respawn to On.
+[02:32:55]ADMIN: PahomLancer has started the game.
+[02:32:59]GAME: SQL ERROR obtaining jobbans. Error : [not connected]
+
+[02:32:59]ACCESS: Logout: *no key*/(PahomLancer)
+[02:32:59]ACCESS: Login: PahomLancer/(Griffin Whiteman) from 127.0.0.1-357177658 || BYOND v509
+[02:33:02]SAY: Molerat/ : Squeek
+[02:33:02]SAY: Molerat/ : Squeek
+[02:33:02]SAY: Molerat/ : Squeek!
+[02:33:04]SAY: Molerat/ : Squeek!
+[02:33:04]SAY: Molerat/ : Squeek, i say
+[02:33:04]SAY: Molerat/ : Squeek!
+[02:33:04]SAY: Molerat/ : Squeek
+[02:33:04]SAY: Molerat/ : Squeek, i say
+[02:33:04]SAY: Molerat/ : Squeek, i say
+[02:33:04]SAY: Molerat/ : Squeek!
+[02:33:06]SAY: Molerat/ : Squeek
+[02:33:06]SAY: Molerat/ : Squeek
+[02:33:06]SAY: Molerat/ : Squeek
+[02:33:06]SAY: Molerat/ : Squeek, i say
+[02:33:06]SAY: Molerat/ : Squeek
+[02:33:06]SAY: Molerat/ : Squeek
+[02:33:06]SAY: Molerat/ : Squeek!
+[02:33:06]SAY: Molerat/ : Squeek
+[02:33:06]SAY: Molerat/ : Squeek!
+[02:33:08]SAY: Molerat/ : Squeek!
+[02:33:08]SAY: Molerat/ : Squeek!
+[02:33:08]SAY: Molerat/ : Squeek
+[02:33:08]SAY: Molerat/ : Squeek
+[02:33:08]SAY: Molerat/ : Squeek
+[02:33:08]SAY: Molerat/ : Squeek
+[02:33:10]SAY: Molerat/ : Squeek, i say
+[02:33:10]SAY: Molerat/ : Squeek!
+[02:33:10]SAY: Molerat/ : Squeek!
+[02:33:10]SAY: Molerat/ : Squeek
+[02:33:10]SAY: Molerat/ : Squeek
+[02:33:10]SAY: Molerat/ : Squeek
+[02:33:12]SAY: Molerat/ : Squeek!
+[02:33:12]SAY: Molerat/ : Squeek!
+[02:33:12]SAY: Molerat/ : Squeek
+[02:33:12]SAY: Molerat/ : Squeek, i say
+[02:33:12]SAY: Molerat/ : Squeek, i say
+[02:33:12]SAY: Molerat/ : Squeek
+[02:33:12]SAY: Molerat/ : Squeek
+[02:33:12]SAY: Molerat/ : Squeek, i say
+[02:33:14]SAY: Molerat/ : Squeek!
+[02:33:14]SAY: Molerat/ : Squeek
+[02:33:14]SAY: Molerat/ : Squeek!
+[02:33:14]SAY: Molerat/ : Squeek
+[02:33:14]SAY: Molerat/ : Squeek!
+[02:33:14]SAY: Mutant/ : GRRRRRR!
+[02:33:14]SAY: Molerat/ : Squeek
+[02:33:14]SAY: Molerat/ : Squeek!
+[02:33:14]SAY: Molerat/ : Squeek!
+[02:33:14]SAY: Molerat/ : Squeek
+[02:33:14]SAY: Molerat/ : Squeek
+[02:33:14]SAY: Molerat/ : Squeek
+[02:33:16]SAY: Molerat/ : Squeek!
+[02:33:16]SAY: Molerat/ : Squeek
+[02:33:16]SAY: Molerat/ : Squeek!
+[02:33:16]SAY: Molerat/ : Squeek, i say
+[02:33:16]SAY: Molerat/ : Squeek, i say
+[02:33:16]SAY: Molerat/ : Squeek
+[02:33:16]SAY: Molerat/ : Squeek
+[02:33:18]SAY: Molerat/ : Squeek, i say
+[02:33:18]SAY: Molerat/ : Squeek
+[02:33:18]SAY: Molerat/ : Squeek, i say
+[02:33:18]SAY: Molerat/ : Squeek!
+[02:33:18]SAY: Molerat/ : Squeek
+[02:33:18]SAY: Molerat/ : Squeek
+[02:33:18]SAY: Molerat/ : Squeek
+[02:33:18]SAY: Molerat/ : Squeek
+[02:33:20]SAY: Molerat/ : Squeek!
+[02:33:20]SAY: Molerat/ : Squeek!
+[02:33:20]SAY: Molerat/ : Squeek, i say
+[02:33:20]SAY: Molerat/ : Squeek!
+[02:33:20]SAY: Mutant/ : ARRRRR!
+[02:33:20]SAY: Molerat/ : Squeek
+[02:33:20]SAY: Molerat/ : Squeek
+[02:33:20]EMOTE: giant rad scorpion (428)/ : <B>The giant rad scorpion (428)</B> chitters
+[02:33:22]SAY: Molerat/ : Squeek
+[02:33:22]SAY: Molerat/ : Squeek!
+[02:33:22]SAY: Molerat/ : Squeek!
+[02:33:22]SAY: Molerat/ : Squeek!
+[02:33:22]SAY: Molerat/ : Squeek!
+[02:33:22]EMOTE: Default Cyborg-152/ : <B>Default Cyborg-152</B> shudders violently for a moment, then becomes motionless, its eyes slowly darkening.
+[02:33:24]SAY: Molerat/ : Squeek
+[02:33:24]SAY: Molerat/ : Squeek
+[02:33:24]SAY: Molerat/ : Squeek!
+[02:33:24]SAY: Molerat/ : Squeek!
+[02:33:24]SAY: Mutant/ : GRRRRRR!
+[02:33:24]SAY: Molerat/ : Squeek, i say
+[02:33:24]SAY: Molerat/ : Squeek
+[02:33:24]SAY: Molerat/ : Squeek, i say
+[02:33:24]SAY: Molerat/ : Squeek
+[02:33:26]SAY: Molerat/ : Squeek!
+[02:33:26]SAY: Molerat/ : Squeek!
+[02:33:26]SAY: Molerat/ : Squeek
+[02:33:26]SAY: Molerat/ : Squeek
+[02:33:26]SAY: Molerat/ : Squeek
+[02:33:26]EMOTE: brahmin/ : <B>The brahmin</B> shakes its head.
+[02:33:26]SAY: Molerat/ : Squeek
+[02:33:28]SAY: Molerat/ : Squeek, i say
+[02:33:28]SAY: Molerat/ : Squeek!
+[02:33:28]SAY: Molerat/ : Squeek
+[02:33:28]SAY: Molerat/ : Squeek
+[02:33:28]SAY: Molerat/ : Squeek, i say
+[02:33:28]SAY: Molerat/ : Squeek
+[02:33:28]SAY: Molerat/ : Squeek!
+[02:33:28]SAY: Medibot/ : Radar, put a mask on!
+[02:33:30]SAY: Molerat/ : Squeek
+[02:33:30]SAY: Molerat/ : Squeek!
+[02:33:30]SAY: Molerat/ : Squeek
+[02:33:30]SAY: Molerat/ : Squeek!
+[02:33:30]SAY: Molerat/ : Squeek, i say
+[02:33:30]SAY: Molerat/ : Squeek
+[02:33:33]SAY: Molerat/ : Squeek!
+[02:33:33]SAY: Molerat/ : Squeek!
+[02:33:33]SAY: Molerat/ : Squeek
+[02:33:33]SAY: Molerat/ : Squeek
+[02:33:33]SAY: Molerat/ : Squeek, i say
+[02:33:33]SAY: Molerat/ : Squeek
+[02:33:33]SAY: Molerat/ : Squeek!
+[02:33:35]SAY: Molerat/ : Squeek!
+[02:33:35]SAY: Molerat/ : Squeek
+[02:33:35]SAY: Molerat/ : Squeek!
+[02:33:35]SAY: Molerat/ : Squeek
+[02:33:35]SAY: Mutant/ : ARRRRR!
+[02:33:35]SAY: Molerat/ : Squeek!
+[02:33:35]SAY: Molerat/ : Squeek!
+[02:33:35]SAY: Molerat/ : Squeek!
+[02:33:37]SAY: Molerat/ : Squeek
+[02:33:37]SAY: Molerat/ : Squeek
+[02:33:37]SAY: Molerat/ : Squeek!
+[02:33:37]SAY: Molerat/ : Squeek
+[02:33:37]SAY: Molerat/ : Squeek
+[02:33:37]SAY: Molerat/ : Squeek
+[02:33:37]SAY: Molerat/ : Squeek!
+[02:33:37]SAY: Molerat/ : Squeek
+[02:33:39]SAY: Molerat/ : Squeek
+[02:33:39]SAY: Molerat/ : Squeek!
+[02:33:39]SAY: Molerat/ : Squeek
+[02:33:39]SAY: Mutant/ : GRRRRRR!
+[02:33:39]SAY: Molerat/ : Squeek
+[02:33:39]SAY: Molerat/ : Squeek!
+[02:33:39]SAY: Molerat/ : Squeek!
+[02:33:39]SAY: Molerat/ : Squeek
+[02:33:39]SAY: Molerat/ : Squeek!
+[02:33:41]SAY: Molerat/ : Squeek!
+[02:33:41]SAY: Molerat/ : Squeek!
+[02:33:41]SAY: Molerat/ : Squeek!
+[02:33:41]SAY: Molerat/ : Squeek
+[02:33:41]SAY: Molerat/ : Squeek
+[02:33:41]SAY: Molerat/ : Squeek
+[02:33:41]SAY: Molerat/ : Squeek
+[02:33:41]SAY: Molerat/ : Squeek, i say
+[02:33:41]SAY: Molerat/ : Squeek, i say
+[02:33:43]SAY: Molerat/ : Squeek, i say
+[02:33:43]SAY: Molerat/ : Squeek!
+[02:33:43]SAY: Molerat/ : Squeek
+[02:33:43]SAY: Mutant/ : ARGH!
+[02:33:43]SAY: Molerat/ : Squeek!
+[02:33:43]SAY: Molerat/ : Squeek!
+[02:33:43]SAY: Molerat/ : Squeek
+[02:33:43]SAY: Molerat/ : Squeek
+[02:33:45]SAY: Molerat/ : Squeek
+[02:33:45]SAY: Molerat/ : Squeek!
+[02:33:45]SAY: Mutant/ : GRRRRRR!
+[02:33:45]SAY: Molerat/ : Squeek
+[02:33:45]SAY: Molerat/ : Squeek!
+[02:33:45]SAY: Molerat/ : Squeek!
+[02:33:45]SAY: Molerat/ : Squeek!
+[02:33:45]SAY: Molerat/ : Squeek, i say
+[02:33:47]SAY: Molerat/ : Squeek
+[02:33:47]SAY: Molerat/ : Squeek!
+[02:33:47]SAY: Molerat/ : Squeek
+[02:33:47]SAY: Molerat/ : Squeek
+[02:33:47]SAY: Molerat/ : Squeek
+[02:33:47]SAY: Molerat/ : Squeek
+[02:33:47]SAY: Molerat/ : Squeek, i say
+[02:33:49]SAY: Molerat/ : Squeek, i say
+[02:33:49]SAY: Molerat/ : Squeek, i say
+[02:33:49]SAY: Molerat/ : Squeek
+[02:33:49]SAY: Molerat/ : Squeek, i say
+[02:33:49]SAY: Mutant/ : NNNNNGH!
+[02:33:49]SAY: Molerat/ : Squeek
+[02:33:49]SAY: Molerat/ : Squeek
+[02:33:49]SAY: Molerat/ : Squeek
+[02:33:49]SAY: Molerat/ : Squeek
+[02:33:49]SAY: Molerat/ : Squeek
+[02:33:51]SAY: Molerat/ : Squeek!
+[02:33:51]SAY: Molerat/ : Squeek
+[02:33:53]SAY: Molerat/ : Squeek
+[02:33:53]SAY: Molerat/ : Squeek!
+[02:33:53]SAY: Molerat/ : Squeek
+[02:33:53]SAY: Molerat/ : Squeek
+[02:33:53]SAY: Molerat/ : Squeek!
+[02:33:53]SAY: Molerat/ : Squeek
+[02:33:53]SAY: Molerat/ : Squeek!
+[02:33:55]SAY: Molerat/ : Squeek
+[02:33:55]SAY: Molerat/ : Squeek!
+[02:33:55]SAY: Molerat/ : Squeek
+[02:33:55]SAY: Molerat/ : Squeek
+[02:33:55]SAY: Molerat/ : Squeek!
+[02:33:55]SAY: Molerat/ : Squeek!
+[02:33:55]SAY: Molerat/ : Squeek
+[02:33:55]SAY: Molerat/ : Squeek!
+[02:33:55]SAY: Molerat/ : Squeek!
+[02:33:55]SAY: Molerat/ : Squeek!
+[02:33:55]SAY: Molerat/ : Squeek
+[02:33:55]SAY: Molerat/ : Squeek
+[02:33:57]SAY: Molerat/ : Squeek!
+[02:33:57]SAY: Molerat/ : Squeek!
+[02:33:57]SAY: Mutant/ : GRRRRRR!
+[02:33:57]SAY: Molerat/ : Squeek
+[02:33:57]SAY: Molerat/ : Squeek!
+[02:33:59]SAY: Molerat/ : Squeek
+[02:33:59]SAY: Molerat/ : Squeek
+[02:33:59]SAY: Molerat/ : Squeek
+[02:33:59]SAY: Molerat/ : Squeek
+[02:33:59]SAY: Molerat/ : Squeek
+[02:33:59]SAY: Molerat/ : Squeek!
+[02:33:59]SAY: Molerat/ : Squeek
+[02:33:59]SAY: Mutant/ : GRRRRRR!
+[02:33:59]SAY: Molerat/ : Squeek
+[02:33:59]SAY: Molerat/ : Squeek
+[02:34:01]SAY: Molerat/ : Squeek
+[02:34:01]SAY: Mutant/ : NNNNNGH!
+[02:34:01]SAY: Molerat/ : Squeek
+[02:34:01]SAY: Molerat/ : Squeek
+[02:34:01]SAY: Molerat/ : Squeek
+[02:34:03]SAY: Molerat/ : Squeek, i say
+[02:34:03]SAY: Molerat/ : Squeek!
+[02:34:03]SAY: Molerat/ : Squeek!
+[02:34:03]SAY: Molerat/ : Squeek
+[02:34:03]SAY: Mutant/ : ARGH!
+[02:34:03]SAY: Molerat/ : Squeek, i say
+[02:34:03]SAY: Molerat/ : Squeek
+[02:34:03]SAY: Molerat/ : Squeek
+[02:34:03]SAY: Molerat/ : Squeek!
+[02:34:03]SAY: Molerat/ : Squeek!
+[02:34:05]SAY: Molerat/ : Squeek
+[02:34:05]SAY: Molerat/ : Squeek
+[02:34:05]SAY: Mutant/ : ARRRRR!
+[02:34:05]SAY: Molerat/ : Squeek!
+[02:34:05]SAY: Molerat/ : Squeek
+[02:34:05]EMOTE: giant rad scorpion (828)/ : <B>The giant rad scorpion (828)</B> chitters
+[02:34:07]SAY: Molerat/ : Squeek, i say
+[02:34:07]SAY: Molerat/ : Squeek!
+[02:34:07]SAY: Molerat/ : Squeek
+[02:34:07]SAY: Molerat/ : Squeek, i say
+[02:34:07]SAY: Molerat/ : Squeek
+[02:34:07]SAY: Molerat/ : Squeek, i say
+[02:34:07]SAY: Molerat/ : Squeek, i say
+[02:34:07]SAY: Molerat/ : Squeek, i say
+[02:34:09]SAY: Molerat/ : Squeek!
+[02:34:09]SAY: Molerat/ : Squeek!
+[02:34:09]SAY: Molerat/ : Squeek!
+[02:34:09]SAY: Molerat/ : Squeek, i say
+[02:34:09]SAY: Molerat/ : Squeek
+[02:34:09]SAY: Molerat/ : Squeek!
+[02:34:09]SAY: Molerat/ : Squeek
+[02:34:11]SAY: Molerat/ : Squeek!
+[02:34:11]SAY: Molerat/ : Squeek
+[02:34:11]SAY: Molerat/ : Squeek
+[02:34:11]SAY: Molerat/ : Squeek!
+[02:34:11]SAY: Mutant/ : HMPH!
+[02:34:11]SAY: Molerat/ : Squeek!
+[02:34:11]SAY: Molerat/ : Squeek
+[02:34:11]SAY: Molerat/ : Squeek!
+[02:34:11]SAY: Molerat/ : Squeek!
+[02:34:13]SAY: Molerat/ : Squeek
+[02:34:13]SAY: Molerat/ : Squeek, i say
+[02:34:13]SAY: Molerat/ : Squeek
+[02:34:13]SAY: Molerat/ : Squeek!
+[02:34:13]SAY: Molerat/ : Squeek!
+[02:34:13]SAY: Molerat/ : Squeek
+[02:34:13]SAY: Molerat/ : Squeek, i say
+[02:34:15]SAY: Molerat/ : Squeek
+[02:34:15]SAY: Molerat/ : Squeek
+[02:34:15]SAY: Mutant/ : HMPH!
+[02:34:15]SAY: Mutant/ : ARRRRR!
+[02:34:15]SAY: Molerat/ : Squeek!
+[02:34:15]SAY: Molerat/ : Squeek
+[02:34:15]SAY: Molerat/ : Squeek
+[02:34:15]SAY: Molerat/ : Squeek, i say
+[02:34:17]SAY: Molerat/ : Squeek!
+[02:34:17]SAY: Molerat/ : Squeek
+[02:34:17]SAY: Molerat/ : Squeek
+[02:34:17]SAY: Molerat/ : Squeek!
+[02:34:17]SAY: Molerat/ : Squeek!
+[02:34:17]SAY: Molerat/ : Squeek
+[02:34:19]SAY: Molerat/ : Squeek
+[02:34:19]SAY: Molerat/ : Squeek, i say
+[02:34:19]SAY: Molerat/ : Squeek!
+[02:34:19]SAY: Molerat/ : Squeek
+[02:34:19]SAY: Molerat/ : Squeek!
+[02:34:19]SAY: Molerat/ : Squeek
+[02:34:19]SAY: Molerat/ : Squeek
+[02:34:21]SAY: Molerat/ : Squeek
+[02:34:21]SAY: Molerat/ : Squeek!
+[02:34:21]SAY: Molerat/ : Squeek, i say
+[02:34:21]SAY: Molerat/ : Squeek
+[02:34:21]SAY: Mutant/ : ARRRRR!
+[02:34:21]SAY: Mutant/ : NNNNNGH!
+[02:34:21]SAY: Molerat/ : Squeek
+[02:34:21]SAY: Molerat/ : Squeek
+[02:34:21]EMOTE: yaogai/ : <B>The yaogai</B> grumbles.
+[02:34:23]SAY: Molerat/ : Squeek
+[02:34:23]SAY: Molerat/ : Squeek!
+[02:34:23]SAY: Molerat/ : Squeek!
+[02:34:23]SAY: Molerat/ : Squeek
+[02:34:23]SAY: Molerat/ : Squeek
+[02:34:23]SAY: Molerat/ : Squeek
+[02:34:23]SAY: Molerat/ : Squeek
+[02:34:23]SAY: Medibot/ : There&#39;s always a catch, and it&#39;s the best there is.
+[02:34:25]SAY: Molerat/ : Squeek!
+[02:34:25]SAY: Molerat/ : Squeek
+[02:34:25]SAY: Molerat/ : Squeek
+[02:34:25]SAY: Molerat/ : Squeek
+[02:34:25]SAY: Molerat/ : Squeek
+[02:34:25]SAY: Molerat/ : Squeek!
+[02:34:25]SAY: Molerat/ : Squeek!
+[02:34:25]SAY: Molerat/ : Squeek, i say
+[02:34:25]SAY: Molerat/ : Squeek
+[02:34:25]SAY: Molerat/ : Squeek
+[02:34:25]SAY: Molerat/ : Squeek!
+[02:34:25]EMOTE: rad scorpion (129)/ : <B>The rad scorpion (129)</B> chitters
+[02:34:25]SAY: Molerat/ : Squeek!
+[02:34:25]SAY: Molerat/ : Squeek!
+[02:34:27]SAY: Molerat/ : Squeek
+[02:34:27]SAY: Molerat/ : Squeek!
+[02:34:27]SAY: Molerat/ : Squeek
+[02:34:27]SAY: Medibot/ : Radar, put a mask on!
+[02:34:29]SAY: Molerat/ : Squeek, i say
+[02:34:29]SAY: Molerat/ : Squeek
+[02:34:29]SAY: Molerat/ : Squeek
+[02:34:29]SAY: Molerat/ : Squeek!
+[02:34:29]SAY: Molerat/ : Squeek!
+[02:34:29]SAY: Molerat/ : Squeek!
+[02:34:29]SAY: Molerat/ : Squeek
+[02:34:31]SAY: Molerat/ : Squeek!
+[02:34:31]SAY: Molerat/ : Squeek
+[02:34:31]SAY: Molerat/ : Squeek
+[02:34:31]SAY: Molerat/ : Squeek
+[02:34:31]SAY: Molerat/ : Squeek
+[02:34:31]SAY: Molerat/ : Squeek!
+[02:34:31]SAY: Molerat/ : Squeek
+[02:34:31]EMOTE: giant rad scorpion (428)/ : <B>The giant rad scorpion (428)</B> chitters
+[02:34:33]SAY: Molerat/ : Squeek!
+[02:34:33]SAY: Molerat/ : Squeek
+[02:34:33]SAY: Molerat/ : Squeek!
+[02:34:33]SAY: Molerat/ : Squeek
+[02:34:33]SAY: Molerat/ : Squeek
+[02:34:33]SAY: Molerat/ : Squeek, i say
+[02:34:33]SAY: Molerat/ : Squeek, i say
+[02:34:33]SAY: Molerat/ : Squeek, i say
+[02:34:33]SAY: Molerat/ : Squeek!
+[02:34:33]SAY: Molerat/ : Squeek
+[02:34:33]SAY: Molerat/ : Squeek
+[02:34:35]SAY: Molerat/ : Squeek
+[02:34:35]SAY: Molerat/ : Squeek!
+[02:34:35]SAY: Molerat/ : Squeek!
+[02:34:35]SAY: Molerat/ : Squeek!
+[02:34:35]SAY: Molerat/ : Squeek
+[02:34:35]SAY: Molerat/ : Squeek!
+[02:34:37]SAY: Molerat/ : Squeek
+[02:34:37]SAY: Molerat/ : Squeek
+[02:34:37]SAY: Molerat/ : Squeek, i say
+[02:34:37]SAY: Molerat/ : Squeek!
+[02:34:37]SAY: Molerat/ : Squeek!
+[02:34:37]SAY: Molerat/ : Squeek
+[02:34:37]SAY: Molerat/ : Squeek!
+[02:34:37]EMOTE: giant rad scorpion (828)/ : <B>The giant rad scorpion (828)</B> chitters
+[02:34:38]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 85,161,1 in Atrium
+[02:34:39]SAY: Molerat/ : Squeek
+[02:34:39]SAY: Molerat/ : Squeek!
+[02:34:39]SAY: Molerat/ : Squeek!
+[02:34:39]SAY: Molerat/ : Squeek
+[02:34:39]SAY: Molerat/ : Squeek!
+[02:34:39]SAY: Molerat/ : Squeek!
+[02:34:39]EMOTE: giant rad scorpion (428)/ : <B>The giant rad scorpion (428)</B> chitters
+[02:34:41]SAY: Molerat/ : Squeek
+[02:34:41]SAY: Molerat/ : Squeek!
+[02:34:41]SAY: Molerat/ : Squeek, i say
+[02:34:41]SAY: Molerat/ : Squeek
+[02:34:41]SAY: Molerat/ : Squeek
+[02:34:41]SAY: Molerat/ : Squeek
+[02:34:41]SAY: Molerat/ : Squeek
+[02:34:42]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 86,153,1 in Vault Entry
+[02:34:43]SAY: Molerat/ : Squeek!
+[02:34:43]SAY: Molerat/ : Squeek
+[02:34:43]SAY: Molerat/ : Squeek!
+[02:34:43]SAY: Molerat/ : Squeek, i say
+[02:34:43]SAY: Molerat/ : Squeek, i say
+[02:34:43]SAY: Molerat/ : Squeek!
+[02:34:43]SAY: Molerat/ : Squeek!
+[02:34:43]SAY: Molerat/ : Squeek
+[02:34:43]SAY: Molerat/ : Squeek!
+[02:34:43]SAY: Molerat/ : Squeek
+[02:34:43]SAY: Molerat/ : Squeek
+[02:34:45]SAY: Molerat/ : Squeek!
+[02:34:45]SAY: Molerat/ : Squeek!
+[02:34:45]SAY: Molerat/ : Squeek!
+[02:34:45]SAY: Molerat/ : Squeek!
+[02:34:45]SAY: Molerat/ : Squeek
+[02:34:45]SAY: Molerat/ : Squeek!
+[02:34:45]SAY: Molerat/ : Squeek!
+[02:34:45]SAY: Molerat/ : Squeek
+[02:34:47]SAY: Molerat/ : Squeek
+[02:34:47]SAY: Molerat/ : Squeek
+[02:34:47]SAY: Molerat/ : Squeek
+[02:34:47]SAY: Molerat/ : Squeek
+[02:34:47]SAY: Mutant/ : NNNNNGH!
+[02:34:47]SAY: Molerat/ : Squeek
+[02:34:47]SAY: Molerat/ : Squeek!
+[02:34:47]SAY: Molerat/ : Squeek!
+[02:34:47]SAY: Molerat/ : Squeek!
+[02:34:47]SAY: Molerat/ : Squeek
+[02:34:49]SAY: Molerat/ : Squeek!
+[02:34:49]SAY: Molerat/ : Squeek!
+[02:34:49]SAY: Molerat/ : Squeek
+[02:34:49]SAY: Molerat/ : Squeek
+[02:34:49]SAY: Molerat/ : Squeek
+[02:34:49]SAY: Molerat/ : Squeek, i say
+[02:34:49]SAY: Molerat/ : Squeek
+[02:34:49]SAY: Molerat/ : Squeek, i say
+[02:34:49]SAY: Molerat/ : Squeek!
+[02:34:49]SAY: Molerat/ : Squeek
+[02:34:49]SAY: Molerat/ : Squeek
+[02:34:49]SAY: Molerat/ : Squeek
+[02:34:51]SAY: Molerat/ : Squeek!
+[02:34:51]SAY: Molerat/ : Squeek
+[02:34:51]SAY: Molerat/ : Squeek!
+[02:34:51]SAY: Molerat/ : Squeek, i say
+[02:34:51]SAY: Molerat/ : Squeek
+[02:34:53]SAY: Molerat/ : Squeek
+[02:34:53]SAY: Molerat/ : Squeek
+[02:34:53]SAY: Molerat/ : Squeek
+[02:34:53]SAY: Mutant/ : ARRRRR!
+[02:34:55]SAY: Molerat/ : Squeek, i say
+[02:34:55]SAY: Molerat/ : Squeek
+[02:34:55]SAY: Molerat/ : Squeek
+[02:34:56]SAY: Molerat/ : Squeek!
+[02:34:57]SAY: Molerat/ : Squeek!
+[02:34:57]SAY: Molerat/ : Squeek, i say
+[02:34:57]SAY: Molerat/ : Squeek
+[02:34:57]SAY: Molerat/ : Squeek!
+[02:34:57]SAY: Molerat/ : Squeek
+[02:34:57]SAY: Molerat/ : Squeek!
+[02:34:57]SAY: Molerat/ : Squeek, i say
+[02:34:57]SAY: Molerat/ : Squeek!
+[02:34:57]SAY: Molerat/ : Squeek!
+[02:34:57]SAY: Molerat/ : Squeek
+[02:34:57]SAY: Molerat/ : Squeek!
+[02:34:57]SAY: Molerat/ : Squeek!
+[02:34:59]SAY: Molerat/ : Squeek
+[02:34:59]SAY: Molerat/ : Squeek
+[02:34:59]SAY: Molerat/ : Squeek!
+[02:34:59]SAY: Molerat/ : Squeek, i say
+[02:34:59]SAY: Mutant/ : GRRRRRR!
+[02:34:59]SAY: Mutant/ : ARGH!
+[02:34:59]SAY: Molerat/ : Squeek
+[02:35:00]SAY: Molerat/ : Squeek!
+[02:35:01]SAY: Molerat/ : Squeek
+[02:35:01]SAY: Molerat/ : Squeek
+[02:35:01]SAY: Molerat/ : Squeek, i say
+[02:35:01]SAY: Molerat/ : Squeek!
+[02:35:01]SAY: Molerat/ : Squeek
+[02:35:01]SAY: Molerat/ : Squeek
+[02:35:01]SAY: Molerat/ : Squeek!
+[02:35:01]SAY: Molerat/ : Squeek, i say
+[02:35:03]SAY: Molerat/ : Squeek!
+[02:35:03]SAY: Molerat/ : Squeek
+[02:35:03]SAY: Molerat/ : Squeek
+[02:35:03]SAY: Molerat/ : Squeek
+[02:35:03]SAY: Mutant/ : ARRRRR!
+[02:35:03]SAY: Molerat/ : Squeek
+[02:35:03]SAY: Molerat/ : Squeek
+[02:35:03]SAY: Molerat/ : Squeek, i say
+[02:35:03]SAY: Molerat/ : Squeek!
+[02:35:03]SAY: Molerat/ : Squeek!
+[02:35:05]SAY: Molerat/ : Squeek
+[02:35:05]SAY: Molerat/ : Squeek
+[02:35:05]SAY: Molerat/ : Squeek
+[02:35:05]SAY: Molerat/ : Squeek!
+[02:35:07]SAY: Molerat/ : Squeek, i say
+[02:35:07]SAY: Molerat/ : Squeek
+[02:35:07]SAY: Molerat/ : Squeek
+[02:35:07]SAY: Molerat/ : Squeek, i say
+[02:35:07]SAY: Molerat/ : Squeek, i say
+[02:35:07]SAY: Mutant/ : ARGH!
+[02:35:07]SAY: Mutant/ : GRRRRRR!
+[02:35:07]SAY: Molerat/ : Squeek
+[02:35:07]SAY: Molerat/ : Squeek
+[02:35:07]EMOTE: rad scorpion (129)/ : <B>The rad scorpion (129)</B> chitters
+[02:35:09]SAY: Molerat/ : Squeek!
+[02:35:09]SAY: Molerat/ : Squeek!
+[02:35:09]SAY: Molerat/ : Squeek
+[02:35:09]SAY: Molerat/ : Squeek!
+[02:35:09]SAY: Molerat/ : Squeek!
+[02:35:09]SAY: Molerat/ : Squeek
+[02:35:09]SAY: Molerat/ : Squeek!
+[02:35:11]SAY: Molerat/ : Squeek!
+[02:35:11]SAY: Molerat/ : Squeek
+[02:35:11]SAY: Molerat/ : Squeek
+[02:35:11]SAY: Molerat/ : Squeek!
+[02:35:11]SAY: Molerat/ : Squeek
+[02:35:11]SAY: Mutant/ : HMPH!
+[02:35:11]SAY: Molerat/ : Squeek!
+[02:35:11]SAY: Molerat/ : Squeek
+[02:35:11]SAY: Molerat/ : Squeek, i say
+[02:35:11]SAY: Molerat/ : Squeek!
+[02:35:11]SAY: Molerat/ : Squeek!
+[02:35:11]SAY: Molerat/ : Squeek
+[02:35:11]SAY: Molerat/ : Squeek!
+[02:35:11]SAY: Molerat/ : Squeek!
+[02:35:13]SAY: Molerat/ : Squeek!
+[02:35:13]SAY: Molerat/ : Squeek
+[02:35:13]SAY: Molerat/ : Squeek!
+[02:35:13]SAY: Molerat/ : Squeek!
+[02:35:13]SAY: Molerat/ : Squeek
+[02:35:13]SAY: Molerat/ : Squeek!
+[02:35:15]SAY: Molerat/ : Squeek!
+[02:35:15]SAY: Molerat/ : Squeek!
+[02:35:15]SAY: Molerat/ : Squeek
+[02:35:15]SAY: Mutant/ : ARRRRR!
+[02:35:15]SAY: Molerat/ : Squeek
+[02:35:15]SAY: Molerat/ : Squeek!
+[02:35:15]SAY: Molerat/ : Squeek
+[02:35:15]SAY: Molerat/ : Squeek!
+[02:35:17]SAY: Molerat/ : Squeek, i say
+[02:35:17]SAY: Molerat/ : Squeek
+[02:35:17]SAY: Molerat/ : Squeek, i say
+[02:35:17]SAY: Molerat/ : Squeek
+[02:35:17]SAY: Molerat/ : Squeek
+[02:35:17]SAY: Molerat/ : Squeek
+[02:35:19]SAY: Molerat/ : Squeek
+[02:35:19]SAY: Molerat/ : Squeek
+[02:35:19]SAY: Molerat/ : Squeek
+[02:35:19]SAY: Molerat/ : Squeek
+[02:35:19]SAY: Molerat/ : Squeek!
+[02:35:19]SAY: Molerat/ : Squeek
+[02:35:19]SAY: Molerat/ : Squeek!
+[02:35:19]SAY: Molerat/ : Squeek!
+[02:35:19]SAY: Molerat/ : Squeek!
+[02:35:19]SAY: Molerat/ : Squeek
+[02:35:21]SAY: Molerat/ : Squeek, i say
+[02:35:21]SAY: Mutant/ : GRRRRRR!
+[02:35:21]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[02:35:21]SAY: Molerat/ : Squeek
+[02:35:21]SAY: Molerat/ : Squeek, i say
+[02:35:23]SAY: Molerat/ : Squeek!
+[02:35:23]SAY: Molerat/ : Squeek
+[02:35:23]SAY: Molerat/ : Squeek
+[02:35:23]SAY: Molerat/ : Squeek!
+[02:35:23]SAY: Molerat/ : Squeek
+[02:35:23]SAY: Molerat/ : Squeek, i say
+[02:35:23]SAY: Molerat/ : Squeek
+[02:35:25]SAY: Molerat/ : Squeek, i say
+[02:35:25]SAY: Molerat/ : Squeek!
+[02:35:25]SAY: Mutant/ : NNNNNGH!
+[02:35:25]SAY: Molerat/ : Squeek
+[02:35:25]SAY: Molerat/ : Squeek
+[02:35:25]SAY: Molerat/ : Squeek
+[02:35:25]EMOTE: giant rad scorpion (428)/ : <B>The giant rad scorpion (428)</B> chitters
+[02:35:27]SAY: Molerat/ : Squeek, i say
+[02:35:27]SAY: Molerat/ : Squeek!
+[02:35:27]SAY: Molerat/ : Squeek!
+[02:35:27]SAY: Molerat/ : Squeek!
+[02:35:27]SAY: Molerat/ : Squeek
+[02:35:27]SAY: Molerat/ : Squeek!
+[02:35:27]SAY: Molerat/ : Squeek
+[02:35:27]SAY: Molerat/ : Squeek
+[02:35:27]SAY: Molerat/ : Squeek!
+[02:35:27]SAY: Molerat/ : Squeek
+[02:35:29]SAY: Molerat/ : Squeek
+[02:35:29]SAY: Molerat/ : Squeek!
+[02:35:29]SAY: Molerat/ : Squeek
+[02:35:29]SAY: Molerat/ : Squeek!
+[02:35:29]SAY: Molerat/ : Squeek
+[02:35:29]SAY: Molerat/ : Squeek, i say
+[02:35:29]EMOTE: giant rad scorpion (828)/ : <B>The giant rad scorpion (828)</B> chitters
+[02:35:31]SAY: Molerat/ : Squeek, i say
+[02:35:31]SAY: Molerat/ : Squeek
+[02:35:31]SAY: Molerat/ : Squeek
+[02:35:33]SAY: Molerat/ : Squeek, i say
+[02:35:33]SAY: Molerat/ : Squeek!
+[02:35:33]SAY: Molerat/ : Squeek
+[02:35:33]SAY: Molerat/ : Squeek
+[02:35:33]SAY: Molerat/ : Squeek!
+[02:35:33]SAY: Molerat/ : Squeek!
+[02:35:33]SAY: Molerat/ : Squeek
+[02:35:35]SAY: Molerat/ : Squeek
+[02:35:35]SAY: Molerat/ : Squeek
+[02:35:35]SAY: Molerat/ : Squeek!
+[02:35:35]SAY: Molerat/ : Squeek
+[02:35:35]SAY: Molerat/ : Squeek
+[02:35:35]SAY: Molerat/ : Squeek!
+[02:35:35]SAY: Molerat/ : Squeek!
+[02:35:35]SAY: Molerat/ : Squeek
+[02:35:38]SAY: Molerat/ : Squeek
+[02:35:38]SAY: Molerat/ : Squeek, i say
+[02:35:38]SAY: Molerat/ : Squeek
+[02:35:38]SAY: Molerat/ : Squeek
+[02:35:38]SAY: Molerat/ : Squeek
+[02:35:38]SAY: Molerat/ : Squeek
+[02:35:38]SAY: Molerat/ : Squeek!
+[02:35:38]SAY: Molerat/ : Squeek!
+[02:35:38]SAY: Molerat/ : Squeek!
+[02:35:38]SAY: Molerat/ : Squeek
+[02:35:38]SAY: Molerat/ : Squeek
+[02:35:40]SAY: Molerat/ : Squeek
+[02:35:40]SAY: Molerat/ : Squeek
+[02:35:40]SAY: Molerat/ : Squeek!
+[02:35:40]SAY: Molerat/ : Squeek!
+[02:35:42]SAY: Molerat/ : Squeek!
+[02:35:42]SAY: Molerat/ : Squeek, i say
+[02:35:42]SAY: Mutant/ : NNNNNGH!
+[02:35:42]SAY: Molerat/ : Squeek
+[02:35:42]SAY: Molerat/ : Squeek
+[02:35:42]SAY: Molerat/ : Squeek!
+[02:35:44]SAY: Molerat/ : Squeek
+[02:35:44]SAY: Molerat/ : Squeek, i say
+[02:35:44]SAY: Molerat/ : Squeek
+[02:35:44]SAY: Molerat/ : Squeek
+[02:35:44]SAY: Molerat/ : Squeek!
+[02:35:44]SAY: Molerat/ : Squeek
+[02:35:46]SAY: Molerat/ : Squeek, i say
+[02:35:46]SAY: Molerat/ : Squeek
+[02:35:46]SAY: Molerat/ : Squeek
+[02:35:46]SAY: Molerat/ : Squeek
+[02:35:46]SAY: Molerat/ : Squeek, i say
+[02:35:46]SAY: Molerat/ : Squeek!
+[02:35:46]SAY: Molerat/ : Squeek!
+[02:35:46]SAY: Molerat/ : Squeek!
+[02:35:46]EMOTE: rad scorpion (129)/ : <B>The rad scorpion (129)</B> chitters
+[02:35:46]SAY: Molerat/ : Squeek, i say
+[02:35:48]SAY: Molerat/ : Squeek!
+[02:35:48]SAY: Mutant/ : ARGH!
+[02:35:48]SAY: Molerat/ : Squeek!
+[02:35:48]SAY: Molerat/ : Squeek!
+[02:35:50]SAY: Molerat/ : Squeek
+[02:35:50]SAY: Molerat/ : Squeek!
+[02:35:50]SAY: Molerat/ : Squeek
+[02:35:50]SAY: Molerat/ : Squeek!
+[02:35:50]SAY: Molerat/ : Squeek
+[02:35:52]SAY: Molerat/ : Squeek
+[02:35:52]SAY: Molerat/ : Squeek
+[02:35:52]SAY: Molerat/ : Squeek
+[02:35:52]SAY: Molerat/ : Squeek!
+[02:35:52]SAY: Molerat/ : Squeek!
+[02:35:52]SAY: Molerat/ : Squeek
+[02:35:52]SAY: Molerat/ : Squeek
+[02:35:52]SAY: Molerat/ : Squeek
+[02:35:52]SAY: Molerat/ : Squeek
+[02:35:54]SAY: Molerat/ : Squeek
+[02:35:54]SAY: Molerat/ : Squeek!
+[02:35:54]SAY: Molerat/ : Squeek
+[02:35:54]SAY: Molerat/ : Squeek!
+[02:35:54]SAY: Molerat/ : Squeek
+[02:35:54]SAY: Molerat/ : Squeek
+[02:35:54]SAY: Molerat/ : Squeek
+[02:35:54]SAY: Molerat/ : Squeek
+[02:35:56]SAY: Molerat/ : Squeek
+[02:35:56]SAY: Molerat/ : Squeek!
+[02:35:56]SAY: Molerat/ : Squeek!
+[02:35:56]SAY: Molerat/ : Squeek
+[02:35:56]SAY: Molerat/ : Squeek!
+[02:35:56]SAY: Molerat/ : Squeek
+[02:35:56]SAY: Molerat/ : Squeek
+[02:35:56]SAY: Molerat/ : Squeek
+[02:35:56]SAY: Molerat/ : Squeek!
+[02:35:56]SAY: Molerat/ : Squeek!
+[02:35:58]SAY: Molerat/ : Squeek!
+[02:35:58]SAY: Molerat/ : Squeek, i say
+[02:35:58]SAY: Molerat/ : Squeek!
+[02:35:58]SAY: Molerat/ : Squeek!
+[02:35:58]SAY: Molerat/ : Squeek, i say
+[02:35:58]SAY: Molerat/ : Squeek
+[02:36:00]SAY: Molerat/ : Squeek!
+[02:36:00]SAY: Molerat/ : Squeek
+[02:36:00]SAY: Molerat/ : Squeek
+[02:36:00]SAY: Molerat/ : Squeek, i say
+[02:36:00]SAY: Molerat/ : Squeek!
+[02:36:00]SAY: Molerat/ : Squeek
+[02:36:00]SAY: Molerat/ : Squeek!
+[02:36:02]SAY: Molerat/ : Squeek
+[02:36:02]SAY: Molerat/ : Squeek!
+[02:36:02]SAY: Molerat/ : Squeek, i say
+[02:36:02]SAY: Molerat/ : Squeek
+[02:36:02]SAY: Molerat/ : Squeek!
+[02:36:02]SAY: Molerat/ : Squeek
+[02:36:02]SAY: Molerat/ : Squeek
+[02:36:04]SAY: Molerat/ : Squeek
+[02:36:04]SAY: Molerat/ : Squeek
+[02:36:04]SAY: Molerat/ : Squeek, i say
+[02:36:04]SAY: Molerat/ : Squeek
+[02:36:04]SAY: Molerat/ : Squeek
+[02:36:06]SAY: Molerat/ : Squeek!
+[02:36:06]SAY: Molerat/ : Squeek!
+[02:36:06]SAY: Molerat/ : Squeek
+[02:36:06]SAY: Molerat/ : Squeek!
+[02:36:06]SAY: Molerat/ : Squeek!
+[02:36:06]SAY: Molerat/ : Squeek, i say
+[02:36:06]SAY: Molerat/ : Squeek!
+[02:36:06]SAY: Molerat/ : Squeek
+[02:36:06]SAY: Molerat/ : Squeek
+[02:36:08]SAY: Molerat/ : Squeek!
+[02:36:08]SAY: Molerat/ : Squeek
+[02:36:08]SAY: Molerat/ : Squeek!
+[02:36:08]SAY: Molerat/ : Squeek
+[02:36:08]SAY: Molerat/ : Squeek
+[02:36:08]SAY: Molerat/ : Squeek
+[02:36:08]SAY: Molerat/ : Squeek!
+[02:36:08]EMOTE: rad scorpion (71)/ : <B>The rad scorpion (71)</B> chitters
+[02:36:10]SAY: Molerat/ : Squeek!
+[02:36:10]SAY: Molerat/ : Squeek!
+[02:36:10]SAY: Molerat/ : Squeek!
+[02:36:10]SAY: Molerat/ : Squeek!
+[02:36:10]SAY: Molerat/ : Squeek, i say
+[02:36:10]SAY: Molerat/ : Squeek
+[02:36:10]SAY: Molerat/ : Squeek!
+[02:36:10]EMOTE: rad scorpion (71)/ : <B>The rad scorpion (71)</B> chitters
+[02:36:12]SAY: Molerat/ : Squeek
+[02:36:12]SAY: Molerat/ : Squeek
+[02:36:12]SAY: Molerat/ : Squeek!
+[02:36:12]SAY: Molerat/ : Squeek!
+[02:36:12]SAY: Molerat/ : Squeek
+[02:36:12]SAY: Mutant/ : GRRRRRR!
+[02:36:12]SAY: Molerat/ : Squeek
+[02:36:12]SAY: Molerat/ : Squeek
+[02:36:12]SAY: Molerat/ : Squeek
+[02:36:12]EMOTE: brahmin/ : <B>The brahmin</B> brays.
+[02:36:12]SAY: Molerat/ : Squeek!
+[02:36:14]SAY: Molerat/ : Squeek, i say
+[02:36:14]SAY: Molerat/ : Squeek
+[02:36:14]SAY: Molerat/ : Squeek
+[02:36:14]EMOTE: rad scorpion (71)/ : <B>The rad scorpion (71)</B> chitters
+[02:36:16]SAY: Molerat/ : Squeek!
+[02:36:16]SAY: Molerat/ : Squeek
+[02:36:16]SAY: Molerat/ : Squeek
+[02:36:16]SAY: Molerat/ : Squeek
+[02:36:16]SAY: Molerat/ : Squeek!
+[02:36:16]SAY: Molerat/ : Squeek
+[02:36:16]SAY: Molerat/ : Squeek, i say
+[02:36:17]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 86,129,1 in Genetics Lab
+[02:36:18]SAY: Molerat/ : Squeek
+[02:36:18]SAY: Molerat/ : Squeek!
+[02:36:18]SAY: Molerat/ : Squeek, i say
+[02:36:18]SAY: Molerat/ : Squeek
+[02:36:18]SAY: Molerat/ : Squeek
+[02:36:18]SAY: Mutant/ : HMPH!
+[02:36:18]SAY: Molerat/ : Squeek!
+[02:36:18]SAY: Molerat/ : Squeek!
+[02:36:18]SAY: Molerat/ : Squeek!
+[02:36:20]SAY: Molerat/ : Squeek!
+[02:36:20]SAY: Molerat/ : Squeek!
+[02:36:20]SAY: Molerat/ : Squeek
+[02:36:20]SAY: Molerat/ : Squeek
+[02:36:20]SAY: Molerat/ : Squeek, i say
+[02:36:22]SAY: Molerat/ : Squeek
+[02:36:22]SAY: Molerat/ : Squeek
+[02:36:22]SAY: Molerat/ : Squeek
+[02:36:22]SAY: Molerat/ : Squeek
+[02:36:22]SAY: Molerat/ : Squeek
+[02:36:22]SAY: Molerat/ : Squeek
+[02:36:22]SAY: Molerat/ : Squeek
+[02:36:24]SAY: Molerat/ : Squeek
+[02:36:24]SAY: Molerat/ : Squeek
+[02:36:24]SAY: Mutant/ : ARRRRR!
+[02:36:24]SAY: Molerat/ : Squeek
+[02:36:24]SAY: Molerat/ : Squeek, i say
+[02:36:24]SAY: Molerat/ : Squeek
+[02:36:26]SAY: Molerat/ : Squeek
+[02:36:26]SAY: Molerat/ : Squeek
+[02:36:26]SAY: Molerat/ : Squeek
+[02:36:26]SAY: Molerat/ : Squeek!
+[02:36:28]SAY: Molerat/ : Squeek, i say
+[02:36:28]SAY: Molerat/ : Squeek!
+[02:36:28]SAY: Molerat/ : Squeek, i say
+[02:36:28]SAY: Molerat/ : Squeek!
+[02:36:28]SAY: Molerat/ : Squeek
+[02:36:30]SAY: Molerat/ : Squeek
+[02:36:30]SAY: Molerat/ : Squeek
+[02:36:30]SAY: Molerat/ : Squeek!
+[02:36:30]SAY: Molerat/ : Squeek!
+[02:36:30]SAY: Molerat/ : Squeek!
+[02:36:30]SAY: Molerat/ : Squeek
+[02:36:30]SAY: Medibot/ : Radar, put a mask on!
+[02:36:32]SAY: Molerat/ : Squeek!
+[02:36:32]SAY: Molerat/ : Squeek, i say
+[02:36:32]SAY: Molerat/ : Squeek!
+[02:36:32]SAY: Molerat/ : Squeek!
+[02:36:32]SAY: Molerat/ : Squeek
+[02:36:32]SAY: Molerat/ : Squeek!
+[02:36:32]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[02:36:32]SAY: Molerat/ : Squeek
+[02:36:34]SAY: Molerat/ : Squeek!
+[02:36:36]SAY: Molerat/ : Squeek
+[02:36:36]SAY: Molerat/ : Squeek
+[02:36:36]SAY: Molerat/ : Squeek
+[02:36:36]SAY: Molerat/ : Squeek!
+[02:36:36]SAY: Mutant/ : NNNNNGH!
+[02:36:36]SAY: Mutant/ : GRRRRRR!
+[02:36:36]SAY: Molerat/ : Squeek, i say
+[02:36:36]SAY: Molerat/ : Squeek
+[02:36:38]SAY: Molerat/ : Squeek!
+[02:36:38]SAY: Molerat/ : Squeek
+[02:36:38]SAY: Molerat/ : Squeek
+[02:36:38]SAY: Molerat/ : Squeek, i say
+[02:36:38]SAY: Mutant/ : ARGH!
+[02:36:38]SAY: Mutant/ : ARRRRR!
+[02:36:38]SAY: Molerat/ : Squeek!
+[02:36:38]SAY: Molerat/ : Squeek!
+[02:36:38]SAY: Molerat/ : Squeek!
+[02:36:38]SAY: Molerat/ : Squeek!
+[02:36:38]SAY: Molerat/ : Squeek!
+[02:36:38]SAY: Molerat/ : Squeek
+[02:36:40]SAY: Molerat/ : Squeek
+[02:36:40]SAY: Molerat/ : Squeek
+[02:36:40]SAY: Molerat/ : Squeek
+[02:36:42]SAY: Molerat/ : Squeek!
+[02:36:42]SAY: Molerat/ : Squeek
+[02:36:42]SAY: Molerat/ : Squeek, i say
+[02:36:42]SAY: Molerat/ : Squeek
+[02:36:42]SAY: Molerat/ : Squeek
+[02:36:42]SAY: Molerat/ : Squeek!
+[02:36:42]SAY: Molerat/ : Squeek, i say
+[02:36:44]SAY: Molerat/ : Squeek
+[02:36:44]SAY: Molerat/ : Squeek!
+[02:36:44]SAY: Molerat/ : Squeek!
+[02:36:44]SAY: Molerat/ : Squeek
+[02:36:44]SAY: Molerat/ : Squeek
+[02:36:44]SAY: Molerat/ : Squeek
+[02:36:44]EMOTE: giant rad scorpion (428)/ : <B>The giant rad scorpion (428)</B> chitters
+[02:36:44]SAY: Molerat/ : Squeek
+[02:36:46]SAY: Molerat/ : Squeek!
+[02:36:46]SAY: Molerat/ : Squeek!
+[02:36:46]SAY: Molerat/ : Squeek!
+[02:36:46]SAY: Molerat/ : Squeek!
+[02:36:46]SAY: Molerat/ : Squeek!
+[02:36:46]SAY: Molerat/ : Squeek!
+[02:36:46]SAY: Molerat/ : Squeek
+[02:36:48]SAY: Molerat/ : Squeek
+[02:36:48]SAY: Molerat/ : Squeek, i say
+[02:36:48]SAY: Molerat/ : Squeek!
+[02:36:48]SAY: Molerat/ : Squeek!
+[02:36:48]SAY: Mutant/ : GRRRRRR!
+[02:36:48]SAY: Molerat/ : Squeek
+[02:36:48]SAY: Molerat/ : Squeek, i say
+[02:36:48]SAY: Molerat/ : Squeek!
+[02:36:50]SAY: Molerat/ : Squeek
+[02:36:50]SAY: Molerat/ : Squeek
+[02:36:50]SAY: Molerat/ : Squeek!
+[02:36:50]SAY: Molerat/ : Squeek!
+[02:36:50]SAY: Molerat/ : Squeek
+[02:36:50]SAY: Molerat/ : Squeek
+[02:36:52]SAY: Molerat/ : Squeek!
+[02:36:52]SAY: Molerat/ : Squeek, i say
+[02:36:52]SAY: Molerat/ : Squeek
+[02:36:52]SAY: Molerat/ : Squeek
+[02:36:52]SAY: Molerat/ : Squeek
+[02:36:52]SAY: Molerat/ : Squeek!
+[02:36:52]SAY: Molerat/ : Squeek
+[02:36:54]SAY: Molerat/ : Squeek, i say
+[02:36:54]SAY: Molerat/ : Squeek
+[02:36:54]SAY: Molerat/ : Squeek!
+[02:36:54]SAY: Molerat/ : Squeek!
+[02:36:54]SAY: Molerat/ : Squeek!
+[02:36:54]SAY: Molerat/ : Squeek, i say
+[02:36:54]SAY: Molerat/ : Squeek!
+[02:36:56]SAY: Molerat/ : Squeek!
+[02:36:56]SAY: Molerat/ : Squeek!
+[02:36:56]SAY: Molerat/ : Squeek!
+[02:36:56]SAY: Molerat/ : Squeek
+[02:36:56]SAY: Molerat/ : Squeek!
+[02:36:56]SAY: Molerat/ : Squeek
+[02:36:56]SAY: Molerat/ : Squeek!
+[02:36:56]SAY: Molerat/ : Squeek!
+[02:36:56]SAY: Molerat/ : Squeek, i say
+[02:36:56]SAY: Molerat/ : Squeek!
+[02:36:58]SAY: Molerat/ : Squeek
+[02:36:58]SAY: Molerat/ : Squeek!
+[02:36:58]SAY: Molerat/ : Squeek
+[02:36:58]SAY: Mutant/ : NNNNNGH!
+[02:36:58]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[02:36:58]SAY: Molerat/ : Squeek!
+[02:36:58]SAY: Molerat/ : Squeek!
+[02:36:58]SAY: Molerat/ : Squeek
+[02:36:58]SAY: Molerat/ : Squeek
+[02:36:58]SAY: Molerat/ : Squeek, i say
+[02:36:58]SAY: Molerat/ : Squeek!
+[02:37:00]SAY: Molerat/ : Squeek
+[02:37:00]SAY: Molerat/ : Squeek
+[02:37:00]SAY: Molerat/ : Squeek
+[02:37:00]SAY: Molerat/ : Squeek
+[02:37:00]SAY: Molerat/ : Squeek
+[02:37:00]SAY: Molerat/ : Squeek!
+[02:37:00]SAY: Molerat/ : Squeek
+[02:37:00]SAY: Molerat/ : Squeek, i say
+[02:37:00]EMOTE: giant rad scorpion (625)/ : <B>The giant rad scorpion (625)</B> chitters
+[02:37:00]SAY: Molerat/ : Squeek
+[02:37:02]SAY: Molerat/ : Squeek
+[02:37:02]SAY: Molerat/ : Squeek!
+[02:37:02]SAY: Molerat/ : Squeek
+[02:37:02]SAY: Molerat/ : Squeek
+[02:37:04]SAY: Molerat/ : Squeek
+[02:37:04]SAY: Molerat/ : Squeek
+[02:37:04]SAY: Molerat/ : Squeek
+[02:37:04]SAY: Molerat/ : Squeek!
+[02:37:04]SAY: Molerat/ : Squeek!
+[02:37:06]SAY: Molerat/ : Squeek
+[02:37:06]SAY: Molerat/ : Squeek
+[02:37:06]SAY: Molerat/ : Squeek!
+[02:37:06]SAY: Molerat/ : Squeek!
+[02:37:06]SAY: Molerat/ : Squeek!
+[02:37:06]SAY: Mutant/ : ARGH!
+[02:37:06]SAY: Molerat/ : Squeek
+[02:37:06]SAY: Molerat/ : Squeek!
+[02:37:08]SAY: Molerat/ : Squeek
+[02:37:08]SAY: Molerat/ : Squeek!
+[02:37:08]SAY: Mutant/ : GRRRRRR!
+[02:37:08]SAY: Molerat/ : Squeek!
+[02:37:08]SAY: Molerat/ : Squeek
+[02:37:08]SAY: Molerat/ : Squeek!
+[02:37:08]SAY: Molerat/ : Squeek
+[02:37:10]SAY: Molerat/ : Squeek!
+[02:37:10]SAY: Molerat/ : Squeek
+[02:37:10]SAY: Molerat/ : Squeek
+[02:37:10]SAY: Mutant/ : ARRRRR!
+[02:37:10]SAY: Molerat/ : Squeek!
+[02:37:10]SAY: Molerat/ : Squeek
+[02:37:10]SAY: Molerat/ : Squeek
+[02:37:10]SAY: Molerat/ : Squeek!
+[02:37:10]SAY: Molerat/ : Squeek!
+[02:37:10]SAY: Molerat/ : Squeek!
+[02:37:12]SAY: Molerat/ : Squeek!
+[02:37:12]SAY: Molerat/ : Squeek
+[02:37:12]SAY: Molerat/ : Squeek!
+[02:37:12]SAY: Molerat/ : Squeek
+[02:37:12]SAY: Molerat/ : Squeek
+[02:37:12]SAY: Molerat/ : Squeek!
+[02:37:12]SAY: Molerat/ : Squeek
+[02:37:12]SAY: Molerat/ : Squeek
+[02:37:12]SAY: Molerat/ : Squeek
+[02:37:12]EMOTE: giant spider (417)/ : <B>The giant spider (417)</B> chitters
+[02:37:12]SAY: Molerat/ : Squeek
+[02:37:12]SAY: Molerat/ : Squeek!
+[02:37:14]SAY: Molerat/ : Squeek
+[02:37:14]SAY: Molerat/ : Squeek
+[02:37:14]SAY: Molerat/ : Squeek
+[02:37:14]SAY: Molerat/ : Squeek!
+[02:37:14]SAY: Molerat/ : Squeek!
+[02:37:14]SAY: Molerat/ : Squeek!
+[02:37:16]SAY: Molerat/ : Squeek
+[02:37:16]SAY: Molerat/ : Squeek, i say
+[02:37:16]SAY: Molerat/ : Squeek
+[02:37:16]SAY: Molerat/ : Squeek!
+[02:37:16]SAY: Molerat/ : Squeek!
+[02:37:16]SAY: Molerat/ : Squeek!
+[02:37:16]SAY: Molerat/ : Squeek, i say
+[02:37:16]SAY: Molerat/ : Squeek
+[02:37:16]SAY: Molerat/ : Squeek
+[02:37:16]SAY: Molerat/ : Squeek!
+[02:37:16]SAY: Molerat/ : Squeek!
+[02:37:18]SAY: Molerat/ : Squeek!
+[02:37:18]SAY: Molerat/ : Squeek!
+[02:37:18]SAY: Molerat/ : Squeek
+[02:37:18]SAY: Molerat/ : Squeek
+[02:37:18]SAY: Molerat/ : Squeek, i say
+[02:37:18]SAY: Molerat/ : Squeek!
+[02:37:20]SAY: Molerat/ : Squeek!
+[02:37:20]SAY: Molerat/ : Squeek
+[02:37:20]SAY: Molerat/ : Squeek!
+[02:37:20]SAY: Mutant/ : ARRRRR!
+[02:37:20]SAY: Molerat/ : Squeek
+[02:37:20]SAY: Molerat/ : Squeek
+[02:37:20]SAY: Molerat/ : Squeek
+[02:37:20]SAY: Molerat/ : Squeek!
+[02:37:20]SAY: Molerat/ : Squeek!
+[02:37:22]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[02:37:22]SAY: Molerat/ : Squeek
+[02:37:22]SAY: Molerat/ : Squeek!
+[02:37:22]SAY: Molerat/ : Squeek, i say
+[02:37:22]SAY: Molerat/ : Squeek, i say
+[02:37:22]SAY: Molerat/ : Squeek!
+[02:37:22]SAY: Molerat/ : Squeek, i say
+[02:37:22]SAY: Molerat/ : Squeek!
+[02:37:22]SAY: Molerat/ : Squeek!
+[02:37:22]SAY: Molerat/ : Squeek
+[02:37:22]SAY: Mutant/ : NNNNNGH!
+[02:37:22]SAY: Molerat/ : Squeek
+[02:37:22]SAY: Molerat/ : Squeek!
+[02:37:23]ADMIN: PahomLancer/(Griffin Whiteman) healed / Revived PahomLancer/(Griffin Whiteman)
+[02:37:24]SAY: Molerat/ : Squeek!
+[02:37:24]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[02:37:24]SAY: Molerat/ : Squeek!
+[02:37:26]SAY: Molerat/ : Squeek
+[02:37:26]SAY: Molerat/ : Squeek!
+[02:37:26]SAY: Molerat/ : Squeek
+[02:37:26]SAY: Mutant/ : ARGH!
+[02:37:26]SAY: Mutant/ : ARGH!
+[02:37:26]SAY: Molerat/ : Squeek
+[02:37:26]SAY: Molerat/ : Squeek!
+[02:37:28]SAY: Molerat/ : Squeek!
+[02:37:28]SAY: Molerat/ : Squeek
+[02:37:28]SAY: Molerat/ : Squeek
+[02:37:28]SAY: Molerat/ : Squeek
+[02:37:28]SAY: Molerat/ : Squeek
+[02:37:28]SAY: Molerat/ : Squeek
+[02:37:28]SAY: Molerat/ : Squeek!
+[02:37:28]SAY: Molerat/ : Squeek
+[02:37:30]SAY: Molerat/ : Squeek
+[02:37:30]SAY: Molerat/ : Squeek, i say
+[02:37:30]SAY: Molerat/ : Squeek
+[02:37:30]SAY: Molerat/ : Squeek
+[02:37:30]SAY: Molerat/ : Squeek
+[02:37:30]SAY: Molerat/ : Squeek
+[02:37:30]SAY: Molerat/ : Squeek!
+[02:37:30]SAY: Molerat/ : Squeek!
+[02:37:32]SAY: Molerat/ : Squeek
+[02:37:32]SAY: Molerat/ : Squeek, i say
+[02:37:32]SAY: Molerat/ : Squeek
+[02:37:32]SAY: Molerat/ : Squeek!
+[02:37:32]SAY: Mutant/ : ARRRRR!
+[02:37:32]SAY: Molerat/ : Squeek!
+[02:37:32]SAY: Molerat/ : Squeek, i say
+[02:37:34]SAY: Molerat/ : Squeek
+[02:37:34]SAY: Molerat/ : Squeek
+[02:37:34]SAY: Molerat/ : Squeek!
+[02:37:34]SAY: Molerat/ : Squeek!
+[02:37:34]SAY: Molerat/ : Squeek
+[02:37:34]SAY: Molerat/ : Squeek, i say
+[02:37:34]SAY: Molerat/ : Squeek
+[02:37:34]SAY: Molerat/ : Squeek!
+[02:37:34]SAY: Molerat/ : Squeek
+[02:37:34]SAY: Molerat/ : Squeek
+[02:37:36]SAY: Molerat/ : Squeek
+[02:37:36]SAY: Molerat/ : Squeek!
+[02:37:36]SAY: Molerat/ : Squeek
+[02:37:36]SAY: Molerat/ : Squeek
+[02:37:36]SAY: Mutant/ : ARRRRR!
+[02:37:36]SAY: Molerat/ : Squeek
+[02:37:36]SAY: Molerat/ : Squeek!
+[02:37:38]SAY: Molerat/ : Squeek!
+[02:37:38]SAY: Molerat/ : Squeek
+[02:37:38]SAY: Molerat/ : Squeek!
+[02:37:38]SAY: Molerat/ : Squeek
+[02:37:38]SAY: Molerat/ : Squeek!
+[02:37:38]SAY: Molerat/ : Squeek
+[02:37:38]SAY: Molerat/ : Squeek!
+[02:37:38]SAY: Molerat/ : Squeek!
+[02:37:38]SAY: Molerat/ : Squeek!
+[02:37:38]SAY: Molerat/ : Squeek
+[02:37:40]SAY: Molerat/ : Squeek
+[02:37:40]SAY: Molerat/ : Squeek!
+[02:37:40]SAY: Molerat/ : Squeek
+[02:37:40]SAY: Molerat/ : Squeek
+[02:37:43]SAY: Mutant/ : GRRRRRR!
+[02:37:43]SAY: Molerat/ : Squeek!
+[02:37:43]SAY: Molerat/ : Squeek!
+[02:37:45]SAY: Molerat/ : Squeek
+[02:37:45]SAY: Molerat/ : Squeek!
+[02:37:45]EMOTE: giant rad scorpion (428)/ : <B>The giant rad scorpion (428)</B> chitters
+[02:37:47]SAY: Molerat/ : Squeek
+[02:37:47]SAY: Molerat/ : Squeek!
+[02:37:47]SAY: Molerat/ : Squeek
+[02:37:47]SAY: Molerat/ : Squeek!
+[02:37:47]SAY: Molerat/ : Squeek
+[02:37:47]SAY: Molerat/ : Squeek, i say
+[02:37:47]SAY: Molerat/ : Squeek
+[02:37:47]SAY: Molerat/ : Squeek
+[02:37:49]SAY: Molerat/ : Squeek
+[02:37:49]SAY: Molerat/ : Squeek!
+[02:37:49]SAY: Molerat/ : Squeek!
+[02:37:49]SAY: Molerat/ : Squeek!
+[02:37:49]SAY: Molerat/ : Squeek
+[02:37:51]SAY: Molerat/ : Squeek
+[02:37:51]SAY: Molerat/ : Squeek!
+[02:37:51]SAY: Molerat/ : Squeek, i say
+[02:37:51]SAY: Molerat/ : Squeek!
+[02:37:51]SAY: Molerat/ : Squeek!
+[02:37:51]SAY: Molerat/ : Squeek, i say
+[02:37:51]SAY: Molerat/ : Squeek
+[02:37:51]SAY: Molerat/ : Squeek
+[02:37:51]SAY: Molerat/ : Squeek!
+[02:37:51]SAY: Molerat/ : Squeek!
+[02:37:53]SAY: Molerat/ : Squeek
+[02:37:53]SAY: Molerat/ : Squeek
+[02:37:53]SAY: Molerat/ : Squeek
+[02:37:53]SAY: Molerat/ : Squeek!
+[02:37:53]SAY: Molerat/ : Squeek
+[02:37:53]SAY: Molerat/ : Squeek
+[02:37:53]SAY: Molerat/ : Squeek
+[02:37:53]SAY: Molerat/ : Squeek
+[02:37:53]SAY: Molerat/ : Squeek!
+[02:37:55]SAY: Molerat/ : Squeek
+[02:37:55]SAY: Molerat/ : Squeek, i say
+[02:37:55]SAY: Molerat/ : Squeek
+[02:37:55]SAY: Molerat/ : Squeek
+[02:37:55]SAY: Molerat/ : Squeek, i say
+[02:37:55]SAY: Molerat/ : Squeek
+[02:37:55]SAY: Molerat/ : Squeek
+[02:37:57]SAY: Molerat/ : Squeek
+[02:37:57]SAY: Molerat/ : Squeek
+[02:37:57]SAY: Molerat/ : Squeek!
+[02:37:57]SAY: Molerat/ : Squeek!
+[02:37:57]SAY: Molerat/ : Squeek!
+[02:37:59]SAY: Molerat/ : Squeek!
+[02:37:59]SAY: Molerat/ : Squeek!
+[02:37:59]SAY: Mutant/ : NNNNNGH!
+[02:37:59]SAY: Molerat/ : Squeek
+[02:37:59]SAY: Molerat/ : Squeek
+[02:37:59]SAY: Molerat/ : Squeek
+[02:37:59]SAY: Molerat/ : Squeek!
+[02:37:59]SAY: Molerat/ : Squeek
+[02:38:01]SAY: Molerat/ : Squeek
+[02:38:01]SAY: Molerat/ : Squeek
+[02:38:01]SAY: Molerat/ : Squeek
+[02:38:01]SAY: Molerat/ : Squeek
+[02:38:01]SAY: Molerat/ : Squeek
+[02:38:01]SAY: Molerat/ : Squeek
+[02:38:03]SAY: Molerat/ : Squeek, i say
+[02:38:03]SAY: Molerat/ : Squeek!
+[02:38:03]SAY: Mutant/ : ARRRRR!
+[02:38:03]SAY: Molerat/ : Squeek
+[02:38:03]SAY: Molerat/ : Squeek!
+[02:38:03]SAY: Molerat/ : Squeek!
+[02:38:03]SAY: Molerat/ : Squeek
+[02:38:05]SAY: Molerat/ : Squeek
+[02:38:05]SAY: Molerat/ : Squeek
+[02:38:05]SAY: Molerat/ : Squeek
+[02:38:05]SAY: Molerat/ : Squeek
+[02:38:07]SAY: Molerat/ : Squeek!
+[02:38:07]SAY: Molerat/ : Squeek
+[02:38:09]SAY: Molerat/ : Squeek!
+[02:38:09]SAY: Molerat/ : Squeek
+[02:38:09]SAY: Molerat/ : Squeek!
+[02:38:09]SAY: Molerat/ : Squeek
+[02:38:09]SAY: Molerat/ : Squeek!
+[02:38:09]SAY: Molerat/ : Squeek, i say
+[02:38:11]SAY: Molerat/ : Squeek!
+[02:38:11]SAY: Molerat/ : Squeek
+[02:38:11]SAY: Molerat/ : Squeek!
+[02:38:11]SAY: Molerat/ : Squeek, i say
+[02:38:13]SAY: Molerat/ : Squeek
+[02:38:13]SAY: Molerat/ : Squeek, i say
+[02:38:13]SAY: Molerat/ : Squeek
+[02:38:13]SAY: Molerat/ : Squeek
+[02:38:13]SAY: Molerat/ : Squeek!
+[02:38:13]SAY: Molerat/ : Squeek!
+[02:38:15]SAY: Molerat/ : Squeek!
+[02:38:15]SAY: Molerat/ : Squeek
+[02:38:15]SAY: Molerat/ : Squeek!
+[02:38:15]SAY: Molerat/ : Squeek!
+[02:38:15]SAY: Molerat/ : Squeek!
+[02:38:15]SAY: Molerat/ : Squeek, i say
+[02:38:15]SAY: Molerat/ : Squeek
+[02:38:15]SAY: Molerat/ : Squeek, i say
+[02:38:15]SAY: Molerat/ : Squeek!
+[02:38:17]SAY: Molerat/ : Squeek, i say
+[02:38:17]SAY: Molerat/ : Squeek, i say
+[02:38:17]SAY: Molerat/ : Squeek
+[02:38:17]SAY: Molerat/ : Squeek, i say
+[02:38:17]SAY: Molerat/ : Squeek
+[02:38:17]SAY: Molerat/ : Squeek!
+[02:38:17]SAY: Mutant/ : NNNNNGH!
+[02:38:17]SAY: Molerat/ : Squeek, i say
+[02:38:17]SAY: Molerat/ : Squeek
+[02:38:17]SAY: Molerat/ : Squeek
+[02:38:19]SAY: Molerat/ : Squeek
+[02:38:19]SAY: Molerat/ : Squeek
+[02:38:19]SAY: Mutant/ : ARGH!
+[02:38:19]SAY: Molerat/ : Squeek, i say
+[02:38:19]SAY: Molerat/ : Squeek
+[02:38:21]SAY: Molerat/ : Squeek
+[02:38:21]SAY: Molerat/ : Squeek
+[02:38:21]SAY: Molerat/ : Squeek!
+[02:38:21]SAY: Molerat/ : Squeek!
+[02:38:21]SAY: Molerat/ : Squeek, i say
+[02:38:21]SAY: Molerat/ : Squeek!
+[02:38:21]SAY: Molerat/ : Squeek
+[02:38:21]SAY: Molerat/ : Squeek!
+[02:38:21]SAY: Molerat/ : Squeek
+[02:38:21]SAY: Molerat/ : Squeek!
+[02:38:23]SAY: Molerat/ : Squeek!
+[02:38:23]SAY: Molerat/ : Squeek
+[02:38:23]SAY: Molerat/ : Squeek
+[02:38:23]SAY: Molerat/ : Squeek!
+[02:38:23]SAY: Molerat/ : Squeek, i say
+[02:38:25]SAY: Molerat/ : Squeek
+[02:38:25]SAY: Molerat/ : Squeek
+[02:38:25]SAY: Molerat/ : Squeek
+[02:38:25]SAY: Molerat/ : Squeek
+[02:38:25]SAY: Molerat/ : Squeek!
+[02:38:25]SAY: Molerat/ : Squeek!
+[02:38:25]SAY: Molerat/ : Squeek!
+[02:38:27]SAY: Molerat/ : Squeek!
+[02:38:27]SAY: Molerat/ : Squeek, i say
+[02:38:27]SAY: Molerat/ : Squeek!
+[02:38:27]SAY: Molerat/ : Squeek, i say
+[02:38:29]SAY: Molerat/ : Squeek
+[02:38:29]SAY: Molerat/ : Squeek
+[02:38:29]SAY: Molerat/ : Squeek
+[02:38:29]SAY: Molerat/ : Squeek
+[02:38:31]SAY: Molerat/ : Squeek
+[02:38:31]SAY: Molerat/ : Squeek
+[02:38:31]SAY: Molerat/ : Squeek!
+[02:38:31]SAY: Molerat/ : Squeek!
+[02:38:31]SAY: Mutant/ : ARGH!
+[02:38:31]SAY: Molerat/ : Squeek
+[02:38:31]SAY: Molerat/ : Squeek
+[02:38:31]SAY: Molerat/ : Squeek!
+[02:38:31]SAY: Molerat/ : Squeek!
+[02:38:31]SAY: Molerat/ : Squeek!
+[02:38:33]SAY: Molerat/ : Squeek!
+[02:38:33]SAY: Molerat/ : Squeek!
+[02:38:33]SAY: Molerat/ : Squeek!
+[02:38:33]SAY: Molerat/ : Squeek, i say
+[02:38:33]SAY: Molerat/ : Squeek
+[02:38:33]SAY: Molerat/ : Squeek, i say
+[02:38:33]SAY: Molerat/ : Squeek, i say
+[02:38:33]SAY: Molerat/ : Squeek
+[02:38:33]SAY: Molerat/ : Squeek
+[02:38:33]EMOTE: giant spider (417)/ : <B>The giant spider (417)</B> chitters
+[02:38:35]SAY: Molerat/ : Squeek
+[02:38:35]SAY: Molerat/ : Squeek!
+[02:38:35]SAY: Molerat/ : Squeek!
+[02:38:35]SAY: Molerat/ : Squeek
+[02:38:35]SAY: Molerat/ : Squeek
+[02:38:35]SAY: Molerat/ : Squeek!
+[02:38:35]SAY: Molerat/ : Squeek!
+[02:38:35]SAY: Molerat/ : Squeek
+[02:38:35]SAY: Molerat/ : Squeek
+[02:38:35]SAY: Molerat/ : Squeek
+[02:38:35]SAY: Molerat/ : Squeek!
+[02:38:35]SAY: Molerat/ : Squeek!
+[02:38:35]SAY: Molerat/ : Squeek!
+[02:38:37]SAY: Molerat/ : Squeek!
+[02:38:37]SAY: Molerat/ : Squeek
+[02:38:37]SAY: Molerat/ : Squeek!
+[02:38:37]SAY: Molerat/ : Squeek
+[02:38:39]SAY: Molerat/ : Squeek
+[02:38:39]SAY: Molerat/ : Squeek
+[02:38:39]SAY: Molerat/ : Squeek
+[02:38:41]SAY: Molerat/ : Squeek
+[02:38:41]SAY: Molerat/ : Squeek, i say
+[02:38:41]SAY: Molerat/ : Squeek!
+[02:38:41]SAY: Molerat/ : Squeek, i say
+[02:38:41]SAY: Molerat/ : Squeek
+[02:38:41]SAY: Molerat/ : Squeek
+[02:38:41]SAY: Molerat/ : Squeek
+[02:38:43]SAY: Molerat/ : Squeek
+[02:38:43]SAY: Molerat/ : Squeek
+[02:38:43]SAY: Molerat/ : Squeek!
+[02:38:43]SAY: Molerat/ : Squeek
+[02:38:43]SAY: Molerat/ : Squeek
+[02:38:43]SAY: Mutant/ : GRRRRRR!
+[02:38:43]SAY: Molerat/ : Squeek!
+[02:38:43]SAY: Molerat/ : Squeek
+[02:38:43]SAY: Molerat/ : Squeek!
+[02:38:43]SAY: Molerat/ : Squeek!
+[02:38:45]SAY: Molerat/ : Squeek!
+[02:38:45]SAY: Molerat/ : Squeek!
+[02:38:45]SAY: Molerat/ : Squeek
+[02:38:45]SAY: Molerat/ : Squeek
+[02:38:45]SAY: Molerat/ : Squeek, i say
+[02:38:45]SAY: Molerat/ : Squeek, i say
+[02:38:45]SAY: Molerat/ : Squeek
+[02:38:45]SAY: Mutant/ : ARGH!
+[02:38:45]SAY: Mutant/ : HMPH!
+[02:38:45]SAY: Molerat/ : Squeek
+[02:38:45]SAY: Molerat/ : Squeek!
+[02:38:45]SAY: Molerat/ : Squeek
+[02:38:47]SAY: Molerat/ : Squeek!
+[02:38:47]SAY: Molerat/ : Squeek, i say
+[02:38:47]SAY: Molerat/ : Squeek
+[02:38:47]SAY: Molerat/ : Squeek!
+[02:38:47]SAY: Molerat/ : Squeek
+[02:38:47]SAY: Mutant/ : GRRRRRR!
+[02:38:47]SAY: Molerat/ : Squeek, i say
+[02:38:47]SAY: Molerat/ : Squeek
+[02:38:47]SAY: Molerat/ : Squeek!
+[02:38:47]SAY: Molerat/ : Squeek
+[02:38:47]EMOTE: giant rad scorpion (428)/ : <B>The giant rad scorpion (428)</B> chitters
+[02:38:49]SAY: Molerat/ : Squeek, i say
+[02:38:49]SAY: Molerat/ : Squeek
+[02:38:49]SAY: Molerat/ : Squeek
+[02:38:49]SAY: Molerat/ : Squeek, i say
+[02:38:49]SAY: Molerat/ : Squeek!
+[02:38:49]SAY: Molerat/ : Squeek!
+[02:38:51]SAY: Molerat/ : Squeek
+[02:38:51]SAY: Molerat/ : Squeek
+[02:38:51]SAY: Molerat/ : Squeek, i say
+[02:38:51]SAY: Mutant/ : ARGH!
+[02:38:51]SAY: Molerat/ : Squeek!
+[02:38:51]SAY: Molerat/ : Squeek, i say
+[02:38:51]SAY: Molerat/ : Squeek
+[02:38:53]SAY: Molerat/ : Squeek
+[02:38:53]SAY: Molerat/ : Squeek
+[02:38:53]SAY: Molerat/ : Squeek, i say
+[02:38:53]SAY: Molerat/ : Squeek, i say
+[02:38:53]SAY: Molerat/ : Squeek
+[02:38:55]SAY: Molerat/ : Squeek!
+[02:38:55]SAY: Molerat/ : Squeek, i say
+[02:38:57]SAY: Molerat/ : Squeek, i say
+[02:38:57]SAY: Molerat/ : Squeek
+[02:38:57]SAY: Molerat/ : Squeek
+[02:38:57]SAY: Molerat/ : Squeek, i say
+[02:38:57]SAY: Molerat/ : Squeek
+[02:38:57]SAY: Molerat/ : Squeek, i say
+[02:38:57]SAY: Molerat/ : Squeek!
+[02:38:57]SAY: Molerat/ : Squeek, i say
+[02:38:57]SAY: Molerat/ : Squeek, i say
+[02:38:59]SAY: Molerat/ : Squeek, i say
+[02:38:59]SAY: Molerat/ : Squeek!
+[02:38:59]SAY: Molerat/ : Squeek, i say
+[02:38:59]SAY: Molerat/ : Squeek
+[02:38:59]SAY: Molerat/ : Squeek
+[02:39:01]SAY: Molerat/ : Squeek
+[02:39:01]SAY: Mutant/ : ARRRRR!
+[02:39:01]SAY: Molerat/ : Squeek
+[02:39:03]SAY: Molerat/ : Squeek, i say
+[02:39:03]SAY: Molerat/ : Squeek
+[02:39:03]SAY: Molerat/ : Squeek!
+[02:39:03]SAY: Molerat/ : Squeek
+[02:39:03]SAY: Molerat/ : Squeek!
+[02:39:03]SAY: Molerat/ : Squeek
+[02:39:03]SAY: Molerat/ : Squeek!
+[02:39:03]SAY: Molerat/ : Squeek!
+[02:39:03]SAY: Molerat/ : Squeek
+[02:39:03]SAY: Molerat/ : Squeek
+[02:39:03]SAY: Molerat/ : Squeek
+[02:39:05]SAY: Molerat/ : Squeek
+[02:39:05]SAY: Molerat/ : Squeek, i say
+[02:39:05]SAY: Molerat/ : Squeek
+[02:39:05]SAY: Molerat/ : Squeek!
+[02:39:07]SAY: Molerat/ : Squeek!
+[02:39:07]SAY: Molerat/ : Squeek!
+[02:39:07]SAY: Molerat/ : Squeek
+[02:39:07]SAY: Molerat/ : Squeek!
+[02:39:07]SAY: Molerat/ : Squeek!
+[02:39:07]SAY: Molerat/ : Squeek
+[02:39:07]SAY: Molerat/ : Squeek, i say
+[02:39:07]SAY: Molerat/ : Squeek!
+[02:39:07]SAY: Molerat/ : Squeek
+[02:39:07]SAY: Molerat/ : Squeek
+[02:39:09]SAY: Molerat/ : Squeek
+[02:39:09]SAY: Molerat/ : Squeek!
+[02:39:09]SAY: Molerat/ : Squeek
+[02:39:09]SAY: Molerat/ : Squeek
+[02:39:09]SAY: Molerat/ : Squeek
+[02:39:09]SAY: Molerat/ : Squeek
+[02:39:09]SAY: Molerat/ : Squeek!
+[02:39:11]SAY: Molerat/ : Squeek
+[02:39:11]SAY: Molerat/ : Squeek!
+[02:39:11]SAY: Molerat/ : Squeek!
+[02:39:11]SAY: Molerat/ : Squeek!
+[02:39:11]SAY: Molerat/ : Squeek!
+[02:39:11]SAY: Molerat/ : Squeek
+[02:39:13]SAY: Molerat/ : Squeek
+[02:39:13]SAY: Molerat/ : Squeek!
+[02:39:13]SAY: Molerat/ : Squeek, i say
+[02:39:13]SAY: Molerat/ : Squeek
+[02:39:15]SAY: Molerat/ : Squeek
+[02:39:15]SAY: Molerat/ : Squeek!
+[02:39:15]SAY: Molerat/ : Squeek!
+[02:39:15]SAY: Mutant/ : NNNNNGH!
+[02:39:15]SAY: Molerat/ : Squeek
+[02:39:15]SAY: Molerat/ : Squeek!
+[02:39:15]SAY: Molerat/ : Squeek
+[02:39:15]SAY: Molerat/ : Squeek
+[02:39:15]SAY: Molerat/ : Squeek!
+[02:39:15]SAY: Molerat/ : Squeek
+[02:39:17]SAY: Molerat/ : Squeek!
+[02:39:17]SAY: Molerat/ : Squeek, i say
+[02:39:17]SAY: Molerat/ : Squeek!
+[02:39:17]SAY: Molerat/ : Squeek!
+[02:39:17]SAY: Mutant/ : HMPH!
+[02:39:17]SAY: Mutant/ : ARGH!
+[02:39:17]SAY: Molerat/ : Squeek
+[02:39:17]SAY: Molerat/ : Squeek!
+[02:39:19]SAY: Molerat/ : Squeek!
+[02:39:19]SAY: Molerat/ : Squeek
+[02:39:19]SAY: Molerat/ : Squeek
+[02:39:19]SAY: Molerat/ : Squeek
+[02:39:19]SAY: Molerat/ : Squeek
+[02:39:19]SAY: Molerat/ : Squeek!
+[02:39:19]SAY: Molerat/ : Squeek!
+[02:39:21]SAY: Molerat/ : Squeek!
+[02:39:21]SAY: Molerat/ : Squeek
+[02:39:21]SAY: Molerat/ : Squeek!
+[02:39:21]SAY: Molerat/ : Squeek
+[02:39:21]SAY: Molerat/ : Squeek
+[02:39:21]SAY: Molerat/ : Squeek!
+[02:39:23]SAY: Molerat/ : Squeek, i say
+[02:39:23]SAY: Molerat/ : Squeek
+[02:39:23]SAY: Molerat/ : Squeek
+[02:39:23]SAY: Molerat/ : Squeek
+[02:39:23]SAY: Molerat/ : Squeek!
+[02:39:23]SAY: Molerat/ : Squeek
+[02:39:23]SAY: Molerat/ : Squeek!
+[02:39:23]SAY: Molerat/ : Squeek!
+[02:39:23]SAY: Molerat/ : Squeek!
+[02:39:23]EMOTE: rad scorpion (129)/ : <B>The rad scorpion (129)</B> chitters
+[02:39:23]EMOTE: giant rad scorpion (428)/ : <B>The giant rad scorpion (428)</B> chitters
+[02:39:23]SAY: Molerat/ : Squeek
+[02:39:23]SAY: Molerat/ : Squeek!
+[02:39:25]SAY: Molerat/ : Squeek!
+[02:39:25]SAY: Molerat/ : Squeek!
+[02:39:25]SAY: Mutant/ : ARRRRR!
+[02:39:25]SAY: Molerat/ : Squeek
+[02:39:25]SAY: Molerat/ : Squeek
+[02:39:25]SAY: Molerat/ : Squeek!
+[02:39:27]SAY: Molerat/ : Squeek, i say
+[02:39:27]SAY: Molerat/ : Squeek!
+[02:39:27]SAY: Molerat/ : Squeek!
+[02:39:27]SAY: Molerat/ : Squeek
+[02:39:27]SAY: Molerat/ : Squeek, i say
+[02:39:27]SAY: Molerat/ : Squeek
+[02:39:29]SAY: Molerat/ : Squeek
+[02:39:29]SAY: Molerat/ : Squeek
+[02:39:29]SAY: Molerat/ : Squeek
+[02:39:29]SAY: Molerat/ : Squeek
+[02:39:29]SAY: Mutant/ : ARGH!
+[02:39:29]SAY: Molerat/ : Squeek
+[02:39:29]SAY: Molerat/ : Squeek!
+[02:39:29]SAY: Molerat/ : Squeek
+[02:39:31]SAY: Molerat/ : Squeek, i say
+[02:39:31]SAY: Molerat/ : Squeek!
+[02:39:31]SAY: Molerat/ : Squeek
+[02:39:31]SAY: Molerat/ : Squeek!
+[02:39:31]SAY: Molerat/ : Squeek
+[02:39:31]SAY: Molerat/ : Squeek!
+[02:39:31]SAY: Molerat/ : Squeek!
+[02:39:31]SAY: Molerat/ : Squeek
+[02:39:33]SAY: Molerat/ : Squeek, i say
+[02:39:33]SAY: Molerat/ : Squeek
+[02:39:33]SAY: Molerat/ : Squeek, i say
+[02:39:33]SAY: Molerat/ : Squeek, i say
+[02:39:34]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[02:39:35]ADMIN: PahomLancer/(Griffin Whiteman) healed / Revived PahomLancer/(Griffin Whiteman)
+[02:39:35]SAY: Molerat/ : Squeek, i say
+[02:39:35]SAY: Molerat/ : Squeek!
+[02:39:35]SAY: Molerat/ : Squeek!
+[02:39:37]SAY: Molerat/ : Squeek!
+[02:39:37]SAY: Molerat/ : Squeek
+[02:39:37]SAY: Molerat/ : Squeek
+[02:39:37]SAY: Molerat/ : Squeek, i say
+[02:39:37]SAY: Mutant/ : ARRRRR!
+[02:39:37]SAY: Mutant/ : ARGH!
+[02:39:37]SAY: Molerat/ : Squeek
+[02:39:37]SAY: Molerat/ : Squeek
+[02:39:37]SAY: Molerat/ : Squeek
+[02:39:37]SAY: Molerat/ : Squeek
+[02:39:37]SAY: Molerat/ : Squeek
+[02:39:39]SAY: Molerat/ : Squeek
+[02:39:39]SAY: Molerat/ : Squeek!
+[02:39:39]SAY: Molerat/ : Squeek!
+[02:39:39]SAY: Molerat/ : Squeek
+[02:39:39]SAY: Molerat/ : Squeek!
+[02:39:39]SAY: Molerat/ : Squeek
+[02:39:39]SAY: Molerat/ : Squeek
+[02:39:39]SAY: Molerat/ : Squeek
+[02:39:41]SAY: Molerat/ : Squeek!
+[02:39:41]SAY: Molerat/ : Squeek!
+[02:39:41]SAY: Molerat/ : Squeek
+[02:39:41]SAY: Molerat/ : Squeek!
+[02:39:41]SAY: Molerat/ : Squeek!
+[02:39:41]SAY: Molerat/ : Squeek
+[02:39:43]SAY: Molerat/ : Squeek, i say
+[02:39:43]SAY: Molerat/ : Squeek!
+[02:39:43]SAY: Molerat/ : Squeek
+[02:39:43]SAY: Molerat/ : Squeek, i say
+[02:39:43]SAY: Mutant/ : HMPH!
+[02:39:45]SAY: Molerat/ : Squeek!
+[02:39:45]SAY: Molerat/ : Squeek!
+[02:39:45]SAY: Molerat/ : Squeek
+[02:39:45]SAY: Molerat/ : Squeek
+[02:39:45]SAY: Molerat/ : Squeek!
+[02:39:45]SAY: Molerat/ : Squeek
+[02:39:45]SAY: Molerat/ : Squeek, i say
+[02:39:45]SAY: Molerat/ : Squeek
+[02:39:45]SAY: Molerat/ : Squeek
+[02:39:45]SAY: Molerat/ : Squeek!
+[02:39:45]SAY: Molerat/ : Squeek
+[02:39:48]SAY: Molerat/ : Squeek
+[02:39:48]SAY: Molerat/ : Squeek, i say
+[02:39:48]SAY: Molerat/ : Squeek!
+[02:39:48]SAY: Molerat/ : Squeek
+[02:39:48]SAY: Molerat/ : Squeek
+[02:39:48]SAY: Molerat/ : Squeek!
+[02:39:48]SAY: Molerat/ : Squeek
+[02:39:48]SAY: Molerat/ : Squeek!
+[02:39:48]SAY: Molerat/ : Squeek
+[02:39:50]SAY: Molerat/ : Squeek
+[02:39:50]SAY: Molerat/ : Squeek!
+[02:39:50]SAY: Molerat/ : Squeek
+[02:39:50]SAY: Molerat/ : Squeek!
+[02:39:50]SAY: Molerat/ : Squeek!
+[02:39:50]SAY: Molerat/ : Squeek
+[02:39:50]SAY: Molerat/ : Squeek, i say
+[02:39:50]SAY: Molerat/ : Squeek
+[02:39:50]SAY: Molerat/ : Squeek
+[02:39:52]SAY: Molerat/ : Squeek
+[02:39:52]SAY: Molerat/ : Squeek!
+[02:39:52]SAY: Molerat/ : Squeek
+[02:39:52]SAY: Molerat/ : Squeek
+[02:39:54]SAY: Molerat/ : Squeek!
+[02:39:54]SAY: Molerat/ : Squeek!
+[02:39:54]SAY: Molerat/ : Squeek!
+[02:39:54]SAY: Molerat/ : Squeek
+[02:39:54]SAY: Molerat/ : Squeek, i say
+[02:39:54]SAY: Molerat/ : Squeek
+[02:39:54]SAY: Molerat/ : Squeek
+[02:39:54]SAY: Molerat/ : Squeek!
+[02:39:54]SAY: Molerat/ : Squeek
+[02:39:54]SAY: Molerat/ : Squeek!
+[02:39:54]SAY: Molerat/ : Squeek, i say
+[02:39:55]ACCESS: Logout: PahomLancer[DC]/(Griffin Whiteman)
