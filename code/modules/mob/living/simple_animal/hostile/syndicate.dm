@@ -13,8 +13,8 @@
 	speed = 0
 	stat_attack = 1
 	robust_searching = 1
-	maxHealth = 600
-	health = 600
+	maxHealth = 300
+	health = 300
 	harm_intent_damage = 5
 	melee_damage_lower = 10
 	melee_damage_upper = 10
@@ -53,8 +53,8 @@
 	attack_sound = 'sound/weapons/bladeslice.ogg'
 	armour_penetration = 28
 	status_flags = 0
-	maxHealth = 600
-	health = 600
+	maxHealth = 300
+	health = 300
 
 /mob/living/simple_animal/hostile/syndicate/melee/bullet_act(obj/item/projectile/Proj)
 	if(!Proj)	return
