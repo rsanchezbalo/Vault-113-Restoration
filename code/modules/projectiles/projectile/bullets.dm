@@ -29,7 +29,7 @@
 	stamina = 50
 
 /obj/item/projectile/bullet/weakbullet3
-	damage = 35
+	damage = 45
 	armour_penetration = -20
 
 /obj/item/projectile/bullet/toxinbullet

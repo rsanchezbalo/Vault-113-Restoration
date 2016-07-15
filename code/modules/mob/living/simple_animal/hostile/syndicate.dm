@@ -81,14 +81,14 @@
 /mob/living/simple_animal/hostile/syndicate/ranged
 	ranged = 1
 	rapid = 1
-	retreat_distance = 5
-	minimum_distance = 5
+	retreat_distance = 2
+	minimum_distance = 2
 	icon_state = "syndicateranged"
 	icon_living = "syndicateranged"
-	casingtype = /obj/item/ammo_casing/c45nostamina
-	projectilesound = 'sound/weapons/Gunshot_smg.ogg'
+	casingtype = /obj/item/ammo_casing/c10mm
+	projectilesound = 'sound/f13weapons/10mm_fire_01.ogg'
 
-	weapon1 = /obj/item/weapon/gun/projectile/automatic/assault_rifle
+	weapon1 = /obj/item/weapon/gun/projectile/automatic/smg10mm
 
 /mob/living/simple_animal/hostile/syndicate/ranged/space
 	icon_state = "syndicaterangedpsace"

@@ -85,18 +85,12 @@
 //List of different corpse types
 
 /obj/effect/landmark/mobcorpse/syndicatesoldier
-	name = "Syndicate Operative"
-	corpseuniform = /obj/item/clothing/under/syndicate
-	corpsesuit = /obj/item/clothing/suit/armor/vest
+	name = "Gunner"
+	corpseuniform = /obj/item/clothing/under/f13/combat
+	corpsesuit = /obj/item/clothing/suit/armor/f13/combat
 	corpseshoes = /obj/item/clothing/shoes/combat
 	corpsegloves = /obj/item/clothing/gloves/combat
-	corpseradio = /obj/item/device/radio/headset
-	corpsemask = /obj/item/clothing/mask/gas
-	corpsehelmet = /obj/item/clothing/head/helmet/swat
-	corpseback = /obj/item/weapon/storage/backpack
-	corpseid = 1
-	corpseidjob = "Operative"
-	corpseidaccess = "Syndicate"
+	corpsehelmet = /obj/item/clothing/head/helmet/f13/combat
 
 
 
