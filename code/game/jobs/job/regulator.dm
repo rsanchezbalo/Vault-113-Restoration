@@ -29,7 +29,8 @@ Regulator
 	shoes = /obj/item/clothing/shoes/workboots
 	suit = /obj/item/clothing/suit/armor/vest/det_suit
 	head = /obj/item/clothing/head/fluff/cowboy
-	suit_store = /obj/item/weapon/gun/projectile/automatic/pistol/m1911
+	//suit_store = /obj/item/weapon/gun/projectile/automatic/pistol/m1911
+	suit_store = /obj/item/weapon/gun/projectile/shotgun/boltaction
 	back = /obj/item/weapon/storage/backpack
 	backpack = /obj/item/weapon/storage/backpack
 	satchel = /obj/item/weapon/storage/backpack/satchel_norm

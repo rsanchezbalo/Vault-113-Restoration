@@ -32,11 +32,12 @@ Raider
 		/obj/item/clothing/suit/armor/f13/yankee)
 	head = /obj/item/clothing/head/helmet/f13/supaflyhelmet
 	suit_store = /obj/item/weapon/gun/projectile/revolver/doublebarrel/improvised
-	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1)
+	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1,\
+	/obj/item/weapon/storage/box/lethalshot=1)
 	back = /obj/item/weapon/storage/backpack
 	backpack = /obj/item/weapon/storage/backpack
 	satchel = /obj/item/weapon/storage/backpack/satchel_norm
 	if (prob(50))
 		glasses = /obj/item/clothing/glasses/sunglasses
 	if (prob(80))
-		l_hand = pick(/obj/item/weapon/gun/projectile/automatic/pistol/n99)
+		l_hand = pick(/obj/item/weapon/hatchet)

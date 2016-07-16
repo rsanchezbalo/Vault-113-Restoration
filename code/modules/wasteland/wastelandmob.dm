@@ -61,14 +61,60 @@
 	response_help = "pets"
 	response_disarm = "gently pushes aside"
 	response_harm = "hits"
-	maxHealth = 100
-	health = 100
-	force_threshold = 10
+	maxHealth = 80
+	health = 80
 	faction = list("wmob")
 	melee_damage_lower = 5
 	melee_damage_upper = 10
 	attacktext = "bites"
 	speed = 2
+
+/mob/living/simple_animal/hostile/gekkon
+	name = "Gekkon"
+	desc = "It's Gekkon, not G.E.C.K."
+	icon_state = "gekkon"
+	icon_living = "gekkon"
+	icon_dead = "gekkon_dead"
+	//speak_chance = 20
+	//speak = list("Squeek!", "Squeek, i say", "Squeek", "Squeek", "Squeek", "Squeek!", "Squeek", "Squeek!")
+	//speak_emote = list("chirps")
+	turns_per_move = 1
+	response_help = "pets"
+	response_disarm = "gently pushes aside"
+	response_harm = "hits"
+	maxHealth = 120
+	health = 120
+	force_threshold = 5
+	faction = list("wmobs")
+	melee_damage_lower = 10
+	melee_damage_upper = 15
+	attacktext = "bites"
+	speed = 2
+
+/mob/living/simple_animal/hostile/deathclaw
+	name = "Deathclaw"
+	desc = "A huge monster"
+	icon = 'icons/mob/deathclaw.dmi'
+	icon_state = "deathclaw"
+	icon_living = "deathclaw"
+	icon_dead = "deathclaw_dead"
+	//speak_chance = 40
+	//speak = list("GRRRRRR!", "ARGH!", "NNNNNGH!", "HMPH!", "ARRRRR!")
+	//speak_emote = list("shouts", "yells")
+	speed = 3
+	turns_per_move = 5
+	response_help = "touches"
+	response_disarm = "tries to push aside"
+	response_harm = "hits"
+	maxHealth = 500
+	health = 500
+	force_threshold = 20
+	faction = list("wclaw")
+	melee_damage_lower = 40
+	melee_damage_upper = 60
+	attacktext = "slashes"
+	attack_sound = 'sound/weapons/bladeslice.ogg'
+
 
 /mob/living/simple_animal/hostile/badmutant
 	name = "Mutant"
@@ -90,7 +136,7 @@
 	faction = list("wmaster")
 	melee_damage_lower = 25
 	melee_damage_upper = 35
-	attacktext = "punches"
+	attacktext = "hits"
 	attack_sound = 'sound/weapons/punch4.ogg'
 
 /mob/living/simple_animal/hostile/badmutant/death(gibbed)
