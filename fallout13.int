@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1468669105
-DIR: _maps _maps\map_files _maps\map_files\generic _maps\map_files\TgStation code code\game code\game\jobs code\game\jobs\job code\modules code\modules\wasteland icons icons\mob sound sound\f13weapons sound\weapons 
+LAST_COMPILE_TIME: 1468758070
+DIR: _maps _maps\map_files _maps\map_files\TgStation code code\game code\game\jobs code\game\jobs\job code\game\objects code\game\objects\items code\game\objects\items\weapons code\game\objects\structures code\game\objects\structures\crates_lockers code\game\objects\structures\crates_lockers\closets code\game\objects\structures\crates_lockers\closets\secure code\modules code\modules\admin code\modules\admin\verbs code\modules\awaymissions code\modules\clothing icons icons\obj 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 509.1300
-WINDOW: _maps\map_files\TgStation\tgstation.2.1.3.dmm;icons\turf\Ritas.dmi;code\modules\projectiles\guns\projectile\sniper.dm;code\modules\projectiles\guns\projectile\shotgun.dm;code\modules\projectiles\projectile\bullets.dm;icons\obj\trash.dmi;_maps\map_files\TgStation\backup\tgstation.2.1.3.dmm;icons\obj\contraband.dmi;_maps\map_files\generic\z5.dmm;code\modules\mob\living\simple_animal\hostile\mining_mobs.dm;code\modules\procedural mapping\mapGenerators\asteroid.dm;code\modules\wasteland\wastelandmob.dm;icons\mob\deathclaw.dmi;code\game\jobs\job\medical.dm;code\game\jobs\job\science.dm
-FILE: code\game\jobs\job\science.dm
+WINDOW: _maps\map_files\TgStation\tgstation.2.1.3.dmm;icons\obj\trash.dmi;icons\obj\contraband.dmi;_maps\map_files\generic\z5.dmm;code\modules\wasteland\wastelandmob.dm;code\modules\mob\living\simple_animal\hostile\russian.dm;icons\obj\guns\projectile.dmi;code\game\objects\items\weapons\weaponry.dm;code\modules\clothing\clothing.dm;icons\obj\items.dmi;code\game\jobs\job\raider.dm;code\game\jobs\job\security.dm
+FILE: code\game\jobs\job\raider.dm
 */
 // END_INTERNALS

@@ -11,16 +11,16 @@
 	response_disarm = "shoves"
 	response_harm = "hits"
 	speed = 0
-	maxHealth = 100
-	health = 100
+	maxHealth = 150
+	health = 150
 	harm_intent_damage = 10
-	melee_damage_lower = 15
-	melee_damage_upper = 15
+	melee_damage_lower = 25
+	melee_damage_upper = 25
 	attacktext = "bashes"
 	attack_sound = 'sound/weapons/punch1.ogg'
 	a_intent = "harm"
 	var/corpse = /obj/effect/landmark/mobcorpse/russian
-	var/weapon1 = /obj/item/weapon/kitchen/knife
+	var/weapon1 = /obj/item/weapon/twohanded/fireaxe
 	atmos_requirements = list("min_oxy" = 5, "max_oxy" = 0, "min_tox" = 0, "max_tox" = 1, "min_co2" = 0, "max_co2" = 5, "min_n2" = 0, "max_n2" = 0)
 	unsuitable_atmos_damage = 15
 	faction = list("russian")
@@ -31,12 +31,12 @@
 	icon_state = "russianranged"
 	icon_living = "russianranged"
 	corpse = /obj/effect/landmark/mobcorpse/russian/ranged
-	weapon1 = /obj/item/weapon/gun/projectile/revolver
+	weapon1 = /obj/item/weapon/gun/projectile/revolver/doublebarrel/improvised
 	ranged = 1
-	retreat_distance = 5
-	minimum_distance = 5
+	retreat_distance = 3
+	minimum_distance = 3
 	projectilesound = 'sound/weapons/Gunshot.ogg'
-	casingtype = /obj/item/ammo_casing/m44
+	casingtype = /obj/item/ammo_casing/shotgun/buckshot
 
 /mob/living/simple_animal/hostile/russian/ranged/New()
 	if(prob(50) && ispath(weapon1,/obj/item/weapon/gun/projectile/revolver)) //to preserve varedits

@@ -85,10 +85,10 @@
 ///////////////////////
 
 /obj/item/weapon/gun/projectile/shotgun/boltaction
-	name = "\improper Mosin Nagant"
+	name = "Hunting rifle"
 	desc = "This piece of junk looks like something that could have been used 700 years ago. It feels slightly moist."
-	icon_state = "moistnugget"
-	item_state = "moistnugget"
+	icon_state = "rifle308_scope"
+	item_state = "rifle308_scope"
 	slot_flags = 0 //no SLOT_BACK sprite, alas
 	mag_type = /obj/item/ammo_box/magazine/internal/boltaction
 	var/bolt_open = 0

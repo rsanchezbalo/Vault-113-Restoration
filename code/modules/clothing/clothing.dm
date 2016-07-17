@@ -37,6 +37,17 @@
 	put_on_delay = 25
 	burn_state = FLAMMABLE
 
+/obj/item/clothing/ears/raider_mark
+	name = "Raider mark"
+	desc = "I see you cyka"
+	icon_state = "raider"
+	item_state = "raider"
+	flags = ABSTRACT | NODROP
+	strip_delay = 15
+	put_on_delay = 25
+	burn_state = FLAMMABLE
+
+
 //Glasses
 /obj/item/clothing/glasses
 	name = "glasses"
