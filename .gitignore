@@ -8,6 +8,11 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+# For Animus Zlo
+*.dmb
+*.rsc
+*.lk
+
 # Windows Installer files
 *.cab
 *.msi
