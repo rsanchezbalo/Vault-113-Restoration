@@ -126,7 +126,9 @@
 	mymob.blind.icon_state = "blackimageoverlay"
 	mymob.blind.name = " "
 	mymob.blind.screen_loc = "CENTER-7,CENTER-7"
-	mymob.blind.layer = 0
+	//mymob.blind.layer = 0
+	mymob.blind.layer = 18
+	mymob.blind.alpha = 0
 	mymob.blind.mouse_opacity = 0
 
 	mymob.flash = new /obj/screen()
