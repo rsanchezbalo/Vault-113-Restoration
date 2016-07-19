@@ -15,6 +15,7 @@
 	update_canmove()
 	if(src.eyeobj)
 		src.eyeobj.setLoc(get_turf(src))
+	//if(blind)	blind.layer = 0
 	if(blind)	blind.alpha = 0
 	sight |= SEE_TURFS|SEE_MOBS|SEE_OBJS
 	see_in_dark = 8

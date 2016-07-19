@@ -189,9 +189,11 @@
 	if(stat != DEAD)
 		if(blind)
 			if(eye_blind)
+				//blind.layer = 18
 				blind.alpha = 255
 				throw_alert("blind", /obj/screen/alert/blind)
 			else
+				//blind.layer = 0
 				blind.alpha = 0
 				clear_alert("blind")
 
