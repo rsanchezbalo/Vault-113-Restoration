@@ -64,15 +64,16 @@ var/global/datum/controller/master/Master = new()
 	subsystems = Master.subsystems
 
 /datum/controller/master/proc/Setup(zlevel)
+	set background = 1
 	// Per-Z-level subsystems.
+	world << "<span class='boldannounce'>Initializing subsystems...</span>"
 	if (zlevel && zlevel > 0 && zlevel <= world.maxz)
 		for(var/datum/subsystem/SS in subsystems)
 			SS.Initialize(world.timeofday, zlevel)
 			sleep(-1)
-		return
-	world << "<span class='boldannounce'>Initializing subsystems...</span>"
+		//return
 
-	preloadTemplates()
+	/*preloadTemplates()
 	// Pick a random away mission.
 	createRandomZlevel()
 	// Generate asteroid.
@@ -88,7 +89,7 @@ var/global/datum/controller/master/Master = new()
 		SS.Initialize(world.timeofday, zlevel)
 		sleep(-1)
 
-	world << "<span class='boldannounce'>Initializations complete!</span>"
+	world << "<span class='boldannounce'>Initializations complete!</span>"*/
 
 	// Sort subsystems by display setting for easy access.
 	sortTim(subsystems, /proc/cmp_subsystem_display)

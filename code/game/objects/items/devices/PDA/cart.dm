@@ -477,7 +477,7 @@ Code:
 
 			menu += "<br>"
 
-		if (47) //quartermaster order records
+		/*if (47) //quartermaster order records
 			menu = "<h4><img src=pda_crate.png> Supply Record Interlink</h4>"
 
 			menu += "<BR><B>Supply shuttle</B><BR>"
@@ -507,7 +507,7 @@ Code:
 				var/datum/supply_order/SO = S
 				menu += "<li>#[SO.ordernum] - [SO.object.name] requested by [SO.orderedby]</li>"
 			menu += "</ol><font size=\"-3\">Upgrade NOW to Space Parts & Space Vendors PLUS for full remote order control and inventory management."
-
+		*/
 		if (49) //janitorial locator
 			menu = "<h4><img src=pda_bucket.png> Persistent Custodial Object Locator</h4>"
 

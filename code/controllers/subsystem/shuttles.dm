@@ -17,7 +17,7 @@ var/datum/subsystem/shuttle/SSshuttle
 	var/area/emergencyLastCallLoc
 	var/emergencyNoEscape
 
-		//supply shuttle stuff
+/*		//supply shuttle stuff
 	var/obj/docking_port/mobile/supply/supply
 	var/ordernum = 1					//order number given to next order
 	var/points = 50						//number of trade-points we have
@@ -35,7 +35,7 @@ var/datum/subsystem/shuttle/SSshuttle
 	var/list/requestlist = list()
 	var/list/supply_packs = list()
 	var/datum/round_event/shuttle_loan/shuttle_loan
-	var/sold_atoms = ""
+	var/sold_atoms = ""*/
 
 
 /datum/subsystem/shuttle/New()
@@ -47,21 +47,21 @@ var/datum/subsystem/shuttle/SSshuttle
 		return ..()
 	if(!emergency)
 		WARNING("No /obj/docking_port/mobile/emergency placed on the map!")
-	if(!supply)
-		WARNING("No /obj/docking_port/mobile/supply placed on the map!")
+	//if(!supply)
+	//	WARNING("No /obj/docking_port/mobile/supply placed on the map!")
 
-	ordernum = rand(1,9000)
+	//ordernum = rand(1,9000)
 
-	for(var/typepath in subtypesof(/datum/supply_packs))
+	/*for(var/typepath in subtypesof(/datum/supply_packs))
 		var/datum/supply_packs/P = new typepath()
 		if(P.name == "HEADER") continue		// To filter out group headers
-		supply_packs["[P.type]"] = P
+		supply_packs["[P.type]"] = P*/
 	initial_move()
 	..()
 
 
 /datum/subsystem/shuttle/fire()
-	points += points_per_decisecond * wait
+	//points += points_per_decisecond * wait
 	for(var/thing in mobile)
 		if(thing)
 			var/obj/docking_port/mobile/P = thing
@@ -211,7 +211,7 @@ var/datum/subsystem/shuttle/SSshuttle
 				S.dheight = M.dheight
 		moveShuttle(M.id, "[M.roundstart_move]", 0)
 
-/datum/supply_order
+/*/datum/supply_order
 	var/ordernum
 	var/datum/supply_packs/object = null
 	var/orderedby = null
@@ -330,5 +330,5 @@ var/datum/subsystem/shuttle/SSshuttle
 
 	requestlist += O
 
-	return O
+	return O*/
 

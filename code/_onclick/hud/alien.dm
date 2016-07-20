@@ -145,4 +145,4 @@
 
 	mymob.client.screen += list( mymob.throw_icon, mymob.zone_sel, mymob.healths, nightvisionicon, alien_plasma_display, mymob.pullin, mymob.blind, mymob.flash) //, mymob.hands, mymob.rest, mymob.sleep, mymob.mach )
 	mymob.client.screen += adding + other
-	mymob.client.screen += mymob.client.void
+	//mymob.client.screen += mymob.client.void

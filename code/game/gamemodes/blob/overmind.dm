@@ -272,5 +272,5 @@
 	adding += using
 
 	mymob.client.screen = list()
-	mymob.client.screen += mymob.client.void
+	//mymob.client.screen += mymob.client.void
 	mymob.client.screen += adding

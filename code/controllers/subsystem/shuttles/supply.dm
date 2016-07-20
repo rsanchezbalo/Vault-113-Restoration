@@ -4,7 +4,7 @@
 	var/points = 0
 	var/ordernumber = 0
 
-/obj/docking_port/mobile/supply
+/*/obj/docking_port/mobile/supply
 	name = "supply shuttle"
 	id = "supply"
 	callTime = 1200
@@ -204,7 +204,7 @@
 		msg += "<font color=green>+[pointsEarned]</font>: Received [crate_count] crate(s).<BR>"
 		SSshuttle.points += pointsEarned
 
-	SSshuttle.centcom_message = msg
+	SSshuttle.centcom_message = msg*/
 
 
 /proc/forbidden_atoms_check(atom/A)
@@ -232,7 +232,7 @@
 	return 0
 
 
-/obj/machinery/computer/ordercomp/attack_hand(mob/user)
+/*/obj/machinery/computer/ordercomp/attack_hand(mob/user)
 	if(..())
 		return
 	user.set_machine(src)
@@ -556,4 +556,4 @@
 	status_signal.transmission_method = 1
 	status_signal.data["command"] = command
 
-	frequency.post_signal(src, status_signal)
+	frequency.post_signal(src, status_signal)*/
