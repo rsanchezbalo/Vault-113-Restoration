@@ -45,29 +45,53 @@ proc/sanitize(text,html=0)
        */
 
 //Removes a few problematic characters
-/proc/sanitize_simple(var/t,var/list/repl_chars = list("\n"="#","\t"="#","ÿ"="ß"))//cyka
-	for(var/char in repl_chars)
-		var/index = findtext(t, char)
-		while(index)
-			t = copytext(t, 1, index) + repl_chars[char] + copytext(t, index+1)
-			index = findtext(t, char)
+proc/sanitize(var/t)
+	var/index = findtext(t, "\n")
+	while(index)
+		t = copytext(t, 1, index) + "#" + copytext(t, index+1)
+		index = findtext(t, "\n")
+
+	index = findtext(t, "\t")
+	while(index)
+		t = copytext(t, 1, index) + "#" + copytext(t, index+1)
+		index = findtext(t, "\t")
+	index = findtext(t, "ÿ")
+	while(index)
+		t = copytext(t, 1, index) + "____255;" + copytext(t, index+1)
+		index = findtext(t, "ÿ")
+
+	t = html_encode(t)
+
+	index = findtext(t, "____255;")
+	while(index)
+		t = copytext(t, 1, index) + "&#255;" + copytext(t, index+8)
+		index = findtext(t, "____255;")
+
 	return t
 
+/proc/strip_html(var/t,var/limit=MAX_MESSAGE_LEN)
+	t = copytext(t,1,limit)
+	var/index = findtext(t, "<")
+	while(index)
+		t = copytext(t, 1, index) + copytext(t, index+1)
+		index = findtext(t, "<")
+	index = findtext(t, ">")
+	while(index)
+		t = copytext(t, 1, index) + copytext(t, index+1)
+		index = findtext(t, ">")
+	return sanitize(t)
 
-//Runs byond's sanitization proc along-side sanitize_simple
-/proc/sanitize(t,list/repl_chars = null)
-	return html_encode(sanitize_simple(t,repl_chars))
-
-//Runs sanitize and strip_html_simple
-//I believe strip_html_simple() is required to run first to prevent '<' from displaying as '&lt;' after sanitize() calls byond's html_encode()
-/proc/strip_html(t,limit=MAX_MESSAGE_LEN)
-	return copytext((sanitize(strip_html_simple(t))),1,limit)
-
-//Runs byond's sanitization proc along-side strip_html_simple
-//I believe strip_html_simple() is required to run first to prevent '<' from displaying as '&lt;' that html_encode() would cause
-/proc/adminscrub(t,limit=MAX_MESSAGE_LEN)
-	return copytext((html_encode(strip_html_simple(t))),1,limit)
-
+/proc/adminscrub(var/t,var/limit=MAX_MESSAGE_LEN)
+	t = copytext(t,1,limit)
+	var/index = findtext(t, "<")
+	while(index)
+		t = copytext(t, 1, index) + copytext(t, index+1)
+		index = findtext(t, "<")
+	index = findtext(t, ">")
+	while(index)
+		t = copytext(t, 1, index) + copytext(t, index+1)
+		index = findtext(t, ">")
+	return html_encode(t)
 
 //Returns null if there is any bad text in the string
 /proc/reject_bad_text(text, max_length=512)
