@@ -63,14 +63,8 @@ var/global/datum/controller/master/Master = new()
 
 	subsystems = Master.subsystems
 
-/datum/controller/master/proc/Setup(zlevel)
-	// Per-Z-level subsystems.
-	if (zlevel && zlevel > 0 && zlevel <= world.maxz)
-		for(var/datum/subsystem/SS in subsystems)
-			SS.Initialize(world.timeofday, zlevel)
-			sleep(-1)
-		return
-	world << "<span class='boldannounce'>Initializing subsystems...</span>"
+/datum/controller/master/proc/Setup(zlevel = 0)
+	set background = 1
 
 	preloadTemplates()
 	// Pick a random away mission.
@@ -80,17 +74,20 @@ var/global/datum/controller/master/Master = new()
 	// Set up Z-level transistions.
 	setup_map_transitions()
 
-	// Sort subsystems by priority, so they initialize in the correct order.
+	world << "<span class='boldannounce'>Initializing subsystems...</span>"
 	sortTim(subsystems, /proc/cmp_subsystem_priority)
 
-	// Initialize subsystems.
-	for(var/datum/subsystem/SS in subsystems)
-		SS.Initialize(world.timeofday, zlevel)
-		sleep(-1)
+	// Per-Z-level subsystems.
+	if (zlevel && zlevel > 0 && zlevel <= world.maxz)
+		for(var/datum/subsystem/SS in subsystems)
+			SS.Initialize(world.timeofday, zlevel)
+			sleep(-1)
+	else
+		for(var/datum/subsystem/SS in subsystems)
+			warning("[SS.name]")
+			SS.Initialize(world.timeofday, zlevel)
+			sleep(-1)
 
-	world << "<span class='boldannounce'>Initializations complete!</span>"
-
-	// Sort subsystems by display setting for easy access.
 	sortTim(subsystems, /proc/cmp_subsystem_display)
 
 	// Set world options.
@@ -98,7 +95,6 @@ var/global/datum/controller/master/Master = new()
 	world.fps = config.fps
 
 	sleep(-1)
-
 	// Loop.
 	Master.process()
 

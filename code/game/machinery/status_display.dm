@@ -121,7 +121,7 @@
 				if(index2 > message2_len)
 					index2 -= message2_len
 			update_display(line1, line2)
-		if(4)				// supply shuttle timer
+		/*if(4)				// supply shuttle timer
 			var/line1
 			var/line2
 			if(SSshuttle.supply.mode == SHUTTLE_IDLE)
@@ -134,7 +134,7 @@
 				if(lentext(line2) > CHARS_PER_LINE)
 					line2 = "Error"
 
-			update_display(line1, line2)
+			update_display(line1, line2)*/
 
 /obj/machinery/status_display/examine(mob/user)
 	. = ..()
@@ -174,11 +174,11 @@
 		return "[add_zero(num2text((timeleft / 60) % 60),2)]:[add_zero(num2text(timeleft % 60), 2)]"
 	return "00:00"
 
-/obj/machinery/status_display/proc/get_supply_shuttle_timer()
+/*/obj/machinery/status_display/proc/get_supply_shuttle_timer()
 	var/timeleft = SSshuttle.supply.timeLeft()
 	if(timeleft > 0)
 		return "[add_zero(num2text((timeleft / 60) % 60),2)]:[add_zero(num2text(timeleft % 60), 2)]"
-	return "00:00"
+	return "00:00"*/
 
 /obj/machinery/status_display/proc/remove_display()
 	if(overlays.len)

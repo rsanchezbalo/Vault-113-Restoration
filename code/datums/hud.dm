@@ -78,8 +78,8 @@ var/datum/atom_hud/huds = list( \
 /mob/new_player/reload_huds()
 	return
 
-/mob/proc/add_click_catcher()
+/*/mob/proc/add_click_catcher()
 	client.screen += client.void
 
 /mob/new_player/add_click_catcher()
-	return
+	return*/

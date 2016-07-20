@@ -13,11 +13,11 @@
 /obj/structure/largecrate/update_icon()
 	..()
 	overlays.Cut()
-	if(manifest)
-		overlays += "manifest"
+	//if(manifest)
+	//	overlays += "manifest"
 
 /obj/structure/largecrate/attack_hand(mob/user)
-	if(manifest)
+	/*if(manifest)
 		user << "<span class='notice'>You tear the manifest off of the crate.</span>"
 		playsound(src.loc, 'sound/items/poster_ripped.ogg', 75, 1)
 		manifest.loc = loc
@@ -26,9 +26,9 @@
 		manifest = null
 		update_icon()
 		return
-	else
-		user << "<span class='warning'>You need a crowbar to pry this open!</span>"
-		return
+	else*/
+	user << "<span class='warning'>You need a crowbar to pry this open!</span>"
+	return
 
 /obj/structure/largecrate/attackby(obj/item/weapon/W, mob/user, params)
 	if(istype(W, /obj/item/weapon/crowbar))

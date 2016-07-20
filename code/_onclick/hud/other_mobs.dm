@@ -13,7 +13,7 @@
 
 	mymob.client.screen = list()
 	mymob.client.screen += list(mymob.blind)
-	mymob.client.screen += mymob.client.void
+	//mymob.client.screen += mymob.client.void
 
 /datum/hud/proc/hoggod_hud(ui_style = 'icons/mob/screen_midnight.dmi')
 	deity_health_display = new /obj/screen()

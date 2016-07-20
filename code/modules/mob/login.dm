@@ -55,7 +55,7 @@
 	if(ckey in deadmins)
 		verbs += /client/proc/readmin
 
-	add_click_catcher()
+	//add_click_catcher()
 
 	sync_mind()
 
