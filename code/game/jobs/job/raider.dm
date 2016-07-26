@@ -33,7 +33,7 @@ Raider
 	head = /obj/item/clothing/head/helmet/f13/supaflyhelmet
 	suit_store = /obj/item/weapon/gun/projectile/revolver/doublebarrel/improvised
 	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1,\
-	/obj/item/weapon/storage/box/lethalshot=1)
+	/obj/item/weapon/pipe=1)
 	ears = /obj/item/clothing/ears/raider_mark
 	back = /obj/item/weapon/storage/backpack
 	backpack = /obj/item/weapon/storage/backpack

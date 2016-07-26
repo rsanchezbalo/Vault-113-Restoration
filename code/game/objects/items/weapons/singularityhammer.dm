@@ -118,3 +118,54 @@
 /obj/item/weapon/twohanded/mjollnir/update_icon()  //Currently only here to fuck with the on-mob icons.
 	icon_state = "mjollnir[wielded]"
 	return
+
+//superhammer
+
+/obj/item/weapon/twohanded/superhammer
+	name = "Superhammer"
+	desc = "Superkuvalda, BOS produced using the most modern weapons technology. Equipped with storage of kinetic energy to enhance impact."
+	icon_state = "SuperSledgeHammer"
+	flags = CONDUCT
+	slot_flags = SLOT_BACK
+	force = 5
+	force_unwielded = 10
+	force_wielded = 45
+	throwforce = 30
+	throw_range = 7
+	w_class = 5
+	//var/charged = 5
+	origin_tech = "combat=5;powerstorage=5"
+
+/obj/item/weapon/twohanded/superhammer/proc/shock(mob/living/target)
+	var/datum/effect_system/lightning_spread/s = new /datum/effect_system/lightning_spread
+	s.set_up(5, 1, target.loc)
+	s.start()
+	target.visible_message("<span class='danger'>[target.name] was shocked by the [src.name]!</span>", \
+		"<span class='userdanger'>You feel a powerful shock course through your body sending you flying!</span>", \
+		"<span class='italics'>You hear a heavy electrical crack!</span>")
+	var/atom/throw_target = get_edge_target_turf(target, get_dir(src, get_step_away(target, src)))
+	target.throw_at(throw_target, 200, 4)
+	return
+
+
+/obj/item/weapon/twohanded/superhammer/attack(mob/M, mob/user)
+	..()
+	spawn(0)
+	if(wielded)
+		//if(charged == 5)
+		//charged = 0
+		playsound(src.loc, "sparks", 50, 1)
+		if(istype(M, /mob/living))
+			M.Stun(3)
+			shock(M)
+
+/obj/item/weapon/twohanded/superhammer/throw_impact(atom/target)
+	. = ..()
+	if(istype(target, /mob/living))
+		var/mob/living/L = target
+		L.Stun(3)
+		shock(L)
+
+/obj/item/weapon/twohanded/superhammer/update_icon()  //Currently only here to fuck with the on-mob icons.
+	icon_state = "SuperSledgeHammer[wielded]"
+	return
