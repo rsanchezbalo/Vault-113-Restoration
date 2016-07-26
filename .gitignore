@@ -12,8 +12,6 @@ $RECYCLE.BIN/
 *.dmb
 *.rsc
 *.lk
-*.backup
-*.int
 
 # Windows Installer files
 *.cab
@@ -48,3 +46,5 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+fallout13.int
