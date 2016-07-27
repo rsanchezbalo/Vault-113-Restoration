@@ -49,8 +49,8 @@
 	name = "venus human trap"
 	desc = "now you know how the fly feels"
 	icon_state = "venus_human_trap"
-	health = 50
-	maxHealth = 50
+	health = 75
+	maxHealth = 75
 	ranged = 1
 	harm_intent_damage = 5
 	melee_damage_lower = 25
@@ -59,7 +59,7 @@
 	attack_sound = 'sound/weapons/bladeslice.ogg'
 	atmos_requirements = list("min_oxy" = 0, "max_oxy" = 0, "min_tox" = 0, "max_tox" = 0, "min_co2" = 0, "max_co2" = 0, "min_n2" = 0, "max_n2" = 0)
 	unsuitable_atmos_damage = 0
-	faction = list("hostile","vines","plants")
+	faction = list("plants")
 	var/list/grasping = list()
 	var/max_grasps = 4
 	var/grasp_chance = 20
