@@ -39,3 +39,21 @@
 /obj/item/stack/spacecash/c1000
 	icon_state = "spacecash1000"
 	desc = "It's worth 1000 credits."
+
+/obj/item/stack/coins
+	name = "coins"
+	desc = "It's worth 1 coin."
+	singular_name = "bill"
+	icon = 'icons/obj/economy.dmi'
+	icon_state = "coins"
+	amount = 1
+	max_amount = 300
+	throwforce = 0
+	throw_speed = 2
+	throw_range = 2
+	w_class = 1
+	//burn_state = FLAMMABLE
+
+/obj/item/stack/coins/bag
+	icon_state = "money_coins"
+	desc = "It's worth 10 coins."
