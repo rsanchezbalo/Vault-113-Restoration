@@ -36,13 +36,12 @@ Scavenger
 	if (prob(80))
 		l_hand = pick(/obj/item/weapon/kitchen/knife,\
 			/obj/item/weapon/storage/toolbox/mechanical)
-
-
-	if (prob(100))
-		back = /obj/item/weapon/storage/backpack
-		backpack = /obj/item/weapon/storage/backpack
-		satchel = /obj/item/weapon/storage/backpack/satchel_norm
-		backpack_contents = pick(list(/obj/item/weapon/reagent_containers/food/drinks/nukacola = 2),\
-			list(/obj/item/weapon/reagent_containers/food/snacks/beans = 2),\
-			list(/obj/item/weapon/reagent_containers/syringe/stimulants))
+	back = /obj/item/weapon/storage/backpack
+	backpack = /obj/item/weapon/storage/backpack
+	satchel = /obj/item/weapon/storage/backpack/satchel_norm
+	backpack_contents = list(/obj/item/weapon/reagent_containers/food/drinks/nukacola = 2,\
+		/obj/item/weapon/reagent_containers/food/snacks/beans = 2,\
+		/obj/item/weapon/reagent_containers/syringe/stimulants = 1,\
+		/obj/item/weapon/storage/wallet=1, \
+		/obj/item/stack/coin/bag = 1)
 
