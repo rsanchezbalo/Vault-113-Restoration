@@ -84,7 +84,6 @@ var/global/datum/controller/master/Master = new()
 			sleep(-1)
 	else
 		for(var/datum/subsystem/SS in subsystems)
-			warning("[SS.name]")
 			SS.Initialize(world.timeofday, zlevel)
 			sleep(-1)
 
