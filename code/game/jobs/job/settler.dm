@@ -42,5 +42,4 @@ Settler
 		backpack_contents = pick(list(/obj/item/device/analyzer/plant_analyzer = 1), \
 			list(/obj/item/stack/cable_coil = 1), \
 			list(/obj/item/stack/sheet/mineral/wood = 1), \
-			list(/obj/item/stack/sheet/mineral/sandstone = 1), \
-			list(/obj/item/weapon/reagent_containers/syringe/stimulants))
+			list(/obj/item/stack/sheet/mineral/sandstone = 1))

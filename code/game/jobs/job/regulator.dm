@@ -34,7 +34,9 @@ Regulator
 	back = /obj/item/weapon/storage/backpack
 	backpack = /obj/item/weapon/storage/backpack
 	satchel = /obj/item/weapon/storage/backpack/satchel_norm
-	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1)
+	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1, \
+	/obj/item/weapon/storage/wallet=1, \
+	/obj/item/stack/coin/coins = 1)
 
 	if (prob(50))
 		glasses = /obj/item/clothing/glasses/sunglasses

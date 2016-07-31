@@ -48,7 +48,7 @@
 /mob/living/simple_animal/hostile/venus_human_trap
 	name = "venus human trap"
 	desc = "now you know how the fly feels"
-	icon_state = "venus_human_trap"
+	icon_state = "triffid2"
 	health = 75
 	maxHealth = 75
 	ranged = 1
