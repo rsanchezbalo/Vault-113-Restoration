@@ -225,6 +225,9 @@
 /obj/item/weapon/reagent_containers/glass/beaker/sulphuric
 	list_reagents = list("sacid" = 50)
 
+/obj/item/weapon/reagent_containers/glass/beaker/blackpowder
+	list_reagents = list("blackpowder" = 50)
+
 /obj/item/weapon/reagent_containers/glass/beaker/slime
 	list_reagents = list("slimejelly" = 50)
 

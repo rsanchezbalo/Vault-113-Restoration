@@ -15,7 +15,7 @@
 	result = /obj/item/weapon/gun
 	reqs = list(/obj/item/weapon/gun = 1)
 	parts = list(/obj/item/weapon/gun = 1)
-	tools = list(/obj/item/weapon/gun/energy/plasmacutter, /obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
+	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
 	time = 50
 	category = CAT_WEAPON
 
@@ -175,7 +175,7 @@
 	tools = list(/obj/item/weapon/screwdriver)
 	time = 20
 	category = CAT_WEAPON
-
+/*
 /datum/table_recipe/meteorshot
 	name = "Meteorshot Shell"
 	result = /obj/item/ammo_casing/shotgun/meteorshot
@@ -185,7 +185,8 @@
 	tools = list(/obj/item/weapon/screwdriver)
 	time = 5
 	category = CAT_AMMO
-
+	*/
+/*
 /datum/table_recipe/pulseslug
 	name = "Pulse Slug Shell"
 	result = /obj/item/ammo_casing/shotgun/pulseslug
@@ -195,7 +196,7 @@
 	tools = list(/obj/item/weapon/screwdriver)
 	time = 5
 	category = CAT_AMMO
-
+*/
 /datum/table_recipe/dragonsbreath
 	name = "Dragonsbreath Shell"
 	result = /obj/item/ammo_casing/shotgun/incendiary/dragonsbreath
@@ -216,7 +217,7 @@
 	time = 5
 	category = CAT_AMMO
 
-/datum/table_recipe/ionslug
+/*/datum/table_recipe/ionslug
 	name = "Ion Scatter Shell"
 	result = /obj/item/ammo_casing/shotgun/ion
 	reqs = list(/obj/item/ammo_casing/shotgun/techshell = 1,
@@ -225,6 +226,7 @@
 	tools = list(/obj/item/weapon/screwdriver)
 	time = 5
 	category = CAT_AMMO
+	*/
 
 /datum/table_recipe/improvisedslug
 	name = "Improvised Shotgun Shell"
@@ -232,7 +234,7 @@
 	reqs = list(/obj/item/weapon/grenade/chem_grenade = 1,
 				/obj/item/stack/sheet/metal = 1,
 				/obj/item/stack/cable_coil = 1,
-				/datum/reagent/fuel = 10)
+				/datum/reagent/fuel = 5)
 	tools = list(/obj/item/weapon/screwdriver)
 	time = 5
 	category = CAT_AMMO
@@ -246,7 +248,43 @@
 	time = 5
 	category = CAT_AMMO
 
-/datum/table_recipe/laserslug
+/datum/table_recipe/c10mm
+	name = "10 mm bullet"
+	result = /obj/item/ammo_casing/c10mm
+	reqs = list(/obj/item/ammo_casing/c10mm = 1,
+				/datum/reagent/blackpowder = 5)
+	tools = list(/obj/item/weapon/screwdriver)
+	time = 5
+	category = CAT_AMMO
+
+/datum/table_recipe/c45
+	name = "c45 bullet"
+	result = /obj/item/ammo_casing/c45
+	reqs = list(/obj/item/ammo_casing/c45 = 1,
+				/datum/reagent/blackpowder = 4)
+	tools = list(/obj/item/weapon/screwdriver)
+	time = 6
+	category = CAT_AMMO
+
+/datum/table_recipe/buckshot
+	name = "buckshot shell"
+	result = /obj/item/ammo_casing/shotgun/buckshot
+	reqs = list(/obj/item/ammo_casing/shotgun/buckshot = 1,
+				/datum/reagent/blackpowder = 10)
+	tools = list(/obj/item/weapon/screwdriver)
+	time = 5
+	category = CAT_AMMO
+
+/datum/table_recipe/a556
+	name = "a556 bullet"
+	result = /obj/item/ammo_casing/a556
+	reqs = list(/obj/item/ammo_casing/a556 = 1,
+				/datum/reagent/blackpowder = 7)
+	tools = list(/obj/item/weapon/wrench, /obj/item/weapon/screwdriver)
+	time = 8
+	category = CAT_AMMO
+
+/*/datum/table_recipe/laserslug
 	name = "Laser Slug Shell"
 	result = /obj/item/ammo_casing/shotgun/laserslug
 	reqs = list(/obj/item/ammo_casing/shotgun/techshell = 1,
@@ -255,7 +293,7 @@
 	tools = list(/obj/item/weapon/screwdriver)
 	time = 5
 	category = CAT_AMMO
-
+*/
 /datum/table_recipe/ishotgun
 	name = "Improvised Shotgun"
 	result = /obj/item/weapon/gun/projectile/revolver/doublebarrel/improvised
@@ -276,7 +314,7 @@
 	tools = list(/obj/item/weapon/weldingtool)
 	time = 100
 	category = CAT_WEAPON
-
+/*
 /datum/table_recipe/spooky_camera
 	name = "Camera Obscura"
 	result = /obj/item/device/camera/spooky
@@ -285,7 +323,7 @@
 				/datum/reagent/water/holywater = 10)
 	parts = list(/obj/item/device/camera = 1)
 	category = CAT_MISC
-
+*/
 /datum/table_recipe/lizardhat
 	name = "Lizard Cloche Hat"
 	result = /obj/item/clothing/head/lizard

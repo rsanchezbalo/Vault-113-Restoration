@@ -183,7 +183,7 @@
 	if(!table_contents.len)
 		return
 	user.face_atom(src)
-	var/dat = "<h3>Crafting menu</h3>"
+	var/dat = "<h3>Black Powder</h3>"
 	if(busy)
 		dat += "<div class='statusDisplay'>"
 		dat += "Crafting in progress...</div>"
