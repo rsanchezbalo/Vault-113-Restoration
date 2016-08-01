@@ -404,12 +404,14 @@
 
 /obj/item/weapon/gun/AltClick(mob/user)
 	..()
+	if(!in_range(src, user))
+		user << "<span class='warning'>You are too far away!</span>"
+		return
 	if(user.incapacitated())
 		user << "<span class='warning'>You can't do that right now!</span>"
 		return
 	if(unique_reskin && !reskinned && loc == user)
 		reskin_gun(user)
-
 		return
 	if(safetyposition == 1)
 		user << "<span class='warning'>You flip the safety to FIRE.</span>"
