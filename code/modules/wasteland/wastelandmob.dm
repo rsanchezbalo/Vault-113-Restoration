@@ -61,8 +61,9 @@
 	response_help = "pets"
 	response_disarm = "gently pushes aside"
 	response_harm = "hits"
-	maxHealth = 80
-	health = 80
+	butcher_results = list(/obj/item/weapon/reagent_containers/food/snacks/moleratmeat = 1)
+	maxHealth = 50
+	health = 50
 	faction = list("wmob")
 	melee_damage_lower = 5
 	melee_damage_upper = 10
@@ -82,9 +83,10 @@
 	response_help = "pets"
 	response_disarm = "gently pushes aside"
 	response_harm = "hits"
-	maxHealth = 120
-	health = 120
-	force_threshold = 5
+	maxHealth = 60
+	health = 60
+	butcher_results = list(/obj/item/stack/sheet/hairlesshide = 1, \
+	/obj/item/weapon/reagent_containers/food/snacks/gekkonmeat = 1)
 	faction = list("wmobs")
 	melee_damage_lower = 10
 	melee_damage_upper = 15
@@ -106,6 +108,7 @@
 	response_help = "touches"
 	response_disarm = "tries to push aside"
 	response_harm = "hits"
+	butcher_results = list(/obj/item/weapon/reagent_containers/food/snacks/deathmeat = 5)
 	maxHealth = 500
 	health = 500
 	force_threshold = 20

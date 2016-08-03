@@ -39,6 +39,15 @@
 	time = 30
 	category = CAT_WEAPON
 
+/datum/table_recipe/leatherarmor
+	name = "leather armor"
+	result = /obj/item/clothing/suit/armor/f13/leatherarmor
+	reqs = list(/obj/item/stack/sheet/hairlesshide = 2,
+				/obj/item/stack/cable_coil = 5)
+	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
+	time = 120
+	category = CAT_WEAPON
+
 /datum/table_recipe/lance2
 	name = "explosive lance (C4)"
 	result = /obj/item/weapon/twohanded/spear

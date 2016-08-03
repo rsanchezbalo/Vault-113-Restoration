@@ -14,8 +14,8 @@
 	emote_taunt = list("gnashes")
 	taunt_chance = 30
 	speed = 0
-	maxHealth = 120
-	health = 120
+	maxHealth = 60
+	health = 60
 
 	harm_intent_damage = 10
 	melee_damage_lower = 20
