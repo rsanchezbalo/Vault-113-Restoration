@@ -123,7 +123,7 @@ Warden
 Detective
 */
 /datum/job/detective
-	title = "Detective"
+	title = "Ranger"
 	flag = DETECTIVE
 	department_head = list("Head of Security")
 	department_flag = ENGSEC
@@ -140,34 +140,18 @@ Detective
 	minimal_access = list(access_sec_doors, access_forensics_lockers, access_morgue, access_maint_tunnels, access_court, access_weapons)
 
 /datum/outfit/job/detective
-	name = "Detective"
-
-	gloves = /obj/item/clothing/gloves/pda/detective
-	ears = /obj/item/device/radio/headset/headset_sec
-	uniform = /obj/item/clothing/under/f13/vault/v13
-	shoes = /obj/item/clothing/shoes/sneakers/brown
-	suit = /obj/item/clothing/suit/det_suit
-	//gloves = /obj/item/clothing/gloves/color/black
-	head = /obj/item/clothing/head/det_hat
-	l_pocket = /obj/item/toy/crayon/white
-	r_pocket = /obj/item/weapon/lighter
-	backpack_contents = list(/obj/item/weapon/storage/box/evidence=1,\
-		/obj/item/device/detective_scanner=1,\
+	name = "Ranger"
+	gloves = /obj/item/clothing/gloves/combat
+	uniform = /obj/item/clothing/under/f13/cowboyb
+	shoes = /obj/item/clothing/shoes/combat/swat
+	suit = /obj/item/clothing/suit/armor/f13/rangercombat
+	head = /obj/item/clothing/head/helmet/f13/rangercombat
+	glasses = /obj/item/clothing/glasses/night
+	suit_store = /obj/item/weapon/gun/projectile/automatic/assault_rifle
+	backpack_contents = list(/obj/item/weapon/gun/projectile/automatic/pistol/deagle = 1, \
+		/obj/item/weapon/restraints/handcuffs=2, \
 		/obj/item/weapon/melee/classic_baton/telescopic=1)
-	mask = /obj/item/clothing/mask/cigarette
-
-/datum/outfit/job/detective/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
-	..()
-	var/obj/item/clothing/mask/cigarette/cig = H.wear_mask
-	cig.light("")
-
-	if(visualsOnly)
-		return
-
-	var/obj/item/weapon/implant/loyalty/L = new/obj/item/weapon/implant/loyalty(H)
-	L.imp_in = H
-	L.implanted = 1
-	H.sec_hud_set_implants()
+	mask = /obj/item/clothing/mask/gas/sechailer
 /*
 Security Officer
 */

@@ -96,6 +96,13 @@ var/global/list/datum/stack_recipe/xeno_recipes = list ( \
 	icon_state = "sheet-hairlesshide"
 	origin_tech = null
 
+/obj/item/stack/sheet/gekkonhide
+	name = "gekkon skin"
+	desc = "This is gekkon hide."
+	singular_name = "gekkon skin piece"
+	icon_state = "sheet-gekkonhide"
+	origin_tech = null
+
 /obj/item/stack/sheet/wetleather
 	name = "wet leather"
 	desc = "This leather has been cleaned but still needs to be dried."

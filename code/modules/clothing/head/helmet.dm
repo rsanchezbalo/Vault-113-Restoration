@@ -265,7 +265,18 @@
 	strip_delay = 50
 	burn_state = FIRE_PROOF
 
-
+/obj/item/clothing/head/helmet/f13/rangercombat
+	name = "ranger combat helmet"
+	desc = "An old combat helmet, out of use around the time of the war."
+	icon_state = "ranger"
+	item_state = "ranger"
+	armor = list(melee = 55, bullet = 50, laser = 35,energy = 25, bomb = 10, bio = 0, rad = 90)
+	flags_inv = HIDEEARS
+	put_on_delay = 10
+	strip_delay = 50
+	burn_state = FIRE_PROOF
+	//darkness_view = 8
+	//invis_view = SEE_INVISIBLE_MINIMUM
 //Power armor helmets
 
 /obj/item/clothing/head/helmet/f13/advhelmet
