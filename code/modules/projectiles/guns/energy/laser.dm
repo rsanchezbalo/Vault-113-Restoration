@@ -9,6 +9,7 @@
 	ammo_type = list(/obj/item/ammo_casing/energy/lasergun)
 	ammo_x_offset = 1
 	shaded_charge = 1
+	cell_type = /obj/item/weapon/stock_parts/cell/device/laser
 
 /obj/item/weapon/gun/energy/laser/practice
 	name = "laser gun"//practice laser gun
@@ -16,6 +17,7 @@
 	ammo_type = list(/obj/item/ammo_casing/energy/laser/practice)
 	clumsy_check = 0
 	needs_permit = 0
+	cell_type = /obj/item/weapon/stock_parts/cell/device/laser
 
 /obj/item/weapon/gun/energy/laser/plasma_rifle
 	name ="plasma rifle"
@@ -25,12 +27,14 @@
 	origin_tech = "combat=3;magnets=3"
 	ammo_type = list(/obj/item/ammo_casing/energy/plasmagun)
 	ammo_x_offset = 1
+	cell_type = /obj/item/weapon/stock_parts/cell/device/laser
 
 /obj/item/weapon/gun/energy/laser/retro
 	name ="retro laser gun"
 	icon_state = "retro"
 	desc = "An older model of the basic lasergun, no longer used by Nanotrasen's private security or military forces. Nevertheless, it is still quite deadly and easy to maintain, making it a favorite amongst pirates and other outlaws."
 	ammo_x_offset = 3
+	cell_type = /obj/item/weapon/stock_parts/cell/device/laser
 
 /obj/item/weapon/gun/energy/laser/captain
 	name = "antique laser gun"
@@ -41,6 +45,7 @@
 	origin_tech = null
 	ammo_x_offset = 3
 	selfcharge = 1
+	cell_type = /obj/item/weapon/stock_parts/cell/device/laser
 
 /obj/item/weapon/gun/energy/laser/captain/scattershot
 	name = "scatter shot laser rifle"
@@ -49,6 +54,7 @@
 	desc = "An industrial-grade heavy-duty laser rifle with a modified laser lense to scatter its shot into multiple smaller lasers. The inner-core can self-charge for theorically infinite use."
 	origin_tech = "combat=5;materials=4;powerstorage=4"
 	ammo_type = list(/obj/item/ammo_casing/energy/laser, /obj/item/ammo_casing/energy/laser/scatter)
+	cell_type = /obj/item/weapon/stock_parts/cell/device/laser
 
 /obj/item/weapon/gun/energy/laser/cyborg
 	can_charge = 0
@@ -65,6 +71,7 @@
 	name = "scatter laser gun"
 	desc = "A laser gun equipped with a refraction kit that spreads bolts."
 	ammo_type = list(/obj/item/ammo_casing/energy/laser, /obj/item/ammo_casing/energy/laser/scatter)
+	cell_type = /obj/item/weapon/stock_parts/cell/device/laser
 
 /obj/item/weapon/gun/energy/lasercannon
 	name = "laser cannon"
@@ -79,6 +86,7 @@
 	ammo_type = list(/obj/item/ammo_casing/energy/laser/heavy)
 	pin = null
 	ammo_x_offset = 3
+	cell_type = /obj/item/weapon/stock_parts/cell/device/laser
 
 /obj/item/weapon/gun/energy/xray
 	name = "xray laser gun"
@@ -89,6 +97,7 @@
 	ammo_type = list(/obj/item/ammo_casing/energy/xray)
 	pin = null
 	ammo_x_offset = 3
+	cell_type = /obj/item/weapon/stock_parts/cell/device/laser
 
 ////////Laser Tag////////////////////
 
