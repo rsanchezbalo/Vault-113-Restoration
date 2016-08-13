@@ -118,6 +118,7 @@
 	w_class = 3
 	attack_verb = list("attacked", "slashed", "stabbed", "sliced", "torn", "ripped", "diced", "cut")
 	block_chance = 50
+	sharpness = IS_SHARP
 
 /obj/item/weapon/claymore/suicide_act(mob/user)
 	user.visible_message("<span class='suicide'>[user] is falling on the [src.name]! It looks like \he's trying to commit suicide.</span>")
@@ -136,6 +137,7 @@
 	hitsound = 'sound/weapons/bladeslice.ogg'
 	attack_verb = list("attacked", "slashed", "stabbed", "sliced", "torn", "ripped", "diced", "cut")
 	block_chance = 50
+	sharpness = IS_SHARP
 
 //machete
 /obj/item/weapon/machete
@@ -151,6 +153,7 @@
 	hitsound = 'sound/weapons/bladeslice.ogg'
 	attack_verb = list("attacked", "slashed", "stabbed", "sliced", "torn", "ripped", "diced", "cut")
 	block_chance = 20
+	sharpness = IS_SHARP
 
 /obj/item/weapon/katana/cursed
 	slot_flags = null
@@ -334,7 +337,7 @@
 	desc = "A chainsaw that has replaced your arm."
 	icon_state = "chainsaw_on"
 	item_state = "mounted_chainsaw"
-	flags = ABSTRACT | NODROP
+	flags = ABSTRACT
 	w_class = 5.0
 	force = 21
 	throwforce = 0

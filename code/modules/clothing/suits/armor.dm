@@ -400,6 +400,36 @@
 	put_on_delay = 60
 	strip_delay = 60
 
+/obj/item/clothing/suit/armor/f13/legrecruit
+	name = "legion recruit armor"
+	desc = "Legion recruit armor is a common light armor, supplied to recruit legionaries and to recruit decanus units. Like most Legion armor, it is made from repurposed sports equipment, consisting of a football player's protective shoulder and chest pads reinforced with additional leather padding and worn over a baseball catcher's vest."
+	icon_state = "legrecruit"
+	item_state = "legrecruit"
+	body_parts_covered = CHEST|GROIN|LEGS|FEET
+	armor = list(melee = 55, bullet = 25, laser = 15, energy = 10, bomb = 40, bio = 0, rad = 0)
+	put_on_delay = 60
+	strip_delay = 60
+
+/obj/item/clothing/suit/armor/f13/legvexil
+	name = "Legion vexillarius armor"
+	desc = "The armor appears to be based off of a suit of Legion veteran armor, with the addition of circular metal plates attached to the torso, as well as a banner displaying the flag of the Legion worn on the back."
+	icon_state = "legvexil"
+	item_state = "legvexil"
+	body_parts_covered = CHEST|GROIN|LEGS|FEET
+	armor = list(melee = 60, bullet = 30, laser = 15, energy = 10, bomb = 20, bio = 0, rad = 0)
+	put_on_delay = 60
+	strip_delay = 60
+
+/obj/item/clothing/suit/armor/f13/legcenturion
+	name = "Legion centurion armor"
+	desc = "The Legion centurion armor is by far the strongest suit of armor available to Caesar's Legion. The armor is composed from other pieces of armor taken from that of the wearer's defeated opponents in combat."
+	icon_state = "legcenturion"
+	item_state = "legcenturion"
+	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+	armor = list(melee = 80, bullet = 40, laser = 35, energy = 20, bomb = 20, bio = 0, rad = 35)
+	put_on_delay = 60
+	strip_delay = 60
+
 /obj/item/clothing/suit/armor/f13/combat
 	name = "combat armor"
 	desc = "An old combat armor, out of use around the time of the war."

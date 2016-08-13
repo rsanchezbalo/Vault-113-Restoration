@@ -128,6 +128,22 @@
 	heat_protection = FEET
 	max_heat_protection_temperature = SHOES_MAX_TEMP_PROTECT
 
+/obj/item/clothing/shoes/legionleather
+	name = "legion leather boots"
+	desc = "A pair of boots worn by the Legion recruits."
+	icon_state = "legionleather"
+	item_state = "legionleather"
+	item_color = "cult"
+	armor = list(melee = 15, bullet = 10, laser = 5, energy = 0, bomb = 20, bio = 0, rad = 0)
+
+/obj/item/clothing/shoes/legionmetal
+	name = "legion metal boots"
+	desc = "A pair of boots worn by the Legion veterans."
+	icon_state = "legionmetal"
+	item_state = "legionmetal"
+	item_color = "cult"
+	armor = list(melee = 25, bullet = 20, laser = 25, energy = 10, bomb = 30, bio = 0, rad = 15)
+
 /obj/item/clothing/shoes/cult/alt
 	name = "cultist boots"
 	icon_state = "cultalt"

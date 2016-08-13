@@ -261,6 +261,55 @@
 	item_state = "combat_helmet"
 	armor = list(melee = 45, bullet = 45, laser = 15,energy = 25, bomb = 10, bio = 0, rad = 0)
 	flags_inv = HIDEEARS
+	flags = BLOCKHAIR
+	put_on_delay = 10
+	strip_delay = 50
+	burn_state = FIRE_PROOF
+
+/obj/item/clothing/head/helmet/f13/legrecruit
+	name = "legion recruit helmet"
+	desc = "It's leather legion recruit helmet."
+	icon_state = "legrecruit"
+	item_state = "legrecruit"
+	armor = list(melee = 35, bullet = 15, laser = 10,energy = 0, bomb = 30, bio = 0, rad = 0)
+	flags_inv = HIDEEARS
+	flags = BLOCKHAIR
+	put_on_delay = 10
+	strip_delay = 50
+	burn_state = FIRE_PROOF
+
+/obj/item/clothing/head/helmet/f13/legvexil
+	name = "legion vexillarius helmet"
+	desc = "It's leather legion vexillarius helmet."
+	icon_state = "legvexil"
+	item_state = "legvexil"
+	armor = list(melee = 40, bullet = 20, laser = 10,energy = 0, bomb = 30, bio = 0, rad = 0)
+	flags_inv = HIDEEARS
+	flags = BLOCKHAIR
+	put_on_delay = 10
+	strip_delay = 50
+	burn_state = FIRE_PROOF
+
+/obj/item/clothing/head/helmet/f13/legdecan
+	name = "legion decan helmet"
+	desc = "It's leather legion decan helmet."
+	icon_state = "legdecan"
+	item_state = "legdecan"
+	armor = list(melee = 45, bullet = 20, laser = 10,energy = 0, bomb = 30, bio = 0, rad = 0)
+	flags_inv = HIDEEARS
+	flags = BLOCKHAIR
+	put_on_delay = 10
+	strip_delay = 50
+	burn_state = FIRE_PROOF
+
+/obj/item/clothing/head/helmet/f13/legcenturion
+	name = "legion decan helmet"
+	desc = "It's metal legion centurion helmet."
+	icon_state = "legcenturion"
+	item_state = "legcenturion"
+	armor = list(melee = 75, bullet = 40, laser = 25,energy = 15, bomb = 40, bio = 0, rad = 50)
+	flags_inv = HIDEEARS
+	flags = BLOCKHAIR
 	put_on_delay = 10
 	strip_delay = 50
 	burn_state = FIRE_PROOF
@@ -271,7 +320,8 @@
 	icon_state = "ranger"
 	item_state = "ranger"
 	armor = list(melee = 55, bullet = 50, laser = 35,energy = 25, bomb = 10, bio = 0, rad = 90)
-	flags_inv = HIDEEARS
+	flags = HEADCOVERSEYES | HEADCOVERSMOUTH | BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 	put_on_delay = 10
 	strip_delay = 50
 	burn_state = FIRE_PROOF

@@ -129,6 +129,14 @@
 	flash_protect = 2
 	tint = 0
 
+/obj/item/clothing/glasses/sunglasses/legion
+	name = "legion military goggles"
+	desc = "Flash-resistant legion goggles."
+	icon_state = "legion"
+	item_state = "legion"
+	flash_protect = 2
+	tint = 0
+
 /obj/item/clothing/glasses/sunglasses/big
 	desc = "Strangely ancient technology used to help provide rudimentary eye cover. Larger than average enhanced shielding blocks many flashes."
 	icon_state = "bigsunglasses"

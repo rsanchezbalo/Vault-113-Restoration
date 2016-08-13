@@ -120,7 +120,7 @@ Warden
 	H.sec_hud_set_implants()
 
 /*
-Detective
+Ranger
 */
 /datum/job/detective
 	title = "Ranger"
@@ -136,8 +136,8 @@ Detective
 
 	outfit = /datum/outfit/job/detective
 
-	access = list(access_sec_doors, access_forensics_lockers, access_morgue, access_maint_tunnels, access_court, access_weapons, access_brig, access_security)
-	minimal_access = list(access_sec_doors, access_forensics_lockers, access_morgue, access_maint_tunnels, access_court, access_weapons)
+	access = list()
+	minimal_access = list()
 
 /datum/outfit/job/detective
 	name = "Ranger"
@@ -152,6 +152,175 @@ Detective
 		/obj/item/weapon/restraints/handcuffs=2, \
 		/obj/item/weapon/melee/classic_baton/telescopic=1)
 	mask = /obj/item/clothing/mask/gas/sechailer
+	/*
+Legion
+*/
+//recruit
+/datum/job/legrecruit
+	title = "Legion Recruit"
+	flag = LEGRECRUIT
+	department_head = list("Head of Security")
+	department_flag = ENGSEC
+	faction = "Station"
+	total_positions = 10
+	spawn_positions = 10
+	supervisors = "the head of security"
+	selection_color = "#ffeeee"
+	minimal_player_age = 7
+
+	outfit = /datum/outfit/job/legrecruit
+
+	access = list()
+	minimal_access = list()
+
+/datum/outfit/job/legrecruit
+	name = "Legion Recruit"
+	id = null
+	ears = null
+	belt = null
+
+/datum/outfit/job/legrecruit/pre_equip(mob/living/carbon/human/H)
+	..()
+	uniform = pick(/obj/item/clothing/under/pants/f13/caravan)
+	shoes = /obj/item/clothing/shoes/legionleather
+	gloves = /obj/item/clothing/gloves/f13/legion
+	suit = /obj/item/clothing/suit/armor/f13/legrecruit
+	head = /obj/item/clothing/head/helmet/f13/legrecruit
+	glasses = /obj/item/clothing/glasses/sunglasses/legion
+	mask = /obj/item/clothing/mask/bandana/legrecruit
+	suit_store = /obj/item/weapon/gun/projectile/shotgun/boltaction
+	back = /obj/item/weapon/storage/backpack
+	backpack = /obj/item/weapon/storage/backpack
+	satchel = /obj/item/weapon/storage/backpack/satchel_norm
+	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1, \
+	/obj/item/weapon/storage/wallet=1, \
+	/obj/item/stack/coin/coins = 1, \
+	/obj/item/weapon/machete = 1)
+
+//decan
+/datum/job/legdecan
+	title = "Legion Decan"
+	flag = LEGDECAN
+	department_head = list("Head of Security")
+	department_flag = ENGSEC
+	faction = "Station"
+	total_positions = 2
+	spawn_positions = 2
+	supervisors = "the head of security"
+	selection_color = "#ffeeee"
+	minimal_player_age = 7
+
+	outfit = /datum/outfit/job/legdecan
+
+	access = list()
+	minimal_access = list()
+
+/datum/outfit/job/legdecan
+	name = "Legion Decan"
+	id = null
+	ears = null
+	belt = null
+
+/datum/outfit/job/legdecan/pre_equip(mob/living/carbon/human/H)
+	..()
+	uniform = pick(/obj/item/clothing/under/pants/f13/caravan)
+	shoes = /obj/item/clothing/shoes/legionleather
+	gloves = /obj/item/clothing/gloves/f13/legion
+	suit = /obj/item/clothing/suit/armor/f13/legrecruit
+	head = /obj/item/clothing/head/helmet/f13/legdecan
+	glasses = /obj/item/clothing/glasses/sunglasses/legion
+	mask = /obj/item/clothing/mask/bandana/legdecan
+	suit_store = /obj/item/weapon/gun/projectile/automatic/pistol/n99
+	back = /obj/item/weapon/storage/backpack
+	backpack = /obj/item/weapon/storage/backpack
+	satchel = /obj/item/weapon/storage/backpack/satchel_norm
+	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1, \
+	/obj/item/weapon/storage/wallet=1, \
+	/obj/item/stack/coin/coins = 3, \
+	/obj/item/weapon/machete = 1)
+
+//vexillarius
+/datum/job/legvex
+	title = "Legion Vexillarius"
+	flag = LEGVEX
+	department_head = list("Head of Security")
+	department_flag = ENGSEC
+	faction = "Station"
+	total_positions = 2
+	spawn_positions = 2
+	supervisors = "the head of security"
+	selection_color = "#ffeeee"
+	minimal_player_age = 7
+
+	outfit = /datum/outfit/job/legvex
+
+	access = list()
+	minimal_access = list()
+
+/datum/outfit/job/legvex
+	name = "Legion Vexillarius"
+	id = null
+	ears = null
+	belt = null
+
+/datum/outfit/job/legvex/pre_equip(mob/living/carbon/human/H)
+	..()
+	uniform = pick(/obj/item/clothing/under/pants/f13/caravan)
+	shoes = /obj/item/clothing/shoes/legionmetal
+	gloves = /obj/item/clothing/gloves/f13/legion
+	suit = /obj/item/clothing/suit/armor/f13/legvexil
+	head = /obj/item/clothing/head/helmet/f13/legvexil
+	glasses = /obj/item/clothing/glasses/sunglasses/legion
+	suit_store = /obj/item/weapon/gun/projectile/shotgun/boltaction
+	back = /obj/item/weapon/storage/backpack
+	backpack = /obj/item/weapon/storage/backpack
+	satchel = /obj/item/weapon/storage/backpack/satchel_norm
+	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1, \
+	/obj/item/weapon/storage/wallet=1, \
+	/obj/item/stack/coin/coins = 3, \
+	/obj/item/weapon/machete = 1, \
+	/obj/item/weapon/storage/firstaid/brute=1)
+
+//centurion
+/datum/job/legcenturion
+	title = "Legion Centurion"
+	flag = LEGCENTURION
+	department_head = list("Head of Security")
+	department_flag = ENGSEC
+	faction = "Station"
+	total_positions = 1
+	spawn_positions = 1
+	supervisors = "the head of security"
+	selection_color = "#ffeeee"
+	minimal_player_age = 7
+
+	outfit = /datum/outfit/job/legcenturion
+
+	access = list()
+	minimal_access = list()
+
+/datum/outfit/job/legcenturion
+	name = "Legion Centurion"
+	id = null
+	ears = null
+	belt = null
+
+/datum/outfit/job/legcenturion/pre_equip(mob/living/carbon/human/H)
+	..()
+	uniform = pick(/obj/item/clothing/under/pants/f13/caravan)
+	shoes = /obj/item/clothing/shoes/legionmetal
+	gloves = /obj/item/clothing/gloves/f13/legion
+	suit = /obj/item/clothing/suit/armor/f13/legcenturion
+	head = /obj/item/clothing/head/helmet/f13/legcenturion
+	glasses = /obj/item/clothing/glasses/sunglasses/legion
+	suit_store = /obj/item/weapon/gun/projectile/automatic/pistol/n99
+	back = /obj/item/weapon/storage/backpack
+	backpack = /obj/item/weapon/storage/backpack
+	satchel = /obj/item/weapon/storage/backpack/satchel_norm
+	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1, \
+	/obj/item/weapon/storage/wallet=1, \
+	/obj/item/stack/coin/coins = 3, \
+	/obj/item/weapon/powergauntlet = 1)
 /*
 Security Officer
 */

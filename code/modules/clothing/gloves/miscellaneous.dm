@@ -52,3 +52,15 @@
 	put_on_delay = 40
 	cold_protection = HANDS
 	min_cold_protection_temperature = GLOVES_MIN_TEMP_PROTECT
+
+/obj/item/clothing/gloves/f13/legion
+	name = "legion gloves"
+	desc = "It's a large leather gloves worn by baseball players of the defending team which assist players in catching and fielding balls hit by a batter or thrown by a teammate."
+	icon_state = "legion"
+	item_state = "legion"
+	item_color = null
+	transfer_prints = TRUE
+	strip_delay = 20
+	put_on_delay = 40
+	cold_protection = HANDS
+	min_cold_protection_temperature = GLOVES_MIN_TEMP_PROTECT
