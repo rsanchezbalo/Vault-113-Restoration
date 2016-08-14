@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1471114949
+LAST_COMPILE_TIME: 1471167142
 DIR: _maps _maps\map_files _maps\map_files\generic _maps\map_files\TgStation code code\game code\game\jobs code\game\jobs\job code\game\objects code\game\objects\items code\game\objects\items\weapons code\modules code\modules\clothing code\modules\clothing\glasses code\modules\clothing\gloves code\modules\clothing\head code\modules\clothing\masks code\modules\clothing\shoes code\modules\clothing\suits code\modules\clothing\under icons icons\mob icons\obj icons\obj\clothing 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 510.1338
-WINDOW: _maps\map_files\TgStation\tgstation.2.1.3.dmm;code\hub.dm;_maps\map_files\generic\z5.dmm;code\modules\clothing\suits\armor.dm;code\modules\clothing\shoes\miscellaneous.dm;code\modules\clothing\head\helmet.dm;code\modules\clothing\gloves\miscellaneous.dm;code\modules\clothing\glasses\glasses.dm;code\modules\clothing\masks\miscellaneous.dm;code\game\jobs\job\security.dm;code\game\jobs\jobs.dm
+WINDOW: _maps\map_files\TgStation\tgstation.2.1.3.dmm;code\hub.dm;_maps\map_files\generic\z5.dmm
 FILE: _maps\map_files\TgStation\tgstation.2.1.3.dmm
 */
 // END_INTERNALS
