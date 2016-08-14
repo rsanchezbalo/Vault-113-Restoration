@@ -30,7 +30,8 @@ Wastelandmedic
 	back = /obj/item/weapon/storage/backpack
 	backpack = /obj/item/weapon/storage/backpack
 	satchel = /obj/item/weapon/storage/backpack/satchel_norm
-	backpack_contents = list(/obj/item/weapon/storage/firstaid/brute=1, \
+	backpack_contents = list(/obj/item/weapon/reagent_containers/pill/patch/stimpak=3, \
+	/obj/item/weapon/reagent_containers/pill/patch/radaway=2, \
 	/obj/item/weapon/storage/wallet=1, \
 	/obj/item/stack/coin/coins = 1)
 	if (prob(50))
