@@ -50,7 +50,7 @@
 /obj/item/weapon/reagent_containers/pill/patch/jet
 	name = "Jet"
 	desc = "Jet is a highly addictive drug first synthesized by Myron. It is extracted from brahmin dung fumes and administered via an inhaler."
-	list_reagents = list("stimulants" = 30, "crank" = 20)
+	list_reagents = list("stimulants" = 30, "crank" = 10)
 	icon = 'icons/obj/syringe.dmi'
 	item_state = "syringe_15"
 	icon_state = "jet"
@@ -58,7 +58,7 @@
 /obj/item/weapon/reagent_containers/pill/patch/psycho
 	name = "Psycho"
 	desc = "Psycho will increase damage resistance, allowing subjects to survive hits more easily."
-	list_reagents = list("methamphetamine" = 20, "epinephrine" = 20, "inacusiate" = 5, "oculine" = 5)
+	list_reagents = list("methamphetamine" = 10, "epinephrine" = 20, "inacusiate" = 5, "oculine" = 5)
 	icon = 'icons/obj/syringe.dmi'
 	item_state = "syringe_15"
 	icon_state = "psycho"

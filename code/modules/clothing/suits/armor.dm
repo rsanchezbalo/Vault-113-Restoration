@@ -430,6 +430,16 @@
 	put_on_delay = 60
 	strip_delay = 60
 
+/obj/item/clothing/suit/armor/f13/leglegat
+	name = "Legion legat armor"
+	desc = "The armor appears to be a full suit of heavy gauge steel and offers full body protection. It also has a cloak in excellent condition, but the armor itself bears numerous battle scars and the helmet is missing half of the left horn. The Legate's suit appears originally crafted, in contrast to other Legion armor which consists of repurposed pre-War sports equipment."
+	icon_state = "leglegat"
+	item_state = "leglegat"
+	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+	armor = list(melee = 85, bullet = 50, laser = 35, energy = 30, bomb = 30, bio = 0, rad = 45)
+	put_on_delay = 60
+	strip_delay = 60
+
 /obj/item/clothing/suit/armor/f13/combat
 	name = "combat armor"
 	desc = "An old combat armor, out of use around the time of the war."

@@ -144,6 +144,14 @@
 	item_color = "cult"
 	armor = list(melee = 25, bullet = 20, laser = 25, energy = 10, bomb = 30, bio = 0, rad = 15)
 
+/obj/item/clothing/shoes/legionlegat
+	name = "legion legat boots"
+	desc = "A pair of boots worn by the Legion legats."
+	icon_state = "legionlegat"
+	item_state = "legionlegat"
+	item_color = "cult"
+	armor = list(melee = 35, bullet = 25, laser = 30, energy = 10, bomb = 30, bio = 0, rad = 15)
+
 /obj/item/clothing/shoes/cult/alt
 	name = "cultist boots"
 	icon_state = "cultalt"

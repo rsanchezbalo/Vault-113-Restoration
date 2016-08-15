@@ -321,6 +321,47 @@ Legion
 	/obj/item/weapon/storage/wallet=1, \
 	/obj/item/stack/coin/coins = 3, \
 	/obj/item/weapon/powergauntlet = 1)
+
+//legat
+/datum/job/leglegat
+	title = "Legion Legat"
+	flag = LEGLEGAT
+	department_head = list("Head of Security")
+	department_flag = ENGSEC
+	faction = "Station"
+	total_positions = 1
+	spawn_positions = 1
+	supervisors = "the head of security"
+	selection_color = "#ffeeee"
+	minimal_player_age = 7
+
+	outfit = /datum/outfit/job/leglegat
+
+	access = list()
+	minimal_access = list()
+
+/datum/outfit/job/leglegat
+	name = "Legion Legat"
+	id = null
+	ears = null
+	belt = null
+
+/datum/outfit/job/leglegat/pre_equip(mob/living/carbon/human/H)
+	..()
+	uniform = pick(/obj/item/clothing/under/pants/f13/caravan)
+	shoes = /obj/item/clothing/shoes/legionlegat
+	gloves = /obj/item/clothing/gloves/f13/legionlegat
+	suit = /obj/item/clothing/suit/armor/f13/leglegat
+	head = /obj/item/clothing/head/helmet/f13/leglegat
+	glasses = /obj/item/clothing/glasses/sunglasses/legion
+	suit_store = /obj/item/weapon/gun/projectile/automatic/pistol/n99
+	back = /obj/item/weapon/storage/backpack
+	backpack = /obj/item/weapon/storage/backpack
+	satchel = /obj/item/weapon/storage/backpack/satchel_norm
+	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1, \
+	/obj/item/weapon/storage/wallet=1, \
+	/obj/item/stack/coin/coins = 3, \
+	/obj/item/weapon/powergauntlet = 1)
 /*
 Security Officer
 */

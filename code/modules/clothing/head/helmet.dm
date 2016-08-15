@@ -303,13 +303,25 @@
 	burn_state = FIRE_PROOF
 
 /obj/item/clothing/head/helmet/f13/legcenturion
-	name = "legion decan helmet"
+	name = "legion centurion helmet"
 	desc = "It's metal legion centurion helmet."
 	icon_state = "legcenturion"
 	item_state = "legcenturion"
 	armor = list(melee = 75, bullet = 40, laser = 25,energy = 15, bomb = 40, bio = 0, rad = 50)
 	flags_inv = HIDEEARS
 	flags = BLOCKHAIR
+	put_on_delay = 10
+	strip_delay = 50
+	burn_state = FIRE_PROOF
+
+/obj/item/clothing/head/helmet/f13/leglegat
+	name = "legion legat helmet"
+	desc = "It's metal legion legat helmet."
+	icon_state = "leglegat"
+	item_state = "leglegat"
+	armor = list(melee = 85, bullet = 50, laser = 35,energy = 25, bomb = 50, bio = 0, rad = 60)
+	flags = HEADCOVERSEYES | HEADCOVERSMOUTH | BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEFACE
 	put_on_delay = 10
 	strip_delay = 50
 	burn_state = FIRE_PROOF

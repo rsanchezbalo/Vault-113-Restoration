@@ -14,6 +14,7 @@ var/const/ROBOTICIST		=(1<<8)
 var/const/AI				=(1<<9)
 var/const/CYBORG			=(1<<10)
 var/const/LEGCENTURION		=(1<<11)
+var/const/LEGLEGAT			=(1<<12)
 
 var/const/MEDSCI			=(1<<1)
 
@@ -126,6 +127,7 @@ var/list/security_positions = list(
 	"Legion Decan",
 	"Legion Vexillarius",
 	"Legion Centurion",
+	"Legion Legat",
 	"Security Officer"
 )
 

@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1471211464
-DIR: _maps _maps\map_files _maps\map_files\generic _maps\map_files\TgStation code code\controllers code\game code\game\jobs code\game\jobs\job code\game\machinery code\game\objects code\game\objects\items code\game\objects\items\devices code\game\objects\items\devices\radio code\game\objects\items\weapons code\modules code\modules\client code\modules\clothing code\modules\clothing\glasses code\modules\clothing\gloves code\modules\clothing\head code\modules\clothing\masks code\modules\clothing\shoes code\modules\clothing\suits code\modules\clothing\under code\modules\food&drinks code\modules\food&drinks\drinks code\modules\reagents code\modules\reagents\chemistry code\modules\reagents\chemistry\reagents code\modules\reagents\reagent_containers icons icons\mob icons\obj icons\obj\clothing 
+LAST_COMPILE_TIME: 1471273120
+DIR: _maps _maps\map_files _maps\map_files\TgStation code code\game code\game\jobs code\game\jobs\job code\modules code\modules\clothing code\modules\clothing\gloves code\modules\clothing\head code\modules\clothing\shoes code\modules\clothing\suits icons icons\mob icons\obj icons\obj\clothing 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 510.1338
-WINDOW: _maps\map_files\TgStation\tgstation.2.1.3.dmm;code\hub.dm;_maps\map_files\generic\z5.dmm;code\game\jobs\job\security.dm;code\modules\reagents\reagent_containers\patch.dm;icons\obj\syringe.dmi;code\modules\reagents\chemistry\reagents\drug_reagents.dm;code\modules\reagents\chemistry\holder.dm;code\modules\reagents\chemistry\reagents\medicine_reagents.dm
-FILE: code\modules\reagents\reagent_containers\patch.dm
+WINDOW: _maps\map_files\TgStation\tgstation.2.1.3.dmm;code\hub.dm;_maps\map_files\generic\z5.dmm;code\game\jobs\job\security.dm;code\modules\reagents\reagent_containers\patch.dm;icons\obj\clothing\suits.dmi;code\modules\clothing\shoes\miscellaneous.dm;code\modules\clothing\head\helmet.dm;code\modules\clothing\suits\armor.dm;code\game\jobs\jobs.dm
+FILE: _maps\map_files\TgStation\tgstation.2.1.3.dmm
 */
 // END_INTERNALS
