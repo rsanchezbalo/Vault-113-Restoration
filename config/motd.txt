@@ -1,17 +1,11 @@
 <h1>Bienvenido a Fallout 13</h1>
-
-<b>Beware: This is a Spanish server, enter at your own risk.</b>
-
-<p>No olvides unirte a nuestro <a href="https://discordapp.com/invite/HgugjxV">Canal de Discord</a> </p>
-
-<p>Normas:<br>
+<b>Beware: This is a Spanish server, enter at your own risk.</b><br>
+No olvides unirte a nuestro <a href="https://discordapp.com/invite/HgugjxV">Canal de Discord</a>
+<p>
+Normas:<br>
 &nbsp;&nbsp;&nbsp;Ajustate al rol de tu personaje.<br>
 &nbsp;&nbsp;&nbsp;Procura rolear los enfrentamientos, mejor hablar/amenazar antes que disparar.<br>
 &nbsp;&nbsp;&nbsp;No mates sin motivo.</p>
-
 <b> El respawn esta desactivado! </b> <br>
 Se consecuente con tus acciones/decisiones. <br>
-<br>
-
-Tienes alguna queja, lloro o rabieta que debamos saber?  <a href="http://pngwebicons.com/upload/recycle_bin_png9120.png">Click aqui</a>
-
+Si tienes alguna queja, lloro o rabieta que debamos saber:  <a href="http://pngwebicons.com/upload/recycle_bin_png9120.png">Click aqui</a>
