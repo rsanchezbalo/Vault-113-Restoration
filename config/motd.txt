@@ -1,9 +1,17 @@
-<!-- Most valid html will work in here, excluding images. -->
+<h1>Bienvenido a Fallout 13</h1>
 
-<h1>Welcome to Fallout 13</h1>
+<b>Beware: This is a Spanish server, enter at your own risk.</b>
 
-<i><b>The development is on early Alpha stage, so don't expect the full size wasteland or lots of other post-nuclear miracles you dream of.
-More info at our <a href="http://forum.ss13.ru/index.php?showtopic=15015&st=0">devblog</a> and <a href="http://forum.ss13.ru/index.php?showtopic=15035">site</a></b></i> .
+<p>No olvides unirte a nuestro <a href="https://discordapp.com/invite/HgugjxV">Canal de Discord</a> </p>
 
-<i>The server is running a <a href="https://github.com/PahomLancer/Vault-113-Restoration.">Fallout 13 Git build</a>, based off /tg/ Station 13.</i>
-<i>Enjoy the results of our work, and be sure to support us.</i>
+<p>Normas:<br>
+&nbsp;&nbsp;&nbsp;Ajustate al rol de tu personaje.<br>
+&nbsp;&nbsp;&nbsp;Procura rolear los enfrentamientos, mejor hablar/amenazar antes que disparar.<br>
+&nbsp;&nbsp;&nbsp;No mates sin motivo.</p>
+
+<b> El respawn esta desactivado! </b> <br>
+Se consecuente con tus acciones/decisiones. <br>
+<br>
+
+Tienes alguna queja, lloro o rabieta que debamos saber?  <a href="http://pngwebicons.com/upload/recycle_bin_png9120.png">Click aqui</a>
+
