@@ -444,7 +444,7 @@
 "aiB" = (/obj/structure/closet/wardrobe/white/medical,/turf/simulated/floor/engine/house,/area/space)
 "aiC" = (/turf/simulated/floor/engine/house,/area/space)
 "aiD" = (/obj/machinery/light/small{dir = 1},/turf/simulated/floor/engine/house,/area/space)
-"aiE" = (/obj/effect/decal/clock/oldactive{step_y = 30},/turf/simulated/floor/engine/house,/area/space)
+"aiE" = (/obj/effect/decal/clock/oldactive,/turf/simulated/floor/engine/house,/area/space)
 "aiF" = (/turf/simulated/floor/engine/house{icon_state = "housewood3"},/area/space)
 "aiG" = (/obj/structure/table/wood,/obj/item/stack/sheet/mineral/wood{amount = 35},/turf/simulated/floor/engine/house,/area/space)
 "aiH" = (/turf/simulated/floor/plating/asteroid{tag = "icon-wasteland32"; icon_state = "wasteland32"},/area/awaymission)
