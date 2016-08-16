@@ -36,11 +36,11 @@ Regulator
 	satchel = /obj/item/weapon/storage/backpack/satchel_norm
 	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1, \
 	/obj/item/weapon/storage/wallet=1, \
-	/obj/item/stack/coin/coins = 1)
+	/obj/item/stack/coin/coins = 1, \
+	/obj/item/ammo_box/magazine/internal/boltaction = 1)
 
 	if (prob(50))
 		glasses = /obj/item/clothing/glasses/sunglasses
 	if (prob(80))
 		l_hand = pick(/obj/item/weapon/gun/projectile/shotgun,\
 			/obj/item/weapon/melee/classic_baton)
-

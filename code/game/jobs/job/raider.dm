@@ -31,11 +31,11 @@ Raider
 		/obj/item/clothing/suit/armor/f13/bmetalarmor,\
 		/obj/item/clothing/suit/armor/f13/yankee)
 	head = /obj/item/clothing/head/helmet/f13/supaflyhelmet
-	suit_store = /obj/item/weapon/gun/projectile/revolver/doublebarrel/improvised
 	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1,\
 	/obj/item/weapon/pipe=1, \
 	/obj/item/weapon/storage/wallet=1, \
-	/obj/item/stack/coin/coins = 2)
+	/obj/item/stack/coin/coins = 2, \
+	/obj/item/device/flashlight/seclite)
 	ears = /obj/item/clothing/ears/raider_mark
 	back = /obj/item/weapon/storage/backpack
 	backpack = /obj/item/weapon/storage/backpack
